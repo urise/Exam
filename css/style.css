@@ -39,6 +39,7 @@ table.puzzleTable tbody tr th
 {
     display: table-cell;
     border: 1px solid #ddd;
+    width: 220px;
 }
 
 table.puzzleTable tbody tr th {
@@ -52,8 +53,17 @@ table.puzzleTable tbody tr th {
 }
 
 ol.dragList {
+    padding: 0px;
     min-height: 50px;
     list-style-position: inside;   
+}
+
+ol.dragList li {
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    font-size: 11px;
+    cursor: move;
 }
 
 ul.lowerDragList {
@@ -66,4 +76,9 @@ ul.lowerDragList li {
   float: left;
   color: white;
   background-color: #5bc0de;
+}
+
+.rightPosition {
+  color: white !important;
+  background-color: #5cb85c;
 }
