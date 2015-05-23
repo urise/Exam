@@ -77,9 +77,18 @@ function drop(ev) {
     ev.preventDefault();
     var id = ev.dataTransfer.getData("id");
     var li = document.getElementById(id);
-    var list = ev.target.nodeName === "LI" ? ev.target.parentNode : ev.target;
-    list.appendChild(li);
-    estimatePuzzleOl(list);
+    var ol = ev.target.nodeName === "LI" ? ev.target.parentNode : ev.target;
+    if (ev.target.nodeName === "LI") {
+        var nextSibling = ev.target.nextSibling;
+        if (nextSibling) 
+            ol.insertBefore(li, ev.target);
+        else
+            ol.appendChild(li);
+    }
+    else {
+        ol.appendChild(li);
+    }
+    estimatePuzzleOl(ol);
     
     var listFromId = ev.dataTransfer.getData("parentId");
     if (listFromId !== "itemList") {
