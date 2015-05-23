@@ -2,9 +2,12 @@
 <head>
     <title>PMP Exam Puzzle</title>
     <link rel="stylesheet" href="css/style.css"/>
+	<!--<script type="text/javascript" src="assets/jquery-2.1.4.js"></script>-->
+	<script type="text/javascript" src="js/data.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 
-<body>
+<body onload="loadData()">
     <h1>PMP Exam Puzzle</h1>
     <div class="width95 divTable">
        <table id="mainTable" class="width100 puzzleTable">
@@ -17,8 +20,5 @@
         <ul id="itemList" class="lowerDragList">
         </ul>
     </div>
-	<script type="text/javascript" src="assets/jquery-2.1.4.js"></script>
-	<script type="text/javascript" src="js/data.js"></script>
-	<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>

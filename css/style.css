@@ -82,3 +82,8 @@ ul.lowerDragList li {
   color: white !important;
   background-color: #5cb85c;
 }
+
+.wrongPosition {
+  color: white !important;
+  background-color: #c9302c;
+}

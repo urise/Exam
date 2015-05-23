@@ -2,7 +2,9 @@ function loadTableHeader(table) {
 	var row = table.insertRow(0);
 	row.insertCell(0);
 	for (var i = 0; i < window.examData.columns.length; i++) {
-		row.innerHTML += "<th>" + window.examData.columns[i].title + "</th>";
+        var th = document.createElement("th");
+        th.appendChild(document.createTextNode(window.examData.columns[i].title));
+        row.appendChild(th);
 	}
 }
 
@@ -12,6 +14,7 @@ function loadRows(table) {
 		row.innerHTML = "<th>" + window.examData.rows[i].title + "</th>";
 		for (var j = 0; j < window.examData.columns.length; j++) {
             var ol = document.createElement("ol");
+            ol.setAttribute("id", getOlId(j, i));
             ol.classList.add("dragList");
             ol.setAttribute("ondragover", "allowDrop(event)");
             ol.setAttribute("ondrop", "drop(event)");
@@ -21,14 +24,22 @@ function loadRows(table) {
 	}
 }
 
+function getOlId(col, row) {
+    return "ol" + col + "_" + row;
+}
+
 function loadItems() {
 	var ul = document.getElementById("itemList");
 	for (var i = 0; i < window.examData.items.length; i++) {
+        var item = window.examData.items[i];
 		var li = document.createElement("li");
-		li.appendChild(document.createTextNode(window.examData.items[i].title));
+		li.appendChild(document.createTextNode(item.title));
 		li.setAttribute("draggable", "true");
         li.setAttribute("ondragstart", "drag(event)");
         li.setAttribute("id", "item" + i);
+        li.setAttribute("data-col", item.col);
+        li.setAttribute("data-row", item.row);
+        li.setAttribute("data-order", item.order); 
 		ul.appendChild(li);
 	}
 }
@@ -53,8 +64,15 @@ function drop(ev) {
     var id = ev.dataTransfer.getData("id");
     var li = document.getElementById(id);
     var list = ev.target.nodeName === "LI" ? ev.target.parentNode : ev.target;
+    var expectedOlId = getOlId(li.getAttribute("data-col"), li.getAttribute("data-row"));
     list.appendChild(li);
-    li.classList.add("rightPosition");
+
+    if (expectedOlId === list.id) {
+        li.classList.remove("wrongPosition");
+        li.classList.add("rightPosition");
+    } else {
+        li.classList.remove("rightPosition");
+        li.classList.add("wrongPosition"); 
+    }
 }
 
-loadData();
