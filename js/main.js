@@ -33,6 +33,10 @@ function getOlId(col, row) {
     return "ol" + col + "_" + row;
 }
 
+function getExpectedOlId(li) {
+    return getOlId(li.getAttribute("data-col"), li.getAttribute("data-row"));
+}
+
 function loadItems() {
 	var ul = document.getElementById("itemList");
 	for (var i = 0; i < window.examData.items.length; i++) {
@@ -73,16 +77,20 @@ function drop(ev) {
     var id = ev.dataTransfer.getData("id");
     var li = document.getElementById(id);
     var list = ev.target.nodeName === "LI" ? ev.target.parentNode : ev.target;
-    var expectedOlId = getOlId(li.getAttribute("data-col"), li.getAttribute("data-row"));
+    var expectedOlId = getExpectedOlId(li);
     list.appendChild(li);
 
     if (expectedOlId === list.id) {
-        li.classList.remove("wrongPosition");
-        li.classList.add("rightPosition");
+        setRightPosition(li);        
     } else {
         li.classList.remove("rightPosition");
         li.classList.add("wrongPosition"); 
     }
+}
+
+function setRightPosition(li) {
+    li.classList.remove("wrongPosition");
+    li.classList.add("rightPosition");
 }
 
 function clearPuzzle() {
@@ -102,4 +110,22 @@ function reset() {
     clearPuzzle();
     clearLowerList();
     loadItems();
+}
+
+function showCorrect() {
+    clearLowerList();
+    var lowerList = document.getElementById("itemList");
+
+	for (var i = 0; i < window.examData.items.length; i++) {
+        var li = getLiByItem(window.examData.items[i], i);
+        var olId = getExpectedOlId(li);
+        var ol = document.getElementById(olId);
+        if (ol) {
+            setRightPosition(li);
+            ol.appendChild(li);
+        } else
+            lowerList.appendChild(li);
+
+	}
+
 }
