@@ -2,26 +2,31 @@ function loadTableHeader(table) {
 	var row = table.insertRow(0);
 	row.insertCell(0);
 	for (var i = 0; i < window.examData.columns.length; i++) {
-        var th = document.createElement("th");
-        th.appendChild(document.createTextNode(window.examData.columns[i].title));
-        row.appendChild(th);
+        row.appendChild(getTh(window.examData.columns[i].title));
 	}
 }
 
 function loadRows(table) {
 	for (var i = 0; i < window.examData.rows.length; i++) {
 		var row = table.insertRow(i + 1);
-		row.innerHTML = "<th>" + window.examData.rows[i].title + "</th>";
+        row.appendChild(getTh(window.examData.rows[i].title));
+
 		for (var j = 0; j < window.examData.columns.length; j++) {
             var ol = document.createElement("ol");
             ol.setAttribute("id", getOlId(j, i));
-            ol.classList.add("dragList");
+            ol.classList.add("puzzleOl");
             ol.setAttribute("ondragover", "allowDrop(event)");
             ol.setAttribute("ondrop", "drop(event)");
             var td = row.insertCell(j + 1);
             td.appendChild(ol);
 		}
 	}
+}
+
+function getTh(text) {
+    var th = document.createElement("th");
+    th.appendChild(document.createTextNode(text));
+    return th;
 }
 
 function getOlId(col, row) {
@@ -31,17 +36,21 @@ function getOlId(col, row) {
 function loadItems() {
 	var ul = document.getElementById("itemList");
 	for (var i = 0; i < window.examData.items.length; i++) {
-        var item = window.examData.items[i];
-		var li = document.createElement("li");
-		li.appendChild(document.createTextNode(item.title));
-		li.setAttribute("draggable", "true");
-        li.setAttribute("ondragstart", "drag(event)");
-        li.setAttribute("id", "item" + i);
-        li.setAttribute("data-col", item.col);
-        li.setAttribute("data-row", item.row);
-        li.setAttribute("data-order", item.order); 
+        var li = getLiByItem(window.examData.items[i], i);
 		ul.appendChild(li);
 	}
+}
+
+function getLiByItem(item, index) {
+    var li = document.createElement("li");
+    li.appendChild(document.createTextNode(item.title));
+    li.setAttribute("draggable", "true");
+    li.setAttribute("ondragstart", "drag(event)");
+    li.setAttribute("id", "item" + index);
+    li.setAttribute("data-col", item.col);
+    li.setAttribute("data-row", item.row);
+    li.setAttribute("data-order", item.order); 
+    return li;
 }
 
 function loadData() {
@@ -76,3 +85,21 @@ function drop(ev) {
     }
 }
 
+function clearPuzzle() {
+    var ols = document.getElementsByClassName("puzzleOl");
+    for (var i = 0; i < ols.length; i++) {
+        var ol = ols[i];
+        ol.innerHTML = "";
+    }
+}
+
+function clearLowerList() {
+    var ul = document.getElementById("itemList");
+    ul.innerHTML = "";
+}
+
+function reset() {
+    clearPuzzle();
+    clearLowerList();
+    loadItems();
+}

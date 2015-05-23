@@ -52,13 +52,13 @@ table.puzzleTable tbody tr th {
     width: 220px;
 }
 
-ol.dragList {
+ol.puzzleOl {
     padding: 0px;
     min-height: 50px;
     list-style-position: inside;   
 }
 
-ol.dragList li {
+ol.puzzleOl li {
     padding: 0;
     width: 100%;
     margin: 0;
@@ -71,19 +71,41 @@ ul.lowerDragList {
 }
 
 ul.lowerDragList li {
-  margin: 2px;
-  padding: 2px;
-  float: left;
-  color: white;
-  background-color: #5bc0de;
+    margin: 2px;
+    padding: 2px;
+    float: left;
+    color: white;
+    background-color: #5bc0de;
 }
 
 .rightPosition {
-  color: white !important;
-  background-color: #5cb85c;
+    color: white !important;
+    background-color: #5cb85c;
 }
 
 .wrongPosition {
-  color: white !important;
-  background-color: #c9302c;
+    color: white !important;
+    background-color: #c9302c;
+}
+
+.btn {
+    color: white;
+    text-shadow: none;
+    margin: 6px;
+    min-height: 30px;
+    padding: 6px 8px 6px 8px;
+}
+
+.yellow { 
+    background-color: #ffb848;
+}
+
+.green {
+    background-color: #35aa47;
+}
+
+.lowerBlock {
+    margin: 4px;
+    padding-top: 20px;
+    clear: both; 
 }
