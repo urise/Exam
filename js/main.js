@@ -39,10 +39,13 @@ function getExpectedOlId(li) {
 
 function loadItems() {
 	var ul = document.getElementById("itemList");
-	for (var i = 0; i < window.examData.items.length; i++) {
-        var li = getLiByItem(window.examData.items[i], i);
+    var items = window.examData.items.slice(0);
+    while (items.length > 0) {
+        var index = Math.floor((Math.random() * items.length));
+        var li = getLiByItem(items[index], index);
 		ul.appendChild(li);
-	}
+        items.splice(index, 1);
+    }
 }
 
 function getLiByItem(item, index) {
