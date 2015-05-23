@@ -88,6 +88,11 @@ ul.lowerDragList li {
     background-color: #c9302c;
 }
 
+.wrongOrderPosition {
+    color: white !important;
+    background-color: #ec971f;
+}
+
 .btn {
     color: white;
     text-shadow: none;
