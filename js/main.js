@@ -40,9 +40,10 @@ function getExpectedOlId(li) {
 function loadItems() {
 	var ul = document.getElementById("itemList");
     var items = window.examData.items.slice(0);
+	var orderNumber = 0;
     while (items.length > 0) {
         var index = Math.floor((Math.random() * items.length));
-        var li = getLiByItem(items[index], index);
+        var li = getLiByItem(items[index], orderNumber++);
 		ul.appendChild(li);
         items.splice(index, 1);
     }
