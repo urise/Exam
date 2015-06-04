@@ -114,3 +114,20 @@ ul.lowerDragList li {
     padding-top: 20px;
     clear: both; 
 }
+
+#divQuestion {
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    margin-left: -300px;
+    border: 2px solid black;
+    background-color: #f3f3f3;
+    padding: 8px;
+    text-align: left;
+}
+
+#divQuestion ul {
+    list-style: none;
+}
