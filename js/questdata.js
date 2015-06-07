@@ -1,4 +1,4 @@
-window.questData = 
+﻿window.questData = 
     {
         title: "Тест по арифметике",
         questions: 
@@ -7,9 +7,9 @@ window.questData =
                     answers: 
                         [
                             { answer: "Шестьдесят семь" },
-                            { answer: "Как-то до хуя" },
-                            { answer: "Та ну на хуй такие вопросы" },
-                            { answer: "Точно не десять", correct = true }
+                            { answer: "Да че-то много" },
+                            { answer: "Ну на хуй такие вопросы" },
+                            { answer: "Точно не десять", correct: true }
                         ]
                 },
                 {   question: "Зачем нужна цифра 8?",
@@ -19,7 +19,7 @@ window.questData =
                             { answer: "Она радует людей" },
                             { answer: "Её можно курить" },
                             { answer: "Ну должна же быть такая цифра" },
-                            { answer: "Я наркотики не употребляю", correct = true }
+                            { answer: "Я наркотики не употребляю", correct: true }
                         ] 
                 },
                 {   question: "В киевском зоопарке было 3 ёжика, а стало 4. Ваши мысли?",
@@ -27,7 +27,7 @@ window.questData =
                         [
                             { answer: "Это какая-то пичаль" },
                             { answer: "Директора зоопарка в президенты" },
-                            { answer: "Слава Украине!", correct = true },
+                            { answer: "Слава Украине!", correct: true },
                             { answer: "А как же лошадка?" },
                         ] 
                 }

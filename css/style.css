@@ -131,3 +131,21 @@ ul.lowerDragList li {
 #divQuestion ul {
     list-style: none;
 }
+
+.invisible {
+    display: none;
+}
+
+#tblResult {
+    border: 1px solid black;
+}
+
+.rightAnswer {
+    color: white !important;
+    background-color: #35aa47;
+}
+
+.wrongAnswer {
+    color: white !important;
+    background-color: #ec971f;
+}
