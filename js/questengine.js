@@ -3,7 +3,9 @@ function loadData() {
     randomizeQuestions();
     window.questResults = new Array(window.questData.questions.length);
     showCurrentQuestion();
+}
 
+function centerQuestion() {
     var div = document.getElementById("divQuestion");
     div.style.marginTop = -div.clientHeight / 2;
 }
@@ -24,6 +26,7 @@ function showQuestion(question) {
     for (var i = 0; i < question.answers.length; i++) {
         var radio = document.createElement("input");
         radio.setAttribute("type", "radio");
+        radio.setAttribute("name", "answers");
         radio.setAttribute("value", i);
         radio.setAttribute("onclick", "answerClick(event)");
         var li = document.createElement("li");
@@ -34,6 +37,10 @@ function showQuestion(question) {
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = currentQuestionIsLast() ? "Finish" : "Next";
     btnNext.disabled = true;
+
+    var span = document.getElementById("questionNumber");
+    span.innerHTML = (window.currentQuestionIndex + 1).toString() + "/" + window.questData.questions.length;
+    centerQuestion();
 }
 
 function showQuestionWithAnswer(question, answerIndex) {
@@ -45,15 +52,16 @@ function showQuestionWithAnswer(question, answerIndex) {
         var li = document.createElement("li");
         li.appendChild(document.createTextNode(question.answers[i].answer));
         if (question.answers[i].correct)
-            li.classList.add("green");
+            li.classList.add("rightAnswer");
         else if (i == answerIndex)
-            li.classList.add("yellow");
+            li.classList.add("wrongAnswer");
 
         ulAnswers.appendChild(li);
     }
 
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = "Close";
+    centerQuestion();
 }
 
 function clickNext() {

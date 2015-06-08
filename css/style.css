@@ -156,6 +156,10 @@ ul.lowerDragList li {
 }
 
 .wrongAnswer {
-    color: white !important;
-    background-color: #c9302c;
+    color: black !important;
+    background-color: #ffb848;
+}
+
+#questionNumber {
+    float: right;
 }
