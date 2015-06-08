@@ -1,5 +1,6 @@
 function loadData() {
     window.currentQuestionIndex = 0;
+    randomizeQuestions();
     window.questResults = new Array(window.questData.questions.length);
     showCurrentQuestion();
 
@@ -50,7 +51,6 @@ function showQuestionWithAnswer(question, answerIndex) {
 
         ulAnswers.appendChild(li);
     }
-    ulAnswers.style.removeProperty("listStyle");
 
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = "Close";
@@ -111,4 +111,29 @@ function onResultClick(ev) {
     var index = td.getAttribute("data-index");
     var question = window.questData.questions[index];
     showQuestionWithAnswer(question, questResults[index]);
+}
+
+function getRandomInteger(limit) {
+    return Math.floor(Math.random() * limit);
+}
+
+function randomizeAnswers(question) {
+    var newAnswers = [];
+    while (question.answers.length > 0) {
+        var randomIndex = getRandomInteger(question.answers.length);
+        newAnswers.push(question.answers[randomIndex]);
+        question.answers.splice(randomIndex, 1);
+    }
+    question.answers = newAnswers;
+}
+
+function randomizeQuestions() {
+    var newQuestData = { title: window.questData.title, questions: [] };
+    while (window.questData.questions.length > 0) {
+        var randomIndex = getRandomInteger(window.questData.questions.length);
+        randomizeAnswers(window.questData.questions[randomIndex]);
+        newQuestData.questions.push(window.questData.questions[randomIndex]);
+        window.questData.questions.splice(randomIndex, 1);
+    }
+    window.questData = newQuestData;
 }
