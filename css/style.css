@@ -6,8 +6,8 @@ html,body {
     width: 100%;
 }
 
-.width90 {
-    width: 90%;
+.width95 {
+    width: 95%;
 }
 
 .divTable {
@@ -138,6 +138,16 @@ ul.lowerDragList li {
 
 #tblResult {
     border: 1px solid black;
+}
+
+#tblResult td {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
+
+#tblResult a:hover {
+    cursor: hand;
 }
 
 .rightAnswer {

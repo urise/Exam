@@ -16,6 +16,7 @@ function currentQuestionIsLast() {
 }
 
 function showQuestion(question) {
+    document.getElementById("divQuestion").style.display = "block";
     document.getElementById("questionText").innerHTML = question.question;
     var ulAnswers = document.getElementById("ulAnswers");
     ulAnswers.innerHTML = "";
@@ -34,10 +35,34 @@ function showQuestion(question) {
     btnNext.disabled = true;
 }
 
+function showQuestionWithAnswer(question, answerIndex) {
+    document.getElementById("divQuestion").style.display = "block";
+    document.getElementById("questionText").innerHTML = question.question;
+    var ulAnswers = document.getElementById("ulAnswers");
+    ulAnswers.innerHTML = "";
+    for (var i = 0; i < question.answers.length; i++) {
+        var li = document.createElement("li");
+        li.appendChild(document.createTextNode(question.answers[i].answer));
+        if (question.answers[i].correct)
+            li.classList.add("green");
+        else if (i == answerIndex)
+            li.classList.add("yellow");
+
+        ulAnswers.appendChild(li);
+    }
+    ulAnswers.style.removeProperty("listStyle");
+
+    var btnNext = document.getElementById("btnNext");
+    btnNext.innerHTML = "Close";
+}
+
 function clickNext() {
-    if (currentQuestionIsLast()) {
+    if (window.questCompleted) {
+        document.getElementById("divQuestion").style.display = "none";
+    } if (currentQuestionIsLast()) {
         document.getElementById("divQuestion").style.display = "none"; 
         showResults();
+        window.questCompleted = true;
     } else {
         window.currentQuestionIndex++;
         showCurrentQuestion();    
@@ -70,7 +95,20 @@ function showResults() {
             td.classList.add("rightAnswer");
         else
             td.classList.add("wrongAnswer");
-        td.appendChild(document.createTextNode(question.question));
-    }
+        
+        var a = document.createElement("a");
+        var aText = document.createTextNode((i+1).toString() + ". " + question.question);
+        a.appendChild(aText);
+        a.setAttribute("data-index", i);
+        a.setAttribute("onclick", "onResultClick(event)");
 
+        td.appendChild(a);
+    }
+}
+
+function onResultClick(ev) {
+    var td = ev.target;
+    var index = td.getAttribute("data-index");
+    var question = window.questData.questions[index];
+    showQuestionWithAnswer(question, questResults[index]);
 }
