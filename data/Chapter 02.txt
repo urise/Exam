@@ -1,0 +1,353 @@
+1. Understanding the culture, policies, and procedures of the organization in which the project is being performed is MOST challenging in: 
+
+A. Global organizations. 
+
+B. Manufacturing organizations. 
+
+C. Small organizations. 
+
+D. Agile organizations. 
+
+2. In a projectized organization, the project team: 
+
+A. Reports to many bosses. 
+
+B. Has no loyalty to the project. 
+
+C. Reports to the functional manager. 
+
+D. Will not always have a "home:' 
+
+3. A project manager is trying to complete a software development project, but cannot get enough attention for the project. Resources are focused on completing process-related work, and the project manager has little authority to assign resources. What form of organization must the project manager be working in? 
+
+A. Functional 
+
+B. Matrix 
+
+C. Expediter 
+
+D. Coordinator 
+
+4. A project manager has very little project experience, but he has been assigned as the project manager of a new project. Because he will be working in a matrix organization to complete his project, he can expect communications to be: 
+
+A. Simple. 
+
+B. Open and accurate. 
+
+C. Complex. 
+
+D. Hard to automate. 
+
+5. A project team member is talking to another team member and complaining that many people are asking him to do things. If he works in a functional organization. who has the power to give direction to the team member? 
+
+A. The project manager 
+
+B. The functional manager 
+
+C. The team 
+
+D. The PMO 
+
+6. Two project managers have just realized that they are in a weak matrix organization and that their power as project managers is quite limited. One figures out that he is really a project expediter, and the other realizes he is really a project coordinator. How is a project expediter different from a project coordinator? 
+
+A. The project expediter cannot make decisions. 
+
+B. The project expediter can make more decisions. 
+
+C. The project expediter reports to a higher-level manager. 
+
+D. The project expediter has some authority. 
+
+7. Who has the MOST power in a projectized organization? 
+
+A. The project manager 
+
+B. The functional manager 
+
+C. The team 
+
+D. They all share power 
+
+8. All of the following are characteristics of a project EXCEPT: 
+
+A. It is temporary. 
+
+B. It has a definite beginning and end. 
+
+C. It has interrelated activities. 
+
+D. It repeats itself every month. 
+
+9. A framework for keeping an organization focused on its overall strategy is: 
+
+A. Organizational project management. 
+
+B. The PMBOK· Guide. 
+
+C. Project governance. 
+
+D. Portfolio management. 
+
+10. Which of the following BEST describes the major constraints on a project? 
+
+A. Scope, number of resources, and cost 
+
+B. Scope, cost, and time 
+
+C. Scope, time, cost, quality, risk, resources, and customer satisfaction 
+
+D. Time, cost, and number of changes 
+
+11. If a project manager is concerned with gathering, integrating, and disseminating the outputs of all project management processes, she should concentrate on improving the: 
+
+A. Work breakdown structure (WBS). 
+
+B. Communications management plan. 
+
+C. Project management information system (PMIS). 
+
+D. Scope management plan. 
+
+12. A project manager is managing his second project. It started one month after the first, and both are in process. Though his first project is small. this one seems to be growing in size every day. 
+As each day passes, the project manager is beginning to feel more and more in need of help. The project manager has recently heard that there was another project in the company last year that is similar to his second project. What should he do? 
+
+A. Contact the other project manager and ask for assistance. 
+
+B. Obtain historical records and guidance from the project management office (PMO). 
+
+C. Wait to see if the project is impacted by the growth in scope. 
+
+D. Make sure the scope of the project is agreed to by all the stakeholders. 
+
+13. The project life cycle differs [rom the project management process in that the project management process: 
+
+A. Is the same for every project. 
+
+B. Does not incorporate a methodology. 
+
+C. Is different for each industry. 
+
+D. Can spawn many projects. 
+
+14. To obtain support for the project throughout the performing organization, it's BEST if the project manager: 
+
+A. Ensures there is a communications management plan. 
+
+B. Correlates tile need for the project Lo the organization's strategic plan. 
+
+C. Connects the project to the personal objectives of the sponsor. 
+
+D. Ensures that the management plan includes the management of team members. 
+
+15. Your management has decided that all orders will be treated as "projects" and that project managers will be used to update orders daily, to resolve issues, and to ensure the customer formally accepts the product within 30 days of completion. Revenue from the individual orders can vary from US $100 to US $150,000. The project manager will not be required to perform planning or provide documentation other than daily status. How would you define this situation? 
+
+A. Because each individual order is a "temporary endeavor;' each order is a project. 
+
+B. This is program management since there are multiple projects involved. 
+
+C. This is a recurring process. 
+
+D. Orders incurring revenue over $100,000 would be considered projects and would involve project management. 
+
+16. The previous project manager for your project managed it without much project organization. 
+There is a lack of management control and no clearly defined project deliverables. Which of the following would be the BEST choice for getting your project better organized? 
+
+A. Adopt a life cycle approach to the project. 
+
+B. Develop lessons learned for each phase. 
+
+C. Develop specific work plans for each work package. 
+
+D. Develop a description of the product of the project. 
+
+17. A project team is working on manufacturi ng a new product, but they are having difficulty creating a project charter. What is the BEST description of the real problem? 
+
+A. Team have not identified the project objectives. 
+
+B. They are working on a process and not a project. 
+
+C. The end date has not been set. 
+
+D. They have not identified the product of the project. 
+
+18. One of your team members informs you that he does not know which of the many projects he is working on is the most important. Who should determine the priorities between projects in a company? 
+
+A. TIle project manager 
+
+B. The project management team 
+
+C. The project management office (PMO) 
+
+D. The team 
+
+19. The difference between a project, program, and portfolio is: 
+
+A. A project is a temporary endeavor with a beginning and an end, a program may include other nonproject work, and a portfolio is all the projects in a given department or division. 
+
+B. A project is a lengthy endeavor with a beginning and an end, a program combines two or more unrelated projects, and a portfolio combines two or more programs. 
+
+C. A project is a temporary endeavor with a beginning and an end, a program is a group of related projects, and a portfolio is a group of projects and programs related to a specific strategic objective. 
+
+D. A project is a contracted endeavor with a beginning and end, a portfolio is a group of projects with more open-ended completion dates, and a program combines two or more portfolios. 
+
+20. Operational work is different from project work in that operational work is: 
+
+A. Unique. 
+
+B. Temporary. 
+
+C. Ongoing and repetitive. 
+
+D. A part of every project activity. 
+
+21. Company procedures require the creation of a lessons learned document. Which of the following is the BEST use oflessons learned? 
+
+A. Historical records for future projects 
+
+B. Planning record for the current project 
+
+C. Informing the team about what the project manager has done 
+
+D. Informing the team about the project management plan 
+
+22. Lessons learned are BEST completed by: 
+
+A. The project manager. 
+
+B. The team. 
+
+C. The sponsor. 
+
+D. The stakeholders. 
+
+23. Consideration of ongoing operations and maintenance is crucially important to products of projects. Ongoing operations and maintenance should: 
+
+A. Be included as activities to be performed during project closure. 
+
+B. Have a separate phase in the project life cycle, because a large portion of life cycle costs is devoted to maintenance and operations. 
+
+C. Not be viewed as part of a project. 
+
+D. Be viewed as a separate project. 
+
+24. What is a program? 
+
+A. An initiative set up by management 
+
+B. A means to gain benefits and control of related projects 
+
+C. A group of unrelated projects managed in a coordinated way 
+
+D. A government regulation 
+
+25. A company is making an effort to improve its project performance and create historical records of past projects. What is the BEST way to accomplish this? 
+
+A. Create project management plans. 
+
+B. Create lessons learned. 
+
+C. Create network diagrams. 
+
+D. Create status reports. 
+
+1. Answer A 
+
+Explanation Understanding the culture, policies, and procedures of the organization in which the project is being performed is especially challenging in global organizations. Culture, policies, and procedures in the performing office may be different from those of the office from which the project is managed, and may also vary between international offices of the same organization. This will influence how the project is managed. 
+
+2. Answer D 
+
+Explanation The main drawback of a projectized organization is that at the end of the project when the team is dispersed, they do not have a functional department ("home") to which to return. 
+
+3. Answer A 
+
+Explanation In a functional organization, the project manager has the least support for the project and has little authority to assign resources. Project expediter and project coordinator are roles in a weak matrix organization. 
+
+4. Answer C 
+
+Explanation Because a project done in a matrix organization involves people from across the organization, communications are more complex. 
+
+5. Answer B 
+
+Explanation In a functional organization, the functional manager is the team member's boss and probably also the project manager's boss. 
+
+6. Answer A 
+
+Explanation The project coordinator reports to a higher-level manager and has authority to make some decisions. The project expediter has no authority to make decisions. 
+
+7. Answer A 
+
+Explanation In a projectized organization, the entire company is organized by projects, giving the project manager the most power. 
+
+8. Answer D 
+
+Explanation "It repeats itself every month" implies that the whole project repeats every month. Generally, the only things that might repeat in a project are some activities. The whole project does not repeat. 
+
+9. Answer A 
+
+Explanation Organizational project management (OPM) provides a framework and direction for how projects, programs, portfolios, and organizational work should be done to meet the organization's strategic goals. 
+
+10. Answer C 
+
+Explanation "Scope, time, cost, quality, risk, resources, and customer satisfaction" is the most accurate list of constraints, or competing demands, that a project manager must deal with. 
+
+11. Answer C 
+
+Explanation The scope management plan and the WBS focus on project scope. The communications management plan addresses who will be communicated with, when, and in what format. The only choice that addresses gathering, integrating, and disseminating information is the PMIS. 
+
+12. Answer B 
+
+Explanation There are many things the project manager could do. Asking the other project manager for assistance is not the best choice, as the other project manager might not be an experienced mentor. His advice might not be adequate to help this project manager. Waiting to assess the impact on the project is reactive; a project manager should be proactive. Gaining agreement of all the stakeholders on the project scope is also not the best choice. It would be helpful, but does not specifically address the issue in this situation. By contacting the PMO, the project manager can access the knowledge of many project managers, historical information from many projects, and the assistance of someone whose job it is to help. 
+
+13. Answer A 
+
+Explanation The project management process ALWAYS includes the work of initiating, planning, executing, monitoring and controlling, and closing a project. This methodology is the same for projects within any industry. The work of these process groups may be repeated (iterated). 
+
+14. Answer B 
+
+Explanation Connecting the project to the sponsor's objectives might be a good idea, but it does not address the issue of obtaining support throughout the performing organization. Neither a communications management plan nor an overall management plan directly addresses obtaining support for the project. Correlating the need for the project to the organization's strategic plan is the best way to gain support for the project. 
+
+15. Answer C 
+
+Explanation Because orders are numerous and of short duration, this situation is a recurring process, not a project. 
+
+16. Answer A 
+
+Explanation Developing lessons learned would help improve subsequent phases, but would do nothing for control or deliverables. Having plans for each work package would help control each phase, but would not control the integration of those phases into a cohesive whole. A description of the product of the project would help, but that would not improve both control and deliverables for each phase. Effective project management requires a life cycle approach to running the project. Adopting a I ife cycle approach is the only answer that covers both control and deliverables. 
+
+17. Answer B 
+
+Explanation Manufacturing a product is an ongoing process; it is operational work, not project work. Therefore, the manufacturing team would have no reason to create a project charter and would have difficulty doing so if they tried, because of the ongoing nature of the work. If the question referred to a team developing a new product, however, that would qualify as a project. 
+
+18. Answer C 
+
+Explanation Because the question talks about priorities between projects, this cannot be the role of the project manager, the project management team, or the project team. Determining priorities between projects is a role of the PMO. 
+
+19. Answer C 
+
+Explanation A project is a temporary endeavor with a beginning and an end, a program is a group of related projects, and a portfolio is a group of projects and programs related to a specific strategic objective. Remember to use the process of elimination, ruling out any answer that is not completely correct. 
+
+20. Answer C 
+
+Explanation Operational work is that which is ongoing to sustain an organization. 
+
+21. Answer A 
+
+Explanation Notice that this question asks about the use of a tool of project management. Many people can learn from a book what a lessons learned document is, but questions like this can more readily be answered if you actually use the tool and know from experience its value. Ask yourself about the other tools of project management. Why are they beneficial? The BEST use of lessons learned is as historical records for future projects. There are other tools that are better for accomplishing the things listed in the other choices. 
+
+22. Answer D 
+
+Explanation The best answer is stakeholders, as their input is critical for collecting all the lessons learned on each project. The term "stakeholders" includes all the other groups. 
+
+23. Answer C 
+
+Explanation Remember the definition of a project: temporary and unique. Operations and maintenance are considered ongoing activities, not temporary. Therefore, such work is not considered a project or part of a project. 
+
+24. Answer B 
+
+Explanation Did you select "a group of unrelated projects managed in a coordinated way"? If so, you missed the word "unrelated." Programs are groups of related projects. 
+
+25. Answer B 
+
+Explanation Lessons learned help to avoid future pitfalls and use the good ideas of past projects. This leads to improvements in future projects. 
+
+

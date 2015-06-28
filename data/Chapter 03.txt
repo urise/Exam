@@ -1,0 +1,174 @@
+1.	 In which project management process group is the detailed project budget created?
+A.	 Initiating
+B.	 Before the project management process
+C.	 Planning
+D.	 Executing
+2.	 The project charter is created in which project management process group?
+A.	 Executing
+B.	 Planning
+C.	 Closing
+D.	 Initiating
+3.	 The project team has just completed the initial project schedule and budget. Hie NEXT thing to do is to:
+A.	 Identify risks.
+B.	 Begin iterations.
+C.	 Determine communications requirements.
+D.	 Create a bar (Gantt) chart.
+4.	 A detailed project schedule can be created only after creating the:
+A.	 Project budget.
+B.	 Work breakdown structure.
+C.	 Project management plan.
+D.	 Detailed risk assessment.
+5.	 The person who should be in control of the project during project planning is the:
+A.	 Project manager.
+B.	 Team member.
+C.	 Functional manager.
+D.	 Sponsor.
+6.	 Which of the following is NOT an input to the initiating process group?
+A.	 Company processes
+B.	 Company culture
+C.	 Historical WBSs
+D.	 Project scope statement
+7.	 The project sponsor has just signed the project charter. What is the NEXT thing to do?
+A.	 Begin to complete work packages.
+B.	 Validate scope.
+C.	 Start integrated change control.
+D.	 Start to create management plans.
+8.	 The high-level project schedule constraints have just been determined. What project management process group are you in?
+A.	 Initiating
+B.	 Planning
+C.	 Executing
+D.	 Monitoring and controlling
+9.	 The WBS and WBS dictionary are completed. The project team has begun working on identifying risks. The sponsor contacts the project manager, requesting that the responsibility assignment matrix be issued. The project has a budget of US $100,000 and is taking place in three countries using 14 human resources. There is little risk expected for the project, and the project manager has managed many projects similar to this one. What is the NEXT thing to do?
+A.	 Understand the experience of the sponsor on similar projects.
+B.	 Create an activity list.
+C.	 Make sure the project scope is defined.
+D.	 Complete risk management and issue the responsibility assignment matrix.
+10.	 A project manager does not have much time to spend on planning before the mandatory start date arrives. He therefore wants to move through planning as effectively as possible. What advice would you offer?
+A.	 Make sure you have a signed project charter and then start the WBS.
+B.	 Create an activity list before creating a network diagram.
+C.	 Document all the known risks before you document the high-level assumptions.
+D.	 Finalize the quality management plan before you determine quality metrics.
+11.	 The BEST time to assign a project manager to a project is during:
+A.	 Integration.
+B.	 Project selection.
+C.	 Initiating.
+D.	 Planning.
+12.	 A project manager gets a call from a team member notifying him that there is a variance between the speed of a system on the project and the desired or planned speed. The project manager is surprised because that performance measurement was not identified in planning. If the project manager then evaluates whether the variance warrants a response, he is in which part of the project management process?
+A.	 Initiating
+B.	 Executing
+C.	 Monitoring and controlling
+D.	 Closing 
+Project Management Processes THREE
+13.	 A team member notifies the project manager that the activities comprising a work package are no longer appropriate. It would be BEST for the project manager to be in what part of the project management process?
+A.	 Corrective action
+B.	 Integrated change control
+C.	 Monitoring and controlling
+Project closing
+14.	 During a team meeting, a team member asks about the measurements that will be used on the project to assess performance. The team member feels that some of the measures related to activities assigned to him are not valid measurements. The project is BEST considered to be in what part of the project management process?
+A.	 Closing
+B.	 Monitoring and controlling
+C.	 Executing
+D.	 Initiating
+15.	 Which of the following is the MOST appropriate thing to do during the initiating process group?
+A.	 Create a detailed description of the project deliverables.
+B.	 Get familiar with the company culture and structure as they relate to the project.
+C.	 Identify the root cause of problems.
+D.	 Ensure all project management processes are complete.
+16.	 Which of the following is a characteristic of project management processes?
+A.	 Iterative
+B.	 Unique
+C.	 Unnecessary
+D.	 Standardized
+17.	 Which project management process group generally takes the MOST project time and resources?
+A.	 Planning
+B.	 Design
+C.	 Integration
+D.	 Executing
+18.	 All of the following must be performed during project initiating EXCEPT:
+A.	 Identify and document business needs.
+B.	 Create a project scope statement.
+C.	 Divide a large project into phases.
+D.	 Accumulate and evaluate historical information.
+19.	 Closure includes all of the following EXCEPT:
+A.	 Determining performance measures.
+B.	 Turning over the product of the project.
+C.	 Documenting the degree to which each project phase was properly closed after its completion.
+D.	 Updating the company’s organizational process assets.
+20.	 The first phase of your project has come to an end. What is the MOST important thing to ensure is done BEFORE beginning the next phase?
+A.	 Verify that the resources are available	for	the	next	phase.
+B.	 Check the projects progress compared to	its	baselines.
+C.	 Confirm that the phase has reached its objectives, and have its deliverables formally accepted.
+D.	 Recommend corrective action to bring the project results in line with project expectations.
+21.	 During which process group does the team measure and analyze the work being done on the project?
+A.	 Initiating
+B.	 Executing
+C.	 Monitoring and controlling
+D.	 Closing
+22.	 Which process groups must be included in every project?
+A.	 Planning, executing, and closing
+B.	 Initiating, planning, and executing
+C.	 Initiating, planning, executing, monitoring and controlling, and closing
+D.	 Planning, executing, and monitoring and controlling
+23.	 Which of the following is the MOST appropriate thing to do in project closing?
+A.	 Work with the customer to determine acceptance criteria.
+B.	 Collect historical information from previous projects.
+C.	 Confirm all the requirements in the project have been met.
+D.	 Gain formal approval of the management plans.
+24.	 Which process group focuses on completing the requirements of the project?
+A.	 Initiating
+B.	 Planning
+C.	 Executing
+D.	 Closing
+25.	 All of the following occur during the planning process group EXCEPT:
+A.	 Develop Project Charter.
+B.	 Create WBS.
+C.	 Estimate Costs.
+D.	 Sequence Activities.
+26.	 A market demand, a business need, and/or a legal requirement are examples of:
+A.	 Reasons to hire a project manager.
+B.	 Reasons projects are initiated.
+C.	 Reasons people or businesses become stakeholders.
+D.	 Reasons to sponsor a project.
+
+1.	 Answer C
+Explanation Notice the use of the word “detailed.” Such a budget is created during project planning.
+2.	 Answer D
+Explanation The project charter is needed before planning and execution of the work can begin. Therefore, it is created and approved in project initiating.
+3.	 Answer C
+Explanation Communications requirements and quality standards are needed before risks (especially risks relating to communications and quality) can be determined. Iterations cannot begin until the risks are identified, qualified and quantified, and responses are developed.
+Through iterations, the WBS and other parts of the project management plan are revised. A bar chart would have been done during the creation of the schedule, so it cannot be the next thing. Of the choices listed, determine communications requirements is the best option.
+4.	 Answer B
+Explanation In the project management process, the project budget, detailed risk assessment, and project management plan come after the schedule is created. The only answer that could be an input is the work breakdown structure.
+5.	 Answer A
+Explanation The project manager should be named early in the project, during project initiating if possible. It is then his or her responsibility to control the project throughout its life.
+6.	 Answer D
+Explanation Notice the question asks which is NOT an input to project initiating. Did you read it correctly? Companies should have processes in place for hiring resources, reporting, and managing risks on projects (to name only a few). These are inputs to project initiating, as are company culture and historical WBSs. The project scope statement is an output of project planning.
+7.	 Answer D
+Explanation To answer this type of question, look for the choice that occurs closest to the process group you are in. The project charter is created during project initiating. Completing work packages is done during project executing. Validating scope and performing integrated change control are done during project monitoring and controlling. Starting to create management plans is the best choice, as it is part of project planning.
+8.	 Answer A
+Explanation High-level constraints are identified in the project charter, which is created during project initiating.
+9.	 Answer B
+Explanation Look at the order of planning the project that the team has chosen. Although understanding the experience of the sponsor might sound like a good idea, the sponsor is a stakeholder and understanding the stakeholders is part of stakeholder analysis. That should have occurred before the creation of a WBS. Project scope must be defined before a WBS can be created. Completing risk management and issuing the responsibility assignment matrix cannot be best, as that work does not come next in the process. Other work must be done before risk management can effectively be completed. Creating an activity list comes next after the WBS and WBS dictionary.
+10.	 Answer B
+Explanation This question is asking which of the choices is the most effective way to move through project planning. Starting the WBS immediately after obtaining a project charter skips the important steps of defining the scope and other activities. High-level assumptions are determined in project initiating. Quality metrics are determined as part of the quality management plan, not after it. The aclivily list is created before the network diagram, so that is the best option.
+11.	 Answer C
+Explanation The project manager should be assigned during project initiating.
+12.	 Answer C
+Explanation Even though the measurement was not identified in planning, the project manager would still have to investigate the variance and determine if it is important. The project manager is in project monitoring and controlling.
+13.	 Answer C
+Explanation If you chose another part of the project management process, you probably forgot that the situation needs to be evaluated by the project manager before recommending a change or beginning integrated change control.
+14.	 Answer C
+Explanation This situation does not describe an actual measurement (a monitoring and controlling activity) but rather a meeting occurring during project executing.
+15.	 Answer B
+Explanation A detailed description of the project deliverables is created during project planning, as part of creating the project scope statement. Root cause analysis occurs during project monitoring and controlling, not initiating. Ensuring all project management processes are complete occurs during project closing. It is important for a project manager to become familiar with the company culture and structure as they relate to the project as early in the project as possible. This is the most appropriate choice to do in project initiating.
+16.	 Answer A
+Explanation As the project life cycle progresses, more information becomes available, allowing the team to manage the project to a more detailed level.
+17.	 Answer D
+Explanation Did you notice that planning and executing are the only process groups offered as choices? Therefore, design and integration can be eliminated as options. Doing the actual work (in executing) will generally take the most project time and resources.
+18.	 Answer B
+Explanation A project scope statement is created during project planning.
+19.	 Answer A
+Explanation Performance measures are determined earlier in the project so they can be used to measure progress during the project, making determining performance measures the only correct answer to this question.
+20.	 Answer C
+Explanation A phase or project must be formally closed and accepted.
+
