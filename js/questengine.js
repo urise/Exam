@@ -1,3 +1,28 @@
+function loadQuestionnaireList() {
+    var ul = document.getElementById("ulQuestionnaires");
+    ul.innerHTML = "";
+    for (var i = 0; i < window.questionnaires.length; i++) {
+        var questionnaire = window.questionnaires[i];
+        var li = document.createElement("li");
+
+        var a = document.createElement("a");
+        var aText = document.createTextNode(questionnaire.title);
+        a.appendChild(aText);
+        a.setAttribute("data-index", i);
+        a.setAttribute("onclick", "onQuestionnaireClick(event)");
+
+        li.appendChild(a);
+        ul.appendChild(li);
+    }
+}
+
+function onQuestionnaireClick(ev) {
+    var a = ev.target;
+    var index = a.getAttribute("data-index");
+    window.questData = window.questionnaires[index];
+    loadData();
+}
+
 function loadData() {
     window.currentQuestionIndex = 0;
     randomizeQuestions();
@@ -34,6 +59,8 @@ function showQuestion(question) {
         li.appendChild(document.createTextNode(question.answers[i].answer));
         ulAnswers.appendChild(li);
     }
+    var divExplanation = document.getElementById("divExplanation");
+    divExplanation.innerHTML = "";
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = currentQuestionIsLast() ? "Finish" : "Next";
     btnNext.disabled = true;
@@ -58,6 +85,8 @@ function showQuestionWithAnswer(question, answerIndex) {
 
         ulAnswers.appendChild(li);
     }
+    var divExplanation = document.getElementById("divExplanation");
+    divExplanation.innerHTML = question.explanation;
 
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = "Close";

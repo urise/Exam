@@ -58,12 +58,11 @@ A.	 Initiating
 B.	 Executing
 C.	 Monitoring and controlling
 D.	 Closing 
-Project Management Processes THREE
 13.	 A team member notifies the project manager that the activities comprising a work package are no longer appropriate. It would be BEST for the project manager to be in what part of the project management process?
 A.	 Corrective action
 B.	 Integrated change control
 C.	 Monitoring and controlling
-Project closing
+D. Project closing
 14.	 During a team meeting, a team member asks about the measurements that will be used on the project to assess performance. The team member feels that some of the measures related to activities assigned to him are not valid measurements. The project is BEST considered to be in what part of the project management process?
 A.	 Closing
 B.	 Monitoring and controlling

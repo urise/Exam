@@ -108,8 +108,7 @@ C. Project management information system (PMIS).
 
 D. Scope management plan. 
 
-12. A project manager is managing his second project. It started one month after the first, and both are in process. Though his first project is small. this one seems to be growing in size every day. 
-As each day passes, the project manager is beginning to feel more and more in need of help. The project manager has recently heard that there was another project in the company last year that is similar to his second project. What should he do? 
+12. A project manager is managing his second project. It started one month after the first, and both are in process. Though his first project is small. this one seems to be growing in size every day. As each day passes, the project manager is beginning to feel more and more in need of help. The project manager has recently heard that there was another project in the company last year that is similar to his second project. What should he do? 
 
 A. Contact the other project manager and ask for assistance. 
 
@@ -141,7 +140,7 @@ D. Ensures that the management plan includes the management of team members.
 
 15. Your management has decided that all orders will be treated as "projects" and that project managers will be used to update orders daily, to resolve issues, and to ensure the customer formally accepts the product within 30 days of completion. Revenue from the individual orders can vary from US $100 to US $150,000. The project manager will not be required to perform planning or provide documentation other than daily status. How would you define this situation? 
 
-A. Because each individual order is a "temporary endeavor;' each order is a project. 
+A. Because each individual order is a "temporary endeavor" each order is a project. 
 
 B. This is program management since there are multiple projects involved. 
 
@@ -149,8 +148,7 @@ C. This is a recurring process.
 
 D. Orders incurring revenue over $100,000 would be considered projects and would involve project management. 
 
-16. The previous project manager for your project managed it without much project organization. 
-There is a lack of management control and no clearly defined project deliverables. Which of the following would be the BEST choice for getting your project better organized? 
+16. The previous project manager for your project managed it without much project organization. There is a lack of management control and no clearly defined project deliverables. Which of the following would be the BEST choice for getting your project better organized? 
 
 A. Adopt a life cycle approach to the project. 
 
