@@ -413,55 +413,55 @@ window.questionnaires = [
 				]
 			},
 			{	question: 'During which process group does the team measure and analyze the work being done on the project?',
-				explanation: '',
+				explanation: 'During monitoring and controlling, project performance is measured and needed changes are identified and approved/',
 				answers: [
 					{ answer: 'Initiating' },
 					{ answer: 'Executing' },
-					{ answer: 'Monitoring and controlling' },
+					{ answer: 'Monitoring and controlling', correct: true },
 					{ answer: 'Closing' },
 				]
 			},
 			{	question: 'Which process groups must be included in every project?',
-				explanation: '',
+				explanation: 'All five process groups are addressed in each project. It is the responsibility of the project manager to determine the level of attention to give to each process group. ',
 				answers: [
 					{ answer: 'Planning, executing, and closing' },
 					{ answer: 'Initiating, planning, and executing' },
-					{ answer: 'Initiating, planning, executing, monitoring and controlling, and closing' },
+					{ answer: 'Initiating, planning, executing, monitoring and controlling, and closing', correct: true },
 					{ answer: 'Planning, executing, and monitoring and controlling' },
 				]
 			},
 			{	question: 'Which of the following is the MOST appropriate thing to do in project closing?',
-				explanation: '',
+				explanation: 'Collecting historical information and determining high-level acceptance criteria are done in project initiating. Gaining approval of management plans is part of project planning. Confirming that project requirements have been met occurs in project closing. ',
 				answers: [
 					{ answer: 'Work with the customer to determine acceptance criteria.' },
 					{ answer: 'Collect historical information from previous projects.' },
-					{ answer: 'Confirm all the requirements in the project have been met.' },
+					{ answer: 'Confirm all the requirements in the project have been met.', correct: true },
 					{ answer: 'Gain formal approval of the management plans.' },
 				]
 			},
 			{	question: 'Which process group focuses on completing the requirements of the project?',
-				explanation: '',
+				explanation: 'Project executing is where work is done to produce the product of the project. ',
 				answers: [
 					{ answer: 'Initiating' },
 					{ answer: 'Planning' },
-					{ answer: 'Executing' },
+					{ answer: 'Executing', correct: true },
 					{ answer: 'Closing' },
 				]
 			},
 			{	question: 'All of the following occur during the planning process group EXCEPT:',
-				explanation: '',
+				explanation: 'Develop Project Charter occurs during project initiating.',
 				answers: [
-					{ answer: 'Develop Project Charter.' },
+					{ answer: 'Develop Project Charter.', correct: true },
 					{ answer: 'Create WBS.' },
 					{ answer: 'Estimate Costs.' },
 					{ answer: 'Sequence Activities.' },
 				]
 			},
 			{	question: 'A market demand, a business need, and/or a legal requirement are examples of:',
-				explanation: '',
+				explanation: 'These are all reasons projects are initiated. ',
 				answers: [
 					{ answer: 'Reasons to hire a project manager.' },
-					{ answer: 'Reasons projects are initiated.' },
+					{ answer: 'Reasons projects are initiated.', correct: true },
 					{ answer: 'Reasons people or businesses become stakeholders.' },
 					{ answer: 'Reasons to sponsor a project.' },
 				]

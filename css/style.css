@@ -115,6 +115,10 @@ ul.lowerDragList li {
     clear: both; 
 }
 
+.questBody {
+	font-family: 'Comic Sans MS'
+}
+
 #divQuestion {
     margin: auto;
     position: absolute;
@@ -130,6 +134,16 @@ ul.lowerDragList li {
 
 #divQuestion ul {
     list-style: none;
+}
+
+#divExplanation {
+	color: darkblue;
+  	font-style: italic;
+  	margin-bottom: 16px;
+}
+
+#questionText {
+	font-weight: bold;
 }
 
 .invisible {
@@ -162,4 +176,13 @@ ul.lowerDragList li {
 
 #questionNumber {
     float: right;
+}
+
+#ulQuestionnaires a {
+	margin: 10px;
+	font-size: xx-large;
+}
+
+#ulQuestionnaires a:hover {
+	cursor: hand
 }

@@ -40,5 +40,20 @@ namespace Converter.BusinessLogic
         {
             Explanation = explanation;
         }
+
+        public void TestData()
+        {
+            if (string.IsNullOrEmpty(QuestionText))
+                throw new Exception("Question is without text");
+            if (Answers.Count != 4)
+                throw new Exception("Wrong answers count in question: " + QuestionText);
+            for (var i = 0; i < Answers.Count; i++)
+            {
+                if (Answers[i].NumberText != "ABCD".Substring(i, 1))
+                    throw new Exception("Wrong answer number in question: " + QuestionText);
+            }
+            if (! Answers.Any(a => a.IsCorrect))
+                throw new Exception("No correct answer in question: " + QuestionText);
+        }
     }
 }

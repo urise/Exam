@@ -32,5 +32,17 @@ namespace Converter.BusinessLogic
             lines.Add("];");
             return lines;
         }
+
+        public void TestData()
+        {
+            var n = 1;
+            foreach (var questionnaire in _questionnaires)
+            {
+                Console.WriteLine(n.ToString() + ". " + questionnaire.QuestionnaireName + " ...");
+                n++;
+                questionnaire.TestData();
+            }
+            Console.WriteLine("Completed.");
+        }
     }
 }

@@ -170,4 +170,16 @@ Explanation A project scope statement is created during project planning.
 Explanation Performance measures are determined earlier in the project so they can be used to measure progress during the project, making determining performance measures the only correct answer to this question.
 20.	 Answer C
 Explanation A phase or project must be formally closed and accepted.
+21. Answer C
+Explanation During monitoring and controlling, project performance is measured and needed changes are identified and approved/
+22. Answer C
+Explanation All five process groups are addressed in each project. It is the responsibility of the project manager to determine the level of attention to give to each process group. 
+23. Answer C
+Explanation Collecting historical information and determining high-level acceptance criteria are done in project initiating. Gaining approval of management plans is part of project planning. Confirming that project requirements have been met occurs in project closing. 
+24. Answer C
+Explanation Project executing is where work is done to produce the product of the project. 
+25. Answer A
+Explanation Develop Project Charter occurs during project initiating.
+26. Answer B
+Explanation These are all reasons projects are initiated. 
 

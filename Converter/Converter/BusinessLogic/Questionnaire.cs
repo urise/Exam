@@ -12,6 +12,7 @@ namespace Converter.BusinessLogic
     public class Questionnaire
     {
         private string _questionnaireName;
+        public string QuestionnaireName { get { return _questionnaireName; } }
         private List<Question> _questions = new List<Question>();
 
         public Questionnaire(string fileName)
@@ -46,6 +47,7 @@ namespace Converter.BusinessLogic
                     if (question == null)
                         throw new Exception("Line is illegal: " + line);
                     question.AddExplanation(explanation);
+                    continue;
                 }
                 var pointIndex = line.IndexOf('.');
                 if (pointIndex == -1)
@@ -107,6 +109,18 @@ namespace Converter.BusinessLogic
             lines.Add("\t\t]");
             lines.Add("\t},");
             return lines;
+        }
+
+        public void TestData()
+        {
+            var n = 1;
+            foreach (var question in _questions)
+            {
+                question.TestData();
+                if (question.NumberText != n.ToString())
+                    throw new Exception("Wrong number of question: " + question.QuestionText);
+                n++;
+            }
         }
     }
 }

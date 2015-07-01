@@ -13,8 +13,11 @@ namespace Converter
         static void Main(string[] args)
         {
             var questionnaires = new QuestionnaireList(@"D:\Work\Exam\data");
+            questionnaires.TestData();
             var data = questionnaires.GetJavaScriptData();
-            File.WriteAllLines(@"d:\questdata.js", data);
+            
+            File.WriteAllLines(@"D:\Work\Exam\js\questdata.js", data);
+            Console.ReadLine();
             //var quest = new Questionnaire(@"D:\Work\Exam\data\Chapter 03.txt");
         }
     }

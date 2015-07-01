@@ -21,6 +21,7 @@ function onQuestionnaireClick(ev) {
     var index = a.getAttribute("data-index");
     window.questData = window.questionnaires[index];
     loadData();
+	document.getElementById('divQuestionnaires').style.display = 'none';
 }
 
 function loadData() {
@@ -87,6 +88,8 @@ function showQuestionWithAnswer(question, answerIndex) {
     }
     var divExplanation = document.getElementById("divExplanation");
     divExplanation.innerHTML = question.explanation;
+
+	document.getElementById("questionNumber").style.display = 'none'
 
     var btnNext = document.getElementById("btnNext");
     btnNext.innerHTML = "Close";
