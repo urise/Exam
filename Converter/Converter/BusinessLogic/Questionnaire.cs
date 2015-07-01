@@ -39,7 +39,7 @@ namespace Converter.BusinessLogic
             bool isNewQuestion = false;
             foreach (var line in lines.Select(s => s.Replace("'", "`")))
             {
-                if (string.IsNullOrEmpty(line)) continue;
+                if (string.IsNullOrEmpty(line.Trim())) continue;
                 
                 if (line.StartsWith("Explanation "))
                 {

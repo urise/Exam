@@ -1,0 +1,240 @@
+1. A work breakdown structure numbering system allows the project team to:
+A.	Systematically estimate costs of work breakdown structure elements.
+B.	Provide project justification.
+C.	Identify the level at which individual elements are found.
+D.	Use it in project management software.
+
+2. The work breakdown structure can BEST be thought of as an effective aid for communications.
+A.	Team
+B.	Project manager
+C.	Customer
+D.	Stakeholder
+
+3. Which of the following is a KEY output of the Validate Scope process?
+A.	A more complete scope management plan
+B.	Customer acceptance of project deliverables
+C.	Improved schedule estimates
+D.	An improved project management information system
+
+4. During project executing, a team member comes to the project manager because he is not sure what work he needs to accomplish on the project. Which of the following documents contains detailed descriptions of work packages?
+A.	WBS dictionary
+B.	Activity list
+C.	Project scope statement
+D.	Scope management plan
+
+5. During which part of the project management process is the project scope statement created?
+A.	Initiating
+B.	Planning
+C.	Executing
+D.	Monitoring and controlling
+
+6. The program was planned years ago, before there was a massive introduction of new technology. While planning the next project in this program, the project manager has expanded the scope management plan because, as a project becomes more complex, the level of uncertainty in the scope:
+A.	Remains the same.
+B.	Decreases.
+C.	Decreases then increases.
+D.	Increases.
+
+7. During a meeting with some of the project stakeholders, the project manager is asked to add work to the project scope. The project manager had access to correspondence about the project before the project charter was signed and remembers that the project sponsor specifically denied funding for the scope mentioned by these stakeholders. The BEST thing for the project manager to do is to:
+A.	Let the sponsor know of the stakeholders' request.
+B.	Evaluate the impact of adding the scope.
+C.	Tell the stakeholders the scope cannot be added.
+D.	Add the work if there is time available in the project schedule.
+
+8. A new project manager is being mentored by a more experienced PMP-certified project manager. The new project manager is having difficulty finding enough time to manage the project because the project scope is being progressively elaborated. The PMP-certified project manager advises that the basic tools for project management, such as a work breakdown structure, can be used during project executing to assist the project manager. For which of the following can a work breakdown structure be used?
+A.	Communicating with the customer
+B.	Showing calendar dates for each work package
+C.	Showing the functional managers for each team member
+D.	Showing the business need for the project
+
+9. During a project team meeting, a team member suggests an enhancement to the scope that is beyond the scope of the project charter. The project manager points out that the team needs to concentrate on completing all the work and only the work required. This is an example of
+A.	Change management process.
+B.	Scope management.
+C.	Quality analysis.
+D.	Scope decomposition.
+
+10. When should the Validate Scope process be done?
+A.	At the end of the project
+B.	At the beginning of the project
+C.	At the end of each phase of the project
+D.	During the planning processes
+
+11. The project is mostly complete. The project has a schedule variance of 300 and a cost variance of -900. All but one of the quality control inspections have been completed and all have met the quality requirements. All items in the issue log have been resolved. Many of the resources have been released. The sponsor is about to call a meeting to obtain product validation when the customer notifies the project manager that they want to make a major change to the scope. The project manager should:
+A.	Meet with the project team to determine if this change can be made.
+B.	Ask the customer for a description of the change.
+C.	Explain that the change cannot be made at this point in the process.
+D.	Inform management.
+ 
+12. You have just joined the project management office after five years of working on projects. One of the things you want to introduce to your company is the value of creating and utilizing work breakdown structures. Some of the project managers are angry that you are asking them to do "extra work!" Which of the following would be the BEST thing you could tell the project managers to convince them to use work breakdown structures?
+A.	Work breakdown structures will prevent work from slipping through the cracks.
+B.	Work breakdown structures are only needed on large projects.
+C.	Work breakdown structures are required only if the project involves contracts.
+D.	Work breakdown structures are the only way to identify risks.
+
+13. A new project manager has asked you for advice on creating a work breakdown structure. After you explain the process to her, she asks you what software she should use to create the WBS and what she should do with it when it is completed. You might respond that it is not the picture that is the most valuable result of creating a WBS. The most valuable result of a WBS is:
+A.	A bar chart.
+B.	Team buy-in.
+C.	Activities.
+D.	A list of risks.
+
+14. To manage a project effectively, work should be broken down into small pieces. Which of the following does NOT describe how far to decompose the work?
+A.	Until it has a meaningful conclusion
+B.	Until it cannot be logically subdivided further
+C.	Until it can be done by one person
+D.	Until it can be realistically estimated
+
+15. A project manager may use	to make sure the team members clearly know what work is included in each of their work packages.
+A.	The project scope statement
+B.	The product scope
+C.	The WBS dictionary
+D.	The schedule
+
+16. The MAIN purpose of writing a user story is:
+A.	To document features or functions required by stakeholders.
+B.	To create a record of issues encountered on the project.
+C.	To perform what-if analysis.
+D.	To communicate progress.
+
+17. The construction phase of a new software product is near completion. The next phases are testing and implementation. The project is two weeks ahead of schedule. Which of the following processes should the project manager be MOST concerned with before moving into the final phase?
+A.	Validate Scope
+B.	Control Quality
+C.	Manage Communications
+D.	Control Costs
+ 
+18. You are managing a six-month project and have held bi-weekly meetings with your project stakeholders. After five-and-a-half months of work, the project is on schedule and budget, but the stakeholders are not satisfied with the deliverables. This situation will delay the project completion by one month. The MOST important process that could have prevented this situation is:
+A.	Monitor and Control Risks.
+B.	Control Schedule.
+C.	Define Scope.
+D.	Control Scope.
+
+19. All of the following are parts of the scope baseline EXCEPT the:
+A.	Scope management plan.
+B.	Project scope statement.
+C.	Work breakdown structure.
+D.	WBS dictionary.
+
+20. One of the stakeholders on the project contacts the project manager to discuss some additional scope they would like to add to the project. The project manager asks for details in writing and then works through the Control Scope process. What should the project manager do NEXT when the evaluation of the requested scope is complete?
+A.	Ask the stakeholder if there are any more changes expected.
+B.	Complete integrated change control.
+C.	Make sure the impact of the change is understood by the stakeholder.
+D.	Find out the root cause of why the scope was not discovered during project planning.
+
+21. During the completion of project work, the sponsor asks the project manager to report on how the project is going. In order to prepare the report, the project manager asks all the team members what percent complete their work is. There is one team member who has been hard to manage from the beginning. In response to being asked what percent complete he is, the team member asks, "Percent complete of what?" Being tired of such comments, the project manager reports to the team member's boss that the team member is not cooperating. Which of the following is MOST likely the real problem?
+A.	The project manager did not get buy-in from the manager for the resources on the project.
+B.	The project manager did not create an adequate reward system for team members to improve their cooperation.
+C.	The project manager should have had a meeting with the team member's boss the first time the team member caused trouble.
+D.	The project manager did not assign work packages.
+
+22. The development of the scope baseline can BEST be described as involving:
+A.	The functional managers.
+B.	The project team.
+C.	All the stakeholders.
+D.	The project expediter.
+ 
+23. Which of the following is an output of the Collect Requirements process?
+A.	Requirements traceability matrix
+B.	Project scope statement
+C.	Work breakdown structure
+D.	Change requests
+
+24. A scope change has been suggested by one of the stakeholders on the project. After careful consideration and a lot of arguing, the change control board has decided to reject the change. What should the project manager do?
+A.	Support the stakeholder by asking the board for the reason for the rejection.
+B.	Suggest to the stakeholder that the next change they request will be approved.
+C.	Document the outcome of the change request.
+D.	Advise the change control board to make sure they create approval processes before the next change is proposed.
+
+25. The cost performance index (CPI) on the project is 1.13, and the benefit cost ratio is 1.2. The project scope was created by the team and stakeholders. Requirements on the project have been changing throughout the project. No matter what the project manager has tried to accomplish in managing the project, which of the following is he MOST likely to face in the future?
+A.	Having to cut costs on the project and increase benefits
+B.	Making sure the customer has approved the project scope
+C.	Not being able to measure completion of the product of the project
+D.	Having to add resources to the project
+
+26. Validate Scope is closely related to:
+A.	Control Quality.
+B.	Sequence Activities.
+C.	Perform Quality Assurance.
+D.	Time Management.
+
+27. Which of the following can create the MOST misinterpretation of the project scope statement?
+A.	Imprecise language
+B.	Poor pattern, structure, and chronological order
+C.	Small variations in size of work packages or detail of work
+D.	Too much detail
+
+28. Which of the following is CORRECT in regard to the Control Scope process?
+A.	Effective scope definition can lead to a more complete project scope statement.
+B.	The Control Scope process must be done before scope planning.
+C.	The Control Scope process must be integrated with other control processes.
+D.	Controlling the schedule is the most effective way of controlling scope.
+ 
+29. Which of the following BEST describes the Validate Scope process?
+A.	It provides assurances that the deliverable meets the specifications, is an input to the project management plan, and is an output of Control Quality:
+B.	It ensures the deliverable is completed on time, ensures customer acceptance, and shows the deliverable meets specifications.
+C.	It ensures customer acceptance, shows the deliverable meets specifications, and provides a chance for differences of opinion to come to light.
+D.	It is an output of Control Quality, occurs before Define Scope, and ensures customer acceptance.
+
+30. Which of the following BEST describes product analysis?
+A.	Working with the customer to determine the product description
+B.	Mathematically analyzing the quality desired for the project
+C.	Gaining a better understanding of the product of the project in order to create the project scope statement
+D.	Determining whether the quality standards on the project can be met
+ 
+1.	Answer C
+Explanation The numbering system allows team members to quickly identify the level in the work breakdown structure where the specific element is found. It also helps to locate the element in the WBS dictionary.
+2.	Answer D
+Explanation The term "stakeholder" encompasses all the other choices. In this case, it is the best answer since the WBS can be used (but does not need to be used) as a communications tool for all stakeholders to "see" what is included in the project.
+3.	Answer B
+Explanation The output of the Validate Scope process is customer acceptance of project deliverables. The other choices all happen during project planning, well before the time the Validate Scope process takes place.
+4.	Answer A
+Explanation Activity lists may identify the work package they relate to, but they do not contain detailed descriptions of the work packages. The project scope statement defines the project scope, but it does not describe the work a team member is assigned. The scope management plan describes how scope will be planned, managed, and controlled. It does not include a description of each work package. The WBS dictionary defines each element in the WBS. Therefore, descriptions of the work packages are in the WBS dictionary.
+5.	Answer B
+Explanation The project scope statement is an output of the Define Scope process, which occurs during project planning.
+6.	Answer D
+Explanation Not all questions will be difficult. The level of uncertainty in scope increases based on the scale of effort required to identify all the scope. For larger projects, it is more difficult to "catch" everything.
+7.	Answer C
+Explanation Although one could let the sponsor know about the stakeholders' request, the best choice listed would be to say no, as this was already considered. An even better choice would be to find the root cause of the problem, but that choice is not listed here.
+8.	Answer A
+Explanation A WBS does not show dates or responsibility assignments. The business need is described in the project charter. In this situation, the project scope is being fine-tuned. It would save the project manager time in effectively managing progressive elaboration if the WBS was used as a communications tool. Using the WBS helps ensure everyone (including the customer) understands the scope of the work
+9.	Answer B
+Explanation The team member is suggesting an enhancement that is outside the scope of the project charter. Scope management involves focusing on doing the work and only the work in the project management plan that meets the objectives of the project charter. The project manager is performing scope management.
+10. Answer C
+Explanation The Validate Scope process occurs during project monitoring and controlling. It is done at the end of each project phase to get approval for phase deliverables, as well as at other points to get approval for interim deliverables.
+11. Answer B
+Explanation Do not jump into the problem without thinking. The customer only notified the project manager that they want to make a change. They did not describe the change. The project manager should not say no until he or she knows more about the potential change, nor should the project manager go to management without more information. The project manager must understand the nature of the change and have time to evaluate the impact of that change before doing anything else. Of these choices, the first thing to do is to determine what the change is. The project manager might then analyze the potential change with the team, but only if their input is required.
+12.	Answer A
+Explanation Work breakdown structures are required on projects of every size, regardless of whether contracts are involved. Work breakdown structures can be used to help identify risks, but risks can be identified using other methods as well. Preventing work from being forgotten (slipping through the cracks) is one of the main reasons the tool is used, and is the best choice offered here.
+13.	Answer B
+Explanation The WBS is an input to all of these choices. However, team buy-in is a direct result of the WBS creation process, while the other choices use the WBS to assist in their completion. Involving the team in creating the WBS provides project team members with an understanding of where their pieces fit into the overall project management plan and gives them an indication of the impact of their work on the project as a whole.
+14.	Answer C
+Explanation The lowest level of the WBS is a work package, which can be completed by more than one person. The other choices are aspects of a work package.
+15.	Answer C
+Explanation The project scope statement describes work on a high-level basis. Work packages need to be specific to enable team members to complete their work without gold plating. The product scope does not tell team members what work is assigned to them. The team should have a copy of the schedule, but a schedule does not show them what work is included in each of their work packages. Work packages are described in the WBS dictionary. NOTE: Do not think of the WBS dictionary as a dictionary of terms.
+16.	Answer A
+Explanation A user story is a way of stating a requirement, often using the following format: As a <Role>, I want <Functionality/Goal>, so that <Business Benefit/Motivation>. User stories may be developed in facilitated workshops or as part of other requirements-gathering methods.
+17.	Answer A
+Explanation The Validate Scope process deals with acceptance by the customer. Without this acceptance, the project manager will not be able to move into the next project phase.
+18.	Answer C
+Explanation Monitor and Control Risks, Control Schedule, and Control Scope are monitoring and controlling processes. This situation asks how to prevent the problem, which would have been done during planning. The project deliverables are defined in the Define Scope process, which is a part of project planning. Good planning reduces the likelihood of a situation like the one described, by including the right people and spending adequate time clarifying the project scope.
+19.	Answer A
+Explanation The scope baseline includes the WBS, WBS dictionary, and the project scope statement. The scope management plan is not part of the scope baseline.
+20.	Answer B
+Explanation Notice that there are many things the project manager could do listed in the choices. The question asks what is the BEST thing to do NEXT. Management of the change is not complete when the Control Scope process is completed. It is important to look at the impact of the change on other parts of the project, such as time and cost. Therefore, performing integrated change control is the best thing to do next. This would probably be followed by making sure the impact of the change is understood by the stakeholder, then determining why this scope was not identified in planning, and asking the stakeholder if there are more changes expected.
+21.	Answer D
+Explanation The project manager is not losing resources (which is implied by not getting the manager's buy-in). Although a reward system would help with cooperation, the real problem here is not cooperation. Meeting with the team member and his boss cannot be the answer because it also does not solve the problem at hand (the team member not knowing what he is to do). If you selected this choice, be very careful! You can get 10 to 20 questions wrong on the exam simply because you do not see the real problem! The whole discussion of the team member and his actions is a distracter. The real problem in this scenario is not that the team member is being uncooperative. He is asking a question that many team members want to ask in the real world. "How can I tell you how things are going if I do not know what work I am being asked to do?" The real problem is the lack of a WBS and work packages. If there were a WBS and work packages for the project, the team member would not have to ask such a question.
+22.	Answer B
+Explanation After obtaining input from the customer and other stakeholders, the project team is responsible for developing the scope baseline. Remember that the scope baseline includes the WBS, WBS dictionary, and project scope statement.
+23.	Answer A
+Explanation The project scope statement is an output of the Define Scope process. The work breakdown structure is an output of the Create WBS process. Scope change requests are outputs of the Validate Scope and Control Scope processes. The requirements traceability matrix is an output of the Collect Requirements process, and is used to track the requirements throughout the life of the project.
+24.	Answer C
+Explanation There is no reason to think that the board's rejection would not contain an explanation already, since providing that information is commonly done. Suggesting a change process that circumvents the change control board's authority is not ethical. There is no reason to think that approval processes are not already in place. A rejected change should be recorded for historical purposes, in case the idea is resurrected later, and for other reasons.
+25.	Answer C
+Explanation There are many pieces of data in this question that are distracters from the real issue. Though it is common to have to cut costs and add resources to a project, nothing in the question should lead you to think these will be required in this situation. Customers do not generally approve the project scope (what you are going to do to complete their requirements); instead, they approve the product scope (their requirements). Since requirements are used to measure the completion of the product of the project, not having complete requirements will make such measurement impossible.
+26.	Answer A 
+Explanation Control Quality checks for correctness, and Validate Scope checks for acceptance.
+27.	Answer A
+Explanation Much of the work on the project is dictated by the project scope statement. Any imprecision in such a key document will lead to differing interpretations.
+28.	Answer C
+Explanation Though it is correct that effective scope definition can lead to a more complete project scope statement, this cannot be the answer, because it does not deal with control. Scope planning occurs before the Control Scope process, not after it. Controlling the schedule is not the best way to control scope, so that is not the best answer. The control processes do not act in isolation. A change to one will most likely affect the others. Therefore the need to integrate the Control Scope process with other control processes is the best answer.
+29.	Answer C
+Explanation The project management plan is completed before the Validate Scope process. The Validate Scope process does not deal with time, but rather acceptance. The Validate Scope process does not occur before the Define Scope process. The choice stating that the Validate Scope process ensures customer acceptance, shows the deliverable meets specifications, and provides a chance for differences of opinion to come to light is entirely correct, making that the best answer.
+30.	Answer C
+Explanation You need to have a product description before you can do product analysis. Analyzing the level of quality desired is related to the Plan Quality Management process. Determining whether the quality standards on the project can be met is done in the Perform Quality Assurance process. Product analysis includes gaining a better understanding of the product of the project, in order to create the project scope statement.

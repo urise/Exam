@@ -468,4 +468,671 @@ window.questionnaires = [
 			},
 		]
 	},
+	{
+		title: 'Chapter 04',
+		questions: [
+			{	question: 'The need for	is one of the major driving forces for communication in a project.',
+				explanation: 'The project manager is an integrator. This is a question about your role as an integrator and communicator.',
+				answers: [
+					{ answer: 'Optimization' },
+					{ answer: 'Integrity' },
+					{ answer: 'Integration', correct: true },
+					{ answer: 'Differentiation' },
+				]
+			},
+			{	question: 'The customer has accepted the completed project scope. However, the lessons learned required by the project management office have not been completed. What is the status of the project?',
+				explanation: 'Replanning is uncalled for by the situation described. Reaching the planned completion date does not mean the project is necessarily finished. A project is complete when all work, including all project management work, is complete and the product of the project and all project deliverables are accepted. The lessons learned are project management deliverables, and therefore must be completed for the project to be complete.',
+				answers: [
+					{ answer: 'The project is incomplete because it needs to be replanned.' },
+					{ answer: 'The project is incomplete until all project and product deliverables are complete and accepted.', correct: true },
+					{ answer: 'The project is complete because the customer has accepted the deliverables.' },
+					{ answer: 'The project is complete because it has reached its due date.' },
+				]
+			},
+			{	question: 'When it comes to changes, the project manager`s attention is BEST focused on:',
+				explanation: 'Project managers should be proactive. The only proactive answer here is preventing unnecessary changes.',
+				answers: [
+					{ answer: 'Making changes.' },
+					{ answer: 'Tracking and recording changes.' },
+					{ answer: 'Informing the sponsor of changes.' },
+					{ answer: 'Preventing unnecessary changes.', correct: true },
+				]
+			},
+			{	question: 'The customer on a project tells the project manager they have run out of money to pay for the project. What should the project manager do FIRST?',
+				explanation: 'Every project must be closed, as closure provides benefit to the performing organization. This means simply stopping work is not the best choice. Shifting work and releasing team members do not solve the problem�they just postpone dealing with it. The best thing for the project manager to do is begin the Close Project or Phase process.',
+				answers: [
+					{ answer: 'Shift more of the work to later in the schedule to allow time for the customer to get the funds.' },
+					{ answer: 'Close Project or Phase.', correct: true },
+					{ answer: 'Stop work.' },
+					{ answer: 'Release part of the project team.' },
+				]
+			},
+			{	question: 'All of the following are parts of an effective change management plan EXCEPT:',
+				explanation: 'A change management plan includes the processes and procedures that allow smooth evaluation and tracking of changes. Lessons learned are reviews of the processes and procedures after the fact, to improve them on future projects.',
+				answers: [
+					{ answer: 'Procedures.' },
+					{ answer: 'Standards for reports.' },
+					{ answer: 'Meetings.' },
+					{ answer: 'Lessons learned.', correct: true },
+				]
+			},
+			{	question: 'A work authorization system can be used to:',
+				explanation: 'Who does each activity is managed with the responsibility assignment matrix. When each activity is done is managed with the project schedule. A work authorization system is used to coordinate when and in what order the work is performed so that work and people may properly interface with other work and other people.',
+				answers: [
+					{ answer: 'Manage who does each activity.' },
+					{ answer: 'Manage when and in what sequence work is done.', correct: true },
+					{ answer: 'Manage when each activity is done.' },
+					{ answer: 'Manage who does each activity and when it is done.' },
+				]
+			},
+			{	question: 'A project is plagued by changes to the project charter. Who has the primary responsibility to decide if these changes are necessary?',
+				explanation: 'The sponsor issues the project charter and so he or she should help the project manager control changes to the charter. The primary responsibility lies with the sponsor.',
+				answers: [
+					{ answer: 'The project manager' },
+					{ answer: 'The project team' },
+					{ answer: 'The sponsor', correct: true },
+					{ answer: 'The stakeholders' },
+				]
+			},
+			{	question: 'Effective project integration usually requires an emphasis on:',
+				explanation: 'This question is asking for the most important of the choices. Think about what is involved in integration: project management plan development, project management plan execution, and integrated change control. Updates and product control are parts of project monitoring and controlling, while integration includes more than control. Advancing the careers of team members falls under project executing (the Develop Project Team process). In order to integrate the project components into a cohesive whole, communication is key whenever one activity will interface with another or one team member will interface with another, and when any other form of interfacing will occur.',
+				answers: [
+					{ answer: 'The personal careers of the team members.' },
+					{ answer: 'Timely updates to the project management plan.' },
+					{ answer: 'Effective communication at key interface points.', correct: true },
+					{ answer: 'Product control.' },
+				]
+			},
+			{	question: 'Integration is done by the:',
+				explanation: 'Integration is a key responsibility of the project manager.',
+				answers: [
+					{ answer: 'Project manager.', correct: true },
+					{ answer: 'Team.' },
+					{ answer: 'Sponsor.' },
+					{ answer: 'Stakeholders.' },
+				]
+			},
+			{	question: 'Which of the following BEST describes the project manager`s role as an integrator?',
+				explanation: 'Integration refers to combining activities, not team members.',
+				answers: [
+					{ answer: 'Help team members become familiar with the project.' },
+					{ answer: 'Put all the pieces of a project into a cohesive whole.', correct: true },
+					{ answer: 'Put all the pieces of a project into a program.' },
+					{ answer: 'Get all team members together into a cohesive whole.' },
+				]
+			},
+			{	question: 'Approved corrective actions are an input to which of the following processes?',
+				explanation: 'Direct and Manage Project Work is the only correct response.',
+				answers: [
+					{ answer: 'Validate Scope' },
+					{ answer: 'Direct and Manage Project Work', correct: true },
+					{ answer: 'Develop Project Charter' },
+					{ answer: 'Develop Schedule' },
+				]
+			},
+			{	question: 'Double declining balance is a form of:',
+				explanation: 'Double declining balance is a form of depreciation. That eliminates the choice of life cycle costing. The choices of decelerated depreciation and straight line depreciation are also incorrect because double declining balance is a form of accelerated depreciation.',
+				answers: [
+					{ answer: 'Decelerated depreciation.' },
+					{ answer: 'Straight line depreciation.' },
+					{ answer: 'Accelerated depreciation.', correct: true },
+					{ answer: 'Life cycle costing.' },
+				]
+			},
+			{	question: 'Which of the following BEST describes what a project charter may be used for when the work is being completed?',
+				explanation: 'One of the ways to decide if a change should be approved is to determine whether the work falls within the project charter. If not, it should be rejected, assigned to a more appropriate project, or addressed as a project of its own.',
+				answers: [
+					{ answer: 'To make sure all the team members are rewarded' },
+					{ answer: 'To help determine if a scope change should be approved', correct: true },
+					{ answer: 'To assess the effectiveness of the change control system' },
+					{ answer: 'To make sure that all the documentation on the project is completed' },
+				]
+			},
+			{	question: 'Which of the following BEST describes a project management plan?',
+				explanation: 'The project management plan includes more than just a bar chart and the project manager`s plan for completing the work. It includes all the management plans for the project.',
+				answers: [
+					{ answer: 'A printout from project management software' },
+					{ answer: 'A bar chart' },
+					{ answer: 'Risk, human resource, process improvement, and other management plans', correct: true },
+					{ answer: 'The project scope' },
+				]
+			},
+			{	question: 'Which of the following is TRUE about the development of a project charter?',
+				explanation: 'The project manager may create the project charter, but it is approved and authorized by the project sponsor, giving the project manager authority to proceed with the project.',
+				answers: [
+					{ answer: 'The sponsor creates the project charter, and the project manager approves it.' },
+					{ answer: 'The project team creates the project charter, and the PM0 approves it.' },
+					{ answer: 'The executive manager creates the project charter, and the functional manager approves it.' },
+					{ answer: 'The project manager creates the project charter, and the sponsor approves it.', correct: true },
+				]
+			},
+			{	question: 'A project management plan should be realistic in order to be used to manage the project. Which of the following is the BEST method to achieve a realistic project management plan?',
+				explanation: 'If we were to rephrase the question, it would be asking, "Who creates the project management plan?" The best answer is that the project management plan is created by the project manager but requires input from the team.',
+				answers: [
+					{ answer: 'The sponsor creates the project management plan based on input from the project manager.' },
+					{ answer: 'The functional manager creates the project management plan based on input from the project manager.' },
+					{ answer: 'The project manager creates the project management plan based on input from senior management.' },
+					{ answer: 'The project manager creates the project management plan based on input from the team.', correct: true },
+				]
+			},
+			{	question: 'You are taking over a project during project planning and discover that six individuals have signed the project charter. Which of the following should MOST concern you?',
+				explanation: 'Determining who will be on the change control board and determining the reporting structure may have already been done. In any case, these choices are not directly impacted by the number of sponsors who have signed the charter. Having a single project sponsor is not necessary. This situation implies that there are six areas concerned with this project. In addition to added communications requirements, you should be concerned with competing needs and requirements impacting your efforts on configuration management.',
+				answers: [
+					{ answer: 'Who will be a member of the change control board' },
+					{ answer: 'Spending more time on configuration management', correct: true },
+					{ answer: 'Getting a single project sponsor' },
+					{ answer: 'Determining the reporting structure' },
+				]
+			},
+			{	question: 'The project manager is working to clearly describe the level of involvement expected from everyone on the project in order to prevent rework, conflict, and coordination problems. Which of the following BEST describes the project manager`s efforts?',
+				explanation: 'Notice that this question uses the words "working to clearly describe` and "prevent!` Taken together, they should tell you the project is in project planning. This eliminates all choices except Develop Project Management Plan and Plan Quality Management. Coordination and conflict prevention relate to Develop Project Management Plan, and preventing rework is part of Plan Quality Management.',
+				answers: [
+					{ answer: 'Develop Project Management Plan and Plan Quality Management', correct: true },
+					{ answer: 'Manage Stakeholder Engagement and Direct and Manage Project Work' },
+					{ answer: 'Validate Scope and Control Quality' },
+					{ answer: 'Identify Risks and Develop Project Team' },
+				]
+			},
+			{	question: 'All of the following are parts of the Direct and Manage Project Work process EXCEPT:',
+				explanation: 'A WBS is created in project planning, but can be used to help manage the project during project executing. The wording here was not "creating a WBS," but "using a WBS." A project control system is set up during project planning, not during project executing, and therefore is the exception.',
+				answers: [
+					{ answer: 'Identifying changes.' },
+					{ answer: 'Using a work breakdown structure.' },
+					{ answer: 'Implementing corrective actions.' },
+					{ answer: 'Setting up a project control system.', correct: true },
+				]
+			},
+			{	question: 'A project manager is appointed to head a highly technical project in an area with which this person has limited familiarity. The project manager delegates the processes of Develop Schedule, Estimate Costs, Define Activities, and Estimate Activity Resources to various project team members, and basically serves as an occasional referee and coordinator of activities. The results of this approach are likely to be:',
+				explanation: 'A project manager must manage and integrate all aspects of a project. If all activities are delegated, chaos ensues and team members will spend more time jockeying for position than completing activities.',
+				answers: [
+					{ answer: 'A team functioning throughout the project at a very high level, demonstrating creativity and commitment.' },
+					{ answer: 'A team that initially experiences some amounts of confusion, but that after a period of time becomes a cohesive and effective unit.' },
+					{ answer: 'A team that is not highly productive, but that stays together because of the work environment created by the project manager.' },
+					{ answer: 'A team that is characterized by poor performance, low morale, high levels of conflict, and high turnover.', correct: true },
+				]
+			},
+			{	question: 'You are in the middle of executing a major modification to an existing product when you learn that the resources promised at the beginning of the project are not available. The BEST thing to do is to:',
+				explanation: 'Crashing and replanning are essentially delaying the situation. Instead, the project manager should try to prevent the situation by showing the consequences if the resources are not available. This is a more effective strategy than saying, "But you gave them to me."',
+				answers: [
+					{ answer: 'Show how the resources were originally promised to your project.' },
+					{ answer: 'Replan the project without the resources.' },
+					{ answer: 'Explain the impact if the promised resources are not made available.', correct: true },
+					{ answer: 'Crash the project.' },
+				]
+			},
+			{	question: 'The primary customer of a project has requested an application change during user testing. As project manager, how should you BEST address this issue?',
+				explanation: 'Your first action is to formally document the requested change to the requirements, and then follow the integrated change control process.',
+				answers: [
+					{ answer: 'Develop a risk mitigation plan.' },
+					{ answer: 'Create a formal change request.', correct: true },
+					{ answer: 'Inform the project sponsor of changes to scope, cost, and schedule.' },
+					{ answer: 'Ensure the scope change complies with all relevant contractual provisions.' },
+				]
+			},
+			{	question: 'The project manager has just received a change from the customer that does not affect the project schedule and is easy to complete. What should the project manager do FIRST?',
+				explanation: 'The other impacts to the project should be evaluated first. Such impacts include scope, cost, quality, risk, resources, and customer satisfaction. Once these are evaluated, the change control board, if one exists, can approve or deny the change.',
+				answers: [
+					{ answer: 'Make the change happen as soon as possible.' },
+					{ answer: 'Contact the project sponsor for permission.' },
+					{ answer: 'Go to the change control board.' },
+					{ answer: 'Evaluate the impacts on other project constraints.', correct: true },
+				]
+			},
+			{	question: 'Your company just won a major new project. It will begin in three months and is valued at US $2,000,000. You are the project manager for an existing project. What is the FIRST thing you should do once you hear of the new project?',
+				explanation: 'You do not have enough information to consider resource leveling or crashing this project. As you work on any project, you need to constantly reevaluate the project objectives and how the project relates to other concurrent projects. Is your project still in line with corporate objectives? If the other project will impact yours, you need to be proactive and work on options now',
+				answers: [
+					{ answer: 'Ask management how the new project will use resources.' },
+					{ answer: 'Resource level your project.' },
+					{ answer: 'Crash your project.' },
+					{ answer: 'Ask management how the new project will affect your project.', correct: true },
+				]
+			},
+			{	question: 'You were just assigned to take over a project from another project manager who is leaving the company. The previous project manager tells you that the project is on schedule, but only because he has constantly pushed the team to perform. What is the FIRST thing you should do as the new project manager?',
+				explanation: 'Before you can do anything else, you have to know what YOU are going to do. Developing the management strategy will provide the framework for all the rest of the choices presented and the other activities that need to be done.',
+				answers: [
+					{ answer: 'Check risk status.' },
+					{ answer: 'Check cost performance.' },
+					{ answer: 'Determine a management strategy.', correct: true },
+					{ answer: 'Tell the team your objectives.' },
+				]
+			},
+			{	question: 'You are assigned as the project manager in the middle of the project. The project is within the baselines, but the customer is not happy with the performance of the project. What is the FIRST thing you should do?',
+				explanation: 'First, you need to find out why the customer is not happy. Then meet with the team and determine options.',
+				answers: [
+					{ answer: 'Discuss it with the project team.' },
+					{ answer: 'Recalculate baselines.' },
+					{ answer: 'Renegotiate the contract.' },
+					{ answer: 'Meet with the customer.', correct: true },
+				]
+			},
+			{	question: 'It is the middle of the project when the project manager is informed by her scheduler that the project control limits are secure. That same morning she receives a note from a team member about a problem he is having. The note says, "This activity is driving me crazy, and the manager of the accounting department won`t help me until the activity`s float is in jeopardy." In addition, the project manager has e-mails from a minor stakeholder and 14 e-mails from team members. While she is reading the e-mails, a team member walks into the project manager`s office to tell her a corrective action was implemented by a team member from the project management office, but was not documented. What should the project manager do NEXT?',
+				explanation: 'Notice how many situations are thrown at you in this question. It is important to practice reading through questions to discover what is important and what is just background information. In this question, the only thing relevant was the corrective action taken. Once you discover what the primary issue is, look at the choices to find out which is best for addressing that issue. What is the primary issue here? Did you realize the team member`s note is about a non-critical path activity? ("Until the project float is in jeopardy" means there is float and, thus, it is not on the critical path.) So is the issue the noncritical path activity or the documentation? You might disagree with the logic, but in this case the answer is the documentation. In the real world, problems often repeat. Without a record of what was done, there is no opportunity to consider the same solution for future problems. Documentation is critical to projects. Because the change log becomes part of the historical records database, it is best to first record the corrective action taken, then discuss the value of documentation at the next team meeting, and smooth the team member`s issue with the accounting department.',
+				answers: [
+					{ answer: 'Report the documentation violation to the project management office, evaluate the security of the control limits, and review the e-mailing rules in the communications management plan.' },
+					{ answer: 'Clarify the reasoning behind documentation being a problem, get the accounting department to assist the team member, and respond to the minor stakeholder.' },
+					{ answer: 'Add the implemented corrective action to the change log, discuss the value of documentation at the next team meeting, and smooth the team member`s issue with the accounting department.', correct: true },
+					{ answer: 'Find out who caused the problem with the accounting department, respond to the minor stakeholder before responding to the other e-mails, and review the process listed in the communications management plan for reporting concerns with the team member having the documentation problem.' },
+				]
+			},
+			{	question: 'The client demands changes to the product specification that will add only two weeks to the critical path. Which of the following is the BEST thing for the project manager to do?',
+				explanation: 'Do you remember what to do when there is a change? Evaluate first. You wouldn`t take action before getting approval, so compressing the schedule or cutting scope would happen after consulting the sponsor and/or advising the client of the impact of the change. You would not go to the customer before going to your internal management, so advising the client is not the correct thing to do next. The next step is to discuss options with the sponsor.',
+				answers: [
+					{ answer: 'Compress the schedule to recover the two weeks.' },
+					{ answer: 'Cut scope to recover the two weeks.' },
+					{ answer: 'Consult with the sponsor about options.', correct: true },
+					{ answer: 'Advise the client of the impact of the change.' },
+				]
+			},
+			{	question: 'During project executing, the project manager determines that a change is needed to material purchased for the project. The project manager calls a meeting of the team to plan how to make the change. This is an example of',
+				explanation: 'The project manager is asking how to make a change. Such a question cannot be resolved using management by objectives, team relations, or a work breakdown structure. The procedures, forms, sign-offs, and other similar requirements for handling changes should have already been determined in the change management plan. Because they were not, the project manager will waste valuable work time trying to figure it out after the fact.',
+				answers: [
+					{ answer: 'Management by objectives.' },
+					{ answer: 'Lack of a change management plan.', correct: true },
+					{ answer: 'Good team relations.' },
+					{ answer: 'Lack of a clear work breakdown structure.' },
+				]
+			},
+			{	question: 'The project was going well when all of a sudden there were changes to the project coming from multiple stakeholders. After all the changes were determined, the project manager spent time with all the stakeholders to find out why there were changes and to discover any more. The project work has quieted down when a team member casually mentions to the project manager that he added functionality to a product of the project. "Do not worry:` he says, "I did not impact time, cost, or quality!" What should the project manager do FIRST?',
+				explanation: 'Notice that the first paragraph is extraneous. Also notice that the question states that the change has already been made. The project manager`s actions would be different if the change had not been made. The project manager, with the help of others, must determine how a change impacts the project as a whole. Asking the team member how he knows there is no impact on time, cost, or quality is the best answer. This begins the project manager`s analysis of the impacts to the project as a whole by finding out what analysis has already been done. This change minimally involves a change to the scope baseline, and likely other baselines. A change request must ultimately be submitted to integrated change control, but that is not listed as an option.',
+				answers: [
+					{ answer: 'Ask the team member how the need for the functionality was determined.' },
+					{ answer: 'Hold a meeting to review the team member`s completed work.' },
+					{ answer: 'Look for other added functionality.' },
+					{ answer: 'Ask the team member how he knows there is no time, cost, or quality impact.', correct: true },
+				]
+			},
+			{	question: 'You are asked to prepare a budget for completing a project that was started last year and then shelved for six months. All the following would be included in the project budget EXCEPT:',
+				explanation: 'Sunk costs are expended costs. The rule is that they should not be considered when deciding whether to continue with a troubled project.',
+				answers: [
+					{ answer: 'Fixed costs.' },
+					{ answer: 'Sunk costs.', correct: true },
+					{ answer: 'Direct costs.' },
+					{ answer: 'Variable costs.' },
+				]
+			},
+			{	question: 'Which of the following sequences represents straight line depreciation?',
+				explanation: 'Straight line depreciation uses the same amount each time period.',
+				answers: [
+					{ answer: '$100, $100, $100', correct: true },
+					{ answer: '$100, $120, $140' },
+					{ answer: '$100, $120, $160' },
+					{ answer: '$160, $140, $120' },
+				]
+			},
+			{	question: 'This project is chartered to determine new ways to extend the product life of one of the company`s medium-producing products. The project manager comes from the engineering department, and the team comes from the product management and marketing departments. The project scope statement and project planning are completed when a stakeholder notifies the team that there is a better way to complete one of the work packages. The stakeholder supplies a technical review letter from his department proving that the new way to complete the work package will actually be faster than the old way. The project manager has had similar experiences with this department on other projects, and was expecting this to happen on this project. What is the FIRST thing the project manager should do?',
+				explanation: 'Complaining about the missed deadline could be done, but it is not proactive. It would be helpful to get to the root cause of why this department always comes up with such ideas or changes after the project begins. However, this is not the immediate problem; the change is the immediate problem, and therefore complaining is not best. The type of project organization described is a matrix organization. There is not anything inherently wrong with such an',
+				answers: [
+					{ answer: 'Contact the department and complain again about their missing the deadline for submission of scope.' },
+					{ answer: 'Look for how this change will impact the cost to complete the work package and the quality of the product of the work package.', correct: true },
+					{ answer: 'See if there is a way to change from a matrix organization to a functional organization so as to eliminate all the interference from other departments.' },
+					{ answer: 'Ask the department if they have any other changes.' },
+				]
+			},
+			{	question: 'Project A has an internal rate of return (IRR) of 21 percent. Project B has an IRR of 7 percent. Project C has an IRR of 31 percent. Project D has an IRR of 19 percent. Which of these would be the BEST project?',
+				explanation: 'Remember, the internal rate of return is similar to the interest rate you get from the bank. The higher the rate, the better the return.',
+				answers: [
+					{ answer: 'Project A' },
+					{ answer: 'Project B' },
+					{ answer: 'Project C', correct: true },
+					{ answer: 'Project D' },
+				]
+			},
+			{	question: 'An output of the Close Project or Phase process is the creation of:',
+				explanation: 'The project charter is created in initiating. The project management plan and risk management plan are outputs of project planning. Project records are archived in the Close Project or Phase process.',
+				answers: [
+					{ answer: 'Project archives.', correct: true },
+					{ answer: 'A project charter.' },
+					{ answer: 'A project management plan.' },
+					{ answer: 'A risk management plan.' },
+				]
+			},
+			{	question: 'All of the following occur during the Close Project or Phase process EXCEPT:',
+				explanation: 'Cost-benefit analysis is done earlier in the project to help select between alternatives. All the other choices are done during the Close Project or Phase process. Therefore, performing cost-benefit analysis must be the best answer.',
+				answers: [
+					{ answer: 'Creating lessons learned.' },
+					{ answer: 'Formal acceptance.' },
+					{ answer: 'Performance reporting.' },
+					{ answer: 'Performing cost-benefit analysis.', correct: true },
+				]
+			},
+			{	question: 'Which of the following is included in a project charter?',
+				explanation: 'A risk management strategy and work package estimates are not created until project planning, but the project charter is created in initiating. A project charter may include the names of some resources (the project manager, for example), but not detailed resource estimates. Of the choices given, only the business case for the project is included in the project charter.',
+				answers: [
+					{ answer: 'A risk management strategy' },
+					{ answer: 'Work package estimates' },
+					{ answer: 'Detailed resource estimates' },
+					{ answer: 'The business case for the project', correct: true },
+				]
+			},
+			{	question: 'A project manager is trying to convince management to use more formal project management procedures and has decided to start improving the company`s project management by obtaining a project charter for each of his projects. Which of the following BEST describes why a project charter would help the project manager?',
+				explanation: 'The exam will ask questions like this to make sure you know the benefits you should be getting out of the processes and tools of project management. The details of what needs to be done are found in the WBS dictionary. The names of team members are included in the responsibility assignment matrix and other documents. Project history is found in the lessons learned and other historical records. A major benefit of a project charter is that it documents the authority given to the project manager.',
+				answers: [
+					{ answer: 'It describes the details of what needs to be done.' },
+					{ answer: 'It lists the names of all team members.' },
+					{ answer: 'It gives the project manager authority.', correct: true },
+					{ answer: 'It describes the history of similar or related projects.' },
+				]
+			},
+			{	question: 'Linear programming is an example of what type of project selection criteria?',
+				explanation: 'Constrained optimization uses mathematical models. Linear programming is a mathematical model.',
+				answers: [
+					{ answer: 'Constrained optimization', correct: true },
+					{ answer: 'Comparative approach' },
+					{ answer: 'Benefit measurement' },
+					{ answer: 'Impact analysis' },
+				]
+			},
+			{	question: 'You have been involved in creating the project charter, but could not get it approved. Your manager and his boss have asked that the project begin immediately. Which of the following is the BEST thing to do?',
+				explanation: 'The best thing to do would be to show the impact. This is the only choice that prevents future problems�always the best choice. The other choices just pretend the problem does not exist.',
+				answers: [
+					{ answer: 'Set up an integrated change control process.' },
+					{ answer: 'Show your manager the impact of proceeding without approval.', correct: true },
+					{ answer: 'Focus on completing projects that have signed project charters.' },
+					{ answer: 'Start work on only the critical path activities.' },
+				]
+			},
+			{	question: 'The engineering department has uncovered a problem with the cost accounting system and has asked the systems department to analyze what is wrong and fix the problem. You are a project manager working with the cost accounting programs on another project. Management has issued a change request to the change control board to add the new work to your project. Your existing project has a cost performance index (CPI) of 1.2 and a schedule performance index (SPI) of 1.3, so you have some room to add work without delaying your existing project or going over budget. However, you cannot see how the new work fits within the project charter for your existing project. After some analysis, you determine that the new work and existing work do not overlap and can be done concurrently. They also require different skill sets. Which of the following is the BEST thing to do?',
+				explanation: 'How long did it take you to read this question? Expect long-winded questions on the exam. Take another look at the choices before you continue reading. Did you notice that each of the choices occurs during a different part of the project management process? This question is essentially asking if the new work should be added to the existing project. There may be many business reasons to try to do this, but from a project management perspective, major additions to the project are generally discouraged. In this case, the new work is a self-contained unit of work, has no overlap with the existing work, does not fit within the project charter, and needs a different skill set. Therefore, it is best to make it a new project. The first step to answering this question is to realize that the work should be a separate project. The second step is to look at the choices and see which relates to initiating a new project. Reestimating the project sounds like the best choice only if you did not realize that the new work should be a separate project. Validating scope is done during project monitoring and controlling, and does not relate to the decision of whether to add work to the project. Identifying scope changes also implies that the new work has been accepted as an addition to the existing project. Developing a project charter is among the first steps of initiating a new project, and the best choice in this situation.',
+				answers: [
+					{ answer: 'Develop a project charter.', correct: true },
+					{ answer: 'Reestimate the project schedule with input from the engineering department.' },
+					{ answer: 'Validate the scope of the new work with the help of the stakeholders.' },
+					{ answer: 'Identify specific changes to the existing work.' },
+				]
+			},
+			{	question: 'All technical work is completed on the project. Which of the following remains to be done?',
+				explanation: 'Did you pick Validate Scope? Then you may have forgotten that the Validate Scope process is done during project monitoring and controlling, not project closing. Planning the risk responses and creating the staffing management plan are done earlier in the project. The lessons learned can only be completed after the work is completed.',
+				answers: [
+					{ answer: 'Validate Scope' },
+					{ answer: 'Plan Risk Responses' },
+					{ answer: 'Create a staffing management plan' },
+					{ answer: 'Complete lessons learned', correct: true },
+				]
+			},
+			{	question: 'Which of the following BEST reflects the phrase "influencing the factors that affect change"?',
+				explanation: 'A project manager should be looking at where changes are coming from and doing whatever is necessary to limit the negative effects of change on the project. He or she needs to find the root cause, so future changes may be avoided.',
+				answers: [
+					{ answer: 'Telling people that changes are not allowed after planning is complete' },
+					{ answer: 'Determining the sources of changes and fixing the root causes', correct: true },
+					{ answer: 'Adding more activities to the work breakdown structure to accommodate risks' },
+					{ answer: 'Calculating the impact of changes to date on the project' },
+				]
+			},
+		]
+	},
+	{
+		title: 'Chapter 05',
+		questions: [
+			{	question: 'A work breakdown structure numbering system allows the project team to:',
+				explanation: 'The numbering system allows team members to quickly identify the level in the work breakdown structure where the specific element is found. It also helps to locate the element in the WBS dictionary.',
+				answers: [
+					{ answer: 'Systematically estimate costs of work breakdown structure elements.' },
+					{ answer: 'Provide project justification.' },
+					{ answer: 'Identify the level at which individual elements are found.', correct: true },
+					{ answer: 'Use it in project management software.' },
+				]
+			},
+			{	question: 'The work breakdown structure can BEST be thought of as an effective aid for communications.',
+				explanation: 'The term "stakeholder" encompasses all the other choices. In this case, it is the best answer since the WBS can be used (but does not need to be used) as a communications tool for all stakeholders to "see" what is included in the project.',
+				answers: [
+					{ answer: 'Team' },
+					{ answer: 'Project manager' },
+					{ answer: 'Customer' },
+					{ answer: 'Stakeholder', correct: true },
+				]
+			},
+			{	question: 'Which of the following is a KEY output of the Validate Scope process?',
+				explanation: 'The output of the Validate Scope process is customer acceptance of project deliverables. The other choices all happen during project planning, well before the time the Validate Scope process takes place.',
+				answers: [
+					{ answer: 'A more complete scope management plan' },
+					{ answer: 'Customer acceptance of project deliverables', correct: true },
+					{ answer: 'Improved schedule estimates' },
+					{ answer: 'An improved project management information system' },
+				]
+			},
+			{	question: 'During project executing, a team member comes to the project manager because he is not sure what work he needs to accomplish on the project. Which of the following documents contains detailed descriptions of work packages?',
+				explanation: 'Activity lists may identify the work package they relate to, but they do not contain detailed descriptions of the work packages. The project scope statement defines the project scope, but it does not describe the work a team member is assigned. The scope management plan describes how scope will be planned, managed, and controlled. It does not include a description of each work package. The WBS dictionary defines each element in the WBS. Therefore, descriptions of the work packages are in the WBS dictionary.',
+				answers: [
+					{ answer: 'WBS dictionary', correct: true },
+					{ answer: 'Activity list' },
+					{ answer: 'Project scope statement' },
+					{ answer: 'Scope management plan' },
+				]
+			},
+			{	question: 'During which part of the project management process is the project scope statement created?',
+				explanation: 'The project scope statement is an output of the Define Scope process, which occurs during project planning.',
+				answers: [
+					{ answer: 'Initiating' },
+					{ answer: 'Planning', correct: true },
+					{ answer: 'Executing' },
+					{ answer: 'Monitoring and controlling' },
+				]
+			},
+			{	question: 'The program was planned years ago, before there was a massive introduction of new technology. While planning the next project in this program, the project manager has expanded the scope management plan because, as a project becomes more complex, the level of uncertainty in the scope:',
+				explanation: 'Not all questions will be difficult. The level of uncertainty in scope increases based on the scale of effort required to identify all the scope. For larger projects, it is more difficult to "catch" everything.',
+				answers: [
+					{ answer: 'Remains the same.' },
+					{ answer: 'Decreases.' },
+					{ answer: 'Decreases then increases.' },
+					{ answer: 'Increases.', correct: true },
+				]
+			},
+			{	question: 'During a meeting with some of the project stakeholders, the project manager is asked to add work to the project scope. The project manager had access to correspondence about the project before the project charter was signed and remembers that the project sponsor specifically denied funding for the scope mentioned by these stakeholders. The BEST thing for the project manager to do is to:',
+				explanation: 'Although one could let the sponsor know about the stakeholders` request, the best choice listed would be to say no, as this was already considered. An even better choice would be to find the root cause of the problem, but that choice is not listed here.',
+				answers: [
+					{ answer: 'Let the sponsor know of the stakeholders` request.' },
+					{ answer: 'Evaluate the impact of adding the scope.' },
+					{ answer: 'Tell the stakeholders the scope cannot be added.', correct: true },
+					{ answer: 'Add the work if there is time available in the project schedule.' },
+				]
+			},
+			{	question: 'A new project manager is being mentored by a more experienced PMP-certified project manager. The new project manager is having difficulty finding enough time to manage the project because the project scope is being progressively elaborated. The PMP-certified project manager advises that the basic tools for project management, such as a work breakdown structure, can be used during project executing to assist the project manager. For which of the following can a work breakdown structure be used?',
+				explanation: 'A WBS does not show dates or responsibility assignments. The business need is described in the project charter. In this situation, the project scope is being fine-tuned. It would save the project manager time in effectively managing progressive elaboration if the WBS was used as a communications tool. Using the WBS helps ensure everyone (including the customer) understands the scope of the work',
+				answers: [
+					{ answer: 'Communicating with the customer', correct: true },
+					{ answer: 'Showing calendar dates for each work package' },
+					{ answer: 'Showing the functional managers for each team member' },
+					{ answer: 'Showing the business need for the project' },
+				]
+			},
+			{	question: 'During a project team meeting, a team member suggests an enhancement to the scope that is beyond the scope of the project charter. The project manager points out that the team needs to concentrate on completing all the work and only the work required. This is an example of',
+				explanation: 'The team member is suggesting an enhancement that is outside the scope of the project charter. Scope management involves focusing on doing the work and only the work in the project management plan that meets the objectives of the project charter. The project manager is performing scope management.',
+				answers: [
+					{ answer: 'Change management process.' },
+					{ answer: 'Scope management.', correct: true },
+					{ answer: 'Quality analysis.' },
+					{ answer: 'Scope decomposition.' },
+				]
+			},
+			{	question: 'When should the Validate Scope process be done?',
+				explanation: 'The Validate Scope process occurs during project monitoring and controlling. It is done at the end of each project phase to get approval for phase deliverables, as well as at other points to get approval for interim deliverables.',
+				answers: [
+					{ answer: 'At the end of the project' },
+					{ answer: 'At the beginning of the project' },
+					{ answer: 'At the end of each phase of the project', correct: true },
+					{ answer: 'During the planning processes' },
+				]
+			},
+			{	question: 'The project is mostly complete. The project has a schedule variance of 300 and a cost variance of -900. All but one of the quality control inspections have been completed and all have met the quality requirements. All items in the issue log have been resolved. Many of the resources have been released. The sponsor is about to call a meeting to obtain product validation when the customer notifies the project manager that they want to make a major change to the scope. The project manager should:',
+				explanation: 'Do not jump into the problem without thinking. The customer only notified the project manager that they want to make a change. They did not describe the change. The project manager should not say no until he or she knows more about the potential change, nor should the project manager go to management without more information. The project manager must understand the nature of the change and have time to evaluate the impact of that change before doing anything else. Of these choices, the first thing to do is to determine what the change is. The project manager might then analyze the potential change with the team, but only if their input is required.',
+				answers: [
+					{ answer: 'Meet with the project team to determine if this change can be made.' },
+					{ answer: 'Ask the customer for a description of the change.', correct: true },
+					{ answer: 'Explain that the change cannot be made at this point in the process.' },
+					{ answer: 'Inform management.' },
+				]
+			},
+			{	question: 'You have just joined the project management office after five years of working on projects. One of the things you want to introduce to your company is the value of creating and utilizing work breakdown structures. Some of the project managers are angry that you are asking them to do "extra work!" Which of the following would be the BEST thing you could tell the project managers to convince them to use work breakdown structures?',
+				explanation: 'Work breakdown structures are required on projects of every size, regardless of whether contracts are involved. Work breakdown structures can be used to help identify risks, but risks can be identified using other methods as well. Preventing work from being forgotten (slipping through the cracks) is one of the main reasons the tool is used, and is the best choice offered here.',
+				answers: [
+					{ answer: 'Work breakdown structures will prevent work from slipping through the cracks.', correct: true },
+					{ answer: 'Work breakdown structures are only needed on large projects.' },
+					{ answer: 'Work breakdown structures are required only if the project involves contracts.' },
+					{ answer: 'Work breakdown structures are the only way to identify risks.' },
+				]
+			},
+			{	question: 'A new project manager has asked you for advice on creating a work breakdown structure. After you explain the process to her, she asks you what software she should use to create the WBS and what she should do with it when it is completed. You might respond that it is not the picture that is the most valuable result of creating a WBS. The most valuable result of a WBS is:',
+				explanation: 'The WBS is an input to all of these choices. However, team buy-in is a direct result of the WBS creation process, while the other choices use the WBS to assist in their completion. Involving the team in creating the WBS provides project team members with an understanding of where their pieces fit into the overall project management plan and gives them an indication of the impact of their work on the project as a whole.',
+				answers: [
+					{ answer: 'A bar chart.' },
+					{ answer: 'Team buy-in.', correct: true },
+					{ answer: 'Activities.' },
+					{ answer: 'A list of risks.' },
+				]
+			},
+			{	question: 'To manage a project effectively, work should be broken down into small pieces. Which of the following does NOT describe how far to decompose the work?',
+				explanation: 'The lowest level of the WBS is a work package, which can be completed by more than one person. The other choices are aspects of a work package.',
+				answers: [
+					{ answer: 'Until it has a meaningful conclusion' },
+					{ answer: 'Until it cannot be logically subdivided further' },
+					{ answer: 'Until it can be done by one person', correct: true },
+					{ answer: 'Until it can be realistically estimated' },
+				]
+			},
+			{	question: 'A project manager may use	to make sure the team members clearly know what work is included in each of their work packages.',
+				explanation: 'The project scope statement describes work on a high-level basis. Work packages need to be specific to enable team members to complete their work without gold plating. The product scope does not tell team members what work is assigned to them. The team should have a copy of the schedule, but a schedule does not show them what work is included in each of their work packages. Work packages are described in the WBS dictionary. NOTE: Do not think of the WBS dictionary as a dictionary of terms.',
+				answers: [
+					{ answer: 'The project scope statement' },
+					{ answer: 'The product scope' },
+					{ answer: 'The WBS dictionary', correct: true },
+					{ answer: 'The schedule' },
+				]
+			},
+			{	question: 'The MAIN purpose of writing a user story is:',
+				explanation: 'A user story is a way of stating a requirement, often using the following format: As a <Role>, I want <Functionality/Goal>, so that <Business Benefit/Motivation>. User stories may be developed in facilitated workshops or as part of other requirements-gathering methods.',
+				answers: [
+					{ answer: 'To document features or functions required by stakeholders.', correct: true },
+					{ answer: 'To create a record of issues encountered on the project.' },
+					{ answer: 'To perform what-if analysis.' },
+					{ answer: 'To communicate progress.' },
+				]
+			},
+			{	question: 'The construction phase of a new software product is near completion. The next phases are testing and implementation. The project is two weeks ahead of schedule. Which of the following processes should the project manager be MOST concerned with before moving into the final phase?',
+				explanation: 'The Validate Scope process deals with acceptance by the customer. Without this acceptance, the project manager will not be able to move into the next project phase.',
+				answers: [
+					{ answer: 'Validate Scope', correct: true },
+					{ answer: 'Control Quality' },
+					{ answer: 'Manage Communications' },
+					{ answer: 'Control Costs' },
+				]
+			},
+			{	question: 'You are managing a six-month project and have held bi-weekly meetings with your project stakeholders. After five-and-a-half months of work, the project is on schedule and budget, but the stakeholders are not satisfied with the deliverables. This situation will delay the project completion by one month. The MOST important process that could have prevented this situation is:',
+				explanation: 'Monitor and Control Risks, Control Schedule, and Control Scope are monitoring and controlling processes. This situation asks how to prevent the problem, which would have been done during planning. The project deliverables are defined in the Define Scope process, which is a part of project planning. Good planning reduces the likelihood of a situation like the one described, by including the right people and spending adequate time clarifying the project scope.',
+				answers: [
+					{ answer: 'Monitor and Control Risks.' },
+					{ answer: 'Control Schedule.' },
+					{ answer: 'Define Scope.', correct: true },
+					{ answer: 'Control Scope.' },
+				]
+			},
+			{	question: 'All of the following are parts of the scope baseline EXCEPT the:',
+				explanation: 'The scope baseline includes the WBS, WBS dictionary, and the project scope statement. The scope management plan is not part of the scope baseline.',
+				answers: [
+					{ answer: 'Scope management plan.', correct: true },
+					{ answer: 'Project scope statement.' },
+					{ answer: 'Work breakdown structure.' },
+					{ answer: 'WBS dictionary.' },
+				]
+			},
+			{	question: 'One of the stakeholders on the project contacts the project manager to discuss some additional scope they would like to add to the project. The project manager asks for details in writing and then works through the Control Scope process. What should the project manager do NEXT when the evaluation of the requested scope is complete?',
+				explanation: 'Notice that there are many things the project manager could do listed in the choices. The question asks what is the BEST thing to do NEXT. Management of the change is not complete when the Control Scope process is completed. It is important to look at the impact of the change on other parts of the project, such as time and cost. Therefore, performing integrated change control is the best thing to do next. This would probably be followed by making sure the impact of the change is understood by the stakeholder, then determining why this scope was not identified in planning, and asking the stakeholder if there are more changes expected.',
+				answers: [
+					{ answer: 'Ask the stakeholder if there are any more changes expected.' },
+					{ answer: 'Complete integrated change control.', correct: true },
+					{ answer: 'Make sure the impact of the change is understood by the stakeholder.' },
+					{ answer: 'Find out the root cause of why the scope was not discovered during project planning.' },
+				]
+			},
+			{	question: 'During the completion of project work, the sponsor asks the project manager to report on how the project is going. In order to prepare the report, the project manager asks all the team members what percent complete their work is. There is one team member who has been hard to manage from the beginning. In response to being asked what percent complete he is, the team member asks, "Percent complete of what?" Being tired of such comments, the project manager reports to the team member`s boss that the team member is not cooperating. Which of the following is MOST likely the real problem?',
+				explanation: 'The project manager is not losing resources (which is implied by not getting the manager`s buy-in). Although a reward system would help with cooperation, the real problem here is not cooperation. Meeting with the team member and his boss cannot be the answer because it also does not solve the problem at hand (the team member not knowing what he is to do). If you selected this choice, be very careful! You can get 10 to 20 questions wrong on the exam simply because you do not see the real problem! The whole discussion of the team member and his actions is a distracter. The real problem in this scenario is not that the team member is being uncooperative. He is asking a question that many team members want to ask in the real world. "How can I tell you how things are going if I do not know what work I am being asked to do?" The real problem is the lack of a WBS and work packages. If there were a WBS and work packages for the project, the team member would not have to ask such a question.',
+				answers: [
+					{ answer: 'The project manager did not get buy-in from the manager for the resources on the project.' },
+					{ answer: 'The project manager did not create an adequate reward system for team members to improve their cooperation.' },
+					{ answer: 'The project manager should have had a meeting with the team member`s boss the first time the team member caused trouble.' },
+					{ answer: 'The project manager did not assign work packages.', correct: true },
+				]
+			},
+			{	question: 'The development of the scope baseline can BEST be described as involving:',
+				explanation: 'After obtaining input from the customer and other stakeholders, the project team is responsible for developing the scope baseline. Remember that the scope baseline includes the WBS, WBS dictionary, and project scope statement.',
+				answers: [
+					{ answer: 'The functional managers.' },
+					{ answer: 'The project team.', correct: true },
+					{ answer: 'All the stakeholders.' },
+					{ answer: 'The project expediter.' },
+				]
+			},
+			{	question: 'Which of the following is an output of the Collect Requirements process?',
+				explanation: 'The project scope statement is an output of the Define Scope process. The work breakdown structure is an output of the Create WBS process. Scope change requests are outputs of the Validate Scope and Control Scope processes. The requirements traceability matrix is an output of the Collect Requirements process, and is used to track the requirements throughout the life of the project.',
+				answers: [
+					{ answer: 'Requirements traceability matrix', correct: true },
+					{ answer: 'Project scope statement' },
+					{ answer: 'Work breakdown structure' },
+					{ answer: 'Change requests' },
+				]
+			},
+			{	question: 'A scope change has been suggested by one of the stakeholders on the project. After careful consideration and a lot of arguing, the change control board has decided to reject the change. What should the project manager do?',
+				explanation: 'There is no reason to think that the board`s rejection would not contain an explanation already, since providing that information is commonly done. Suggesting a change process that circumvents the change control board`s authority is not ethical. There is no reason to think that approval processes are not already in place. A rejected change should be recorded for historical purposes, in case the idea is resurrected later, and for other reasons.',
+				answers: [
+					{ answer: 'Support the stakeholder by asking the board for the reason for the rejection.' },
+					{ answer: 'Suggest to the stakeholder that the next change they request will be approved.' },
+					{ answer: 'Document the outcome of the change request.', correct: true },
+					{ answer: 'Advise the change control board to make sure they create approval processes before the next change is proposed.' },
+				]
+			},
+			{	question: 'The cost performance index (CPI) on the project is 1.13, and the benefit cost ratio is 1.2. The project scope was created by the team and stakeholders. Requirements on the project have been changing throughout the project. No matter what the project manager has tried to accomplish in managing the project, which of the following is he MOST likely to face in the future?',
+				explanation: 'There are many pieces of data in this question that are distracters from the real issue. Though it is common to have to cut costs and add resources to a project, nothing in the question should lead you to think these will be required in this situation. Customers do not generally approve the project scope (what you are going to do to complete their requirements); instead, they approve the product scope (their requirements). Since requirements are used to measure the completion of the product of the project, not having complete requirements will make such measurement impossible.',
+				answers: [
+					{ answer: 'Having to cut costs on the project and increase benefits' },
+					{ answer: 'Making sure the customer has approved the project scope' },
+					{ answer: 'Not being able to measure completion of the product of the project', correct: true },
+					{ answer: 'Having to add resources to the project' },
+				]
+			},
+			{	question: 'Validate Scope is closely related to:',
+				explanation: 'Control Quality checks for correctness, and Validate Scope checks for acceptance.',
+				answers: [
+					{ answer: 'Control Quality.', correct: true },
+					{ answer: 'Sequence Activities.' },
+					{ answer: 'Perform Quality Assurance.' },
+					{ answer: 'Time Management.' },
+				]
+			},
+			{	question: 'Which of the following can create the MOST misinterpretation of the project scope statement?',
+				explanation: 'Much of the work on the project is dictated by the project scope statement. Any imprecision in such a key document will lead to differing interpretations.',
+				answers: [
+					{ answer: 'Imprecise language', correct: true },
+					{ answer: 'Poor pattern, structure, and chronological order' },
+					{ answer: 'Small variations in size of work packages or detail of work' },
+					{ answer: 'Too much detail' },
+				]
+			},
+			{	question: 'Which of the following is CORRECT in regard to the Control Scope process?',
+				explanation: 'Though it is correct that effective scope definition can lead to a more complete project scope statement, this cannot be the answer, because it does not deal with control. Scope planning occurs before the Control Scope process, not after it. Controlling the schedule is not the best way to control scope, so that is not the best answer. The control processes do not act in isolation. A change to one will most likely affect the others. Therefore the need to integrate the Control Scope process with other control processes is the best answer.',
+				answers: [
+					{ answer: 'Effective scope definition can lead to a more complete project scope statement.' },
+					{ answer: 'The Control Scope process must be done before scope planning.' },
+					{ answer: 'The Control Scope process must be integrated with other control processes.', correct: true },
+					{ answer: 'Controlling the schedule is the most effective way of controlling scope.' },
+				]
+			},
+			{	question: 'Which of the following BEST describes the Validate Scope process?',
+				explanation: 'The project management plan is completed before the Validate Scope process. The Validate Scope process does not deal with time, but rather acceptance. The Validate Scope process does not occur before the Define Scope process. The choice stating that the Validate Scope process ensures customer acceptance, shows the deliverable meets specifications, and provides a chance for differences of opinion to come to light is entirely correct, making that the best answer.',
+				answers: [
+					{ answer: 'It provides assurances that the deliverable meets the specifications, is an input to the project management plan, and is an output of Control Quality:' },
+					{ answer: 'It ensures the deliverable is completed on time, ensures customer acceptance, and shows the deliverable meets specifications.' },
+					{ answer: 'It ensures customer acceptance, shows the deliverable meets specifications, and provides a chance for differences of opinion to come to light.', correct: true },
+					{ answer: 'It is an output of Control Quality, occurs before Define Scope, and ensures customer acceptance.' },
+				]
+			},
+			{	question: 'Which of the following BEST describes product analysis?',
+				explanation: 'You need to have a product description before you can do product analysis. Analyzing the level of quality desired is related to the Plan Quality Management process. Determining whether the quality standards on the project can be met is done in the Perform Quality Assurance process. Product analysis includes gaining a better understanding of the product of the project, in order to create the project scope statement.',
+				answers: [
+					{ answer: 'Working with the customer to determine the product description' },
+					{ answer: 'Mathematically analyzing the quality desired for the project' },
+					{ answer: 'Gaining a better understanding of the product of the project in order to create the project scope statement', correct: true },
+					{ answer: 'Determining whether the quality standards on the project can be met' },
+				]
+			},
+		]
+	},
 ];
