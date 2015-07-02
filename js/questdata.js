@@ -1136,6 +1136,984 @@ window.questionnaires = [
 		]
 	},
 	{
+		title: 'Chapter 06',
+		questions: [
+			{	question: 'To control the schedule, a project manager is reanalyzing the project to predict project duration. She does this by analyzing the sequence of activities with the least amount of scheduling flexibility. What technique is she using?',
+				explanation: 'There are only two choices related to scheduling: critical path method and precedence diagramming. Precedence diagramming, however, is a diagramming technique that deals with the relationship between activities, not schedule flexibility. The project manager is analyzing the critical path.',
+				answers: [
+					{ answer: 'Critical path method', correct: true },
+					{ answer: 'Flowchart' },
+					{ answer: 'Precedence diagramming' },
+					{ answer: 'Work breakdown structure' },
+				]
+			},
+			{	question: 'A dependency requiring that design be completed before manufacturing can start is an example of a(n):',
+				explanation: 'No mention is made that the dependency comes from a source outside the project, so this is not an external dependency. Scope dependency is not a defined term. The key word in the question is “requiring.” Since the dependency is required, it could not be discretionary and therefore must be mandatory. The question defines a mandatory dependency.',
+				answers: [
+					{ answer: 'Discretionary dependency.' },
+					{ answer: 'External dependency.' },
+					{ answer: 'Mandatory dependency.', correct: true },
+					{ answer: 'Scope dependency.' },
+				]
+			},
+			{	question: 'Which of the following are GENERALLY illustrated BETTER by bar charts than network diagrams?',
+				explanation: 'The bar chart (or Gantt chart) is designed to show a relationship to time. This is best used when demonstrating progress or status as a factor of time.',
+				answers: [
+					{ answer: 'Logical relationships' },
+					{ answer: 'Critical paths' },
+					{ answer: 'Resource trade-offs' },
+					{ answer: 'Progress or status', correct: true },
+				]
+			},
+			{	question: 'If the optimistic estimate for an activity is 12 days, and the pessimistic estimate is 18 days, what is the standard deviation of this activity?',
+				explanation: 'The beta standard deviation is computed by (P - 0)/6. Therefore, the answer is (18- 12)/6 = 6/6 = 1.',
+				answers: [
+					{ answer: '1', correct: true },
+					{ answer: '1.3' },
+					{ answer: '6' },
+					{ answer: '3' },
+				]
+			},
+			{	question: 'A heuristic is BEST described as a:',
+				explanation: 'A heuristic is a generally accepted rule. Examples are cost per line of code, cost per square foot of floor space, etc.',
+				answers: [
+					{ answer: 'Control tool.' },
+					{ answer: 'Scheduling method.' },
+					{ answer: 'Planning tool.' },
+					{ answer: 'Generally accepted rule.', correct: true },
+				]
+			},
+			{	question: 'Lag means:',
+				explanation: 'Total float and free float are the time an activity can be delayed without impacting the entire project or the next activity. A forward or backward pass refers to a network analysis technique, not waiting time. Waiting time is the correct definition of lag.',
+				answers: [
+					{ answer: 'The amount of time an activity can be delayed without delaying the project finish date.' },
+					{ answer: 'The amount of time an activity can be delayed without delaying the early start date of its successor.' },
+					{ answer: 'Waiting time.', correct: true },
+					{ answer: 'The product of a forward and backward pass.' },
+				]
+			},
+			{	question: 'Which of the following is the BEST project management tool to use to determine the longest time the project will take?',
+				explanation: 'The bar chart may show an end date, but it is not used to determine dates. The project charter also may include a required end date, but not a logical determination of how long the project will take. The network diagram takes the activities from the activity list and adds dependencies. The dependencies allow us to look at the various paths through the diagram to determine the longest duration (critical) path. The network diagram is the best answer.',
+				answers: [
+					{ answer: 'Work breakdown structure' },
+					{ answer: 'Network diagram', correct: true },
+					{ answer: 'Bar chart' },
+					{ answer: 'Project charter' },
+				]
+			},
+			{	question: 'Which of the following is CORRECT?',
+				explanation: 'This question tests your knowledge about a number of topics. There can often be more than one critical path, but you might adjust the plan in order to decrease risk and have only one critical path. The network diagram may or may not change when the end date changes, depending on the amount of schedule reserve and the reason for the change to the schedule. You can have negative float if you are behind schedule. The critical path helps prove how long the project will take. This is the only correct statement of the choices given.',
+				answers: [
+					{ answer: 'The critical path helps prove how long the project will take.', correct: true },
+					{ answer: 'There can be only one critical path.' },
+					{ answer: 'The network diagram will change every time the end date changes.' },
+					{ answer: 'A project can never have negative float.' },
+				]
+			},
+			{	question: 'What is the duration of a milestone?',
+				explanation: 'A milestone represents the completion of a series of activities or work packages. Therefore, it takes no time of its own. ',
+				answers: [
+					{ answer: 'It is shorter than the duration of the longest activity.' },
+					{ answer: 'It is shorter than the activity it represents.' },
+					{ answer: 'It has no duration.', correct: true },
+					{ answer: 'It is the same length as the activity it represents.' },
+				]
+			},
+			{	question: 'Which of the following BEST describes the relationship between standard deviation and risk?',
+				explanation: 'An estimate can have a wide range and still be accurate if the item estimated includes identified risks. There is no such thing as a pad in proper project management. An estimate might be inflated, but it is a calculated reserve to account for risks, not arbitrary padding. The standard deviation tells you the amount of uncertainty or risk involved in the estimate for the activity.',
+				answers: [
+					{ answer: 'There is no relationship.' },
+					{ answer: 'Standard deviation tells you if the estimate is accurate.' },
+					{ answer: 'Standard deviation tells you how uncertain the estimate is.', correct: true },
+					{ answer: 'Standard deviation tells you if the estimate includes a pad.' },
+				]
+			},
+			{	question: 'The float of an activity is determined by:',
+				explanation: 'The total float of an activity is the length of time the activity can be delayed without delaying the critical path.',
+				answers: [
+					{ answer: 'Performing a Monte Carlo analysis.' },
+					{ answer: 'Determining the waiting time between activities.' },
+					{ answer: 'Determining lag.' },
+					{ answer: 'Determining the length of time the activity can be delayed without delaying the critical path.', correct: true },
+				]
+			},
+			{	question: 'A project has three critical paths. Which of the following BEST describes how this affects the project?',
+				explanation: 'Though having three critical paths COULD require more people or cost more, the answer that is definitely and always true is that it increases project risk. Because you need to manage three critical paths, there is more risk that something could happen to delay the project.',
+				answers: [
+					{ answer: 'It makes it easier to manage.' },
+					{ answer: 'It increases the project risk.', correct: true },
+					{ answer: 'It requires more people.' },
+					{ answer: 'It makes it more expensive.' },
+				]
+			},
+			{	question: 'If project time and cost are not as important as the number of resources used each month, which of the following is the BEST thing to do?',
+				explanation: 'Fast tracking affects both time and cost but may not help even out resource usage. Monte Carlo analysis and analysis of life cycle costs do not directly deal with resources. Resource optimization is the only choice that will definitely affect resources.',
+				answers: [
+					{ answer: 'Perform a Monte Carlo analysis.' },
+					{ answer: 'Fast track the project.' },
+					{ answer: 'Perform resource optimization.', correct: true },
+					{ answer: 'Analyze the life cycle costs.' },
+				]
+			},
+			{	question: 'When a milestone chart used instead of a bar chart?',
+				explanation: 'Both types of charts are used in project planning. Team members need to see details and so they need a bar chart rather than a milestone chart. Risk analysis COULD make use of both charts. A milestone chart is used instead of a bar chart for any situation where you want to report in a less detailed way. Since bar charts can scare people with their complexity and often show too much detail to be worthwhile on a management level, milestone charts are more effective for reporting to management.',
+				answers: [
+					{ answer: 'Project planning' },
+					{ answer: 'Reporting to team members' },
+					{ answer: 'Reporting to management', correct: true },
+					{ answer: 'Risk analysis' },
+				]
+			},
+			{	question: 'You project management plan results in a project schedule that is too long. If the project network diagram cannot change but you have extra personnel resources, what is the BEST thing to do?',
+				explanation: 'Leveling resources generally extends the schedule. Monte Carlo analysis does not directly address the constraints of this situation. To compress the schedule, you could either crash or fast track. However, the situation says that the network diagram cannot change. This eliminates the fast tracking option, leaving crashing the project as the best answer.',
+				answers: [
+					{ answer: 'Fast track the project.' },
+					{ answer: 'Level the resources.' },
+					{ answer: 'Crash the project.', correct: true },
+					{ answer: 'Perform Monte Carlo analysis.' },
+				]
+			},
+			{	question: 'Which of the following is the BEST thing to do whtn asked to complete a project two days earlier then planned?',
+				explanation: 'This is another question that asks about problem solving. Neither telling the boss nor waiting to see the status next month tries to solve the real problem. It would be inaccurate to report that the project cannot be finished earlier. Only meeting with the team to look for options for compressing the schedule (by crashing or fast tracking) relates to problem solving.',
+				answers: [
+					{ answer: 'Tell senior managemtn that the project`s critical path does not allow the project to be finished earlier.' },
+					{ answer: 'Tell your boss.' },
+					{ answer: 'Meet with the team to look at options for crashing or fast tracking the critical path.', correct: true },
+					{ answer: 'Work hard and see what the project status is next month.' },
+				]
+			},
+			{	question: 'In attempting to complete the project faster, the project manager looks at the cost associated with crashing each activity. The BEST approach to crashing would also include looking at the:',
+				explanation: 'You may or may not need your customers or your boss’s input, but you will definitely need to include an analysis of risk.',
+				answers: [
+					{ answer: 'Risk impact of crashing each activity.', correct: true },
+					{ answer: 'Customers opinion of which activities to crash.' },
+					{ answer: 'Boss`s opinion of which activities to crash and in which order.' },
+					{ answer: 'Project the cycle phase in which the activity is due to occur.' },
+				]
+			},
+			{	question: 'Which of the following processes includes asking team members about the time estimates for their activities and reaching agreement on the calendar date for each activity?',
+				explanation: 'By the time this process is taking place, Develop Project Charter, Define Scope, and Sequence Activities would be completed. The process defined in the question is Develop Schedule. ',
+				answers: [
+					{ answer: 'Sequence Activities.' },
+					{ answer: 'Develop Schedule Define.', correct: true },
+					{ answer: 'Scope Develop Project.' },
+					{ answer: 'Charter.' },
+				]
+			},
+			{	question: 'A project manager is in the middle of executing a very large construction project when he discovers the time needed to complete the project is longer than the time available. What is the BEST thing to do?',
+				explanation: 'This question again tests whether you know how to solve problems. Cutting product scope negatively affects the customer, and is therefore not best. A project managers job is to determine options for meeting any end date; therefore, simply telling management the required date cannot be met is not correct. Working overtime is expensive and unnecessary when there are many other choices that could be selected first. Determining options for schedule compression would have the least negative effect on the project.',
+				answers: [
+					{ answer: 'Cut product scope.' },
+					{ answer: 'Meet with management and tell them the required date cannot be met.' },
+					{ answer: 'Work overtime.' },
+					{ answer: 'Determine options for schedule compression and present management with his recommended option.', correct: true },
+				]
+			},
+			{	question: 'During project planning, you estimate the time needed for each activity and then add up the estimates to create the project estimate. You commit to completing the project by this date. What is wrong with this scenario?',
+				explanation: 'Time estimates for the activities should be created by the team and should not be added together to create the project estimate. Some activities may take place concurrently; these would be identified in the network diagram.',
+				answers: [
+					{ answer: 'The team did not create the estimate, and estimating takes too long using that method.' },
+					{ answer: 'The team did not create the estimate, and a network diagram was not used.', correct: true },
+					{ answer: 'The estimate is too long and should be created by management.' },
+					{ answer: 'The project estimate should be the same as the customers required completion date.' },
+				]
+			},
+			{	question: 'You are a project manager on a US $5,000,000 software development project. While working with your project team to develop a network diagram, you notice a series of activities that can be worked in parallel but must finish in a specific sequence. What type of activity sequencing method is required for these activities?',
+				explanation: 'The question implies a finish-to-finish relationship between activities. The arrow diagramming method does not support that type of relationship. Critical path is not a diagramming method, and operational diagramming method is a made-up term. The precedence diagramming method is most appropriate in this case.',
+				answers: [
+					{ answer: 'Precedence diagramming method', correct: true },
+					{ answer: 'Arrow diagramming method' },
+					{ answer: 'Critical path method' },
+					{ answer: 'Operational diagramming method' },
+				]
+			},
+			{	question: 'You are a project manager on a US $5,000,000 software development project. While working with your project team to develop a network diagram, your data architects suggest that quality could be improved if the data model is approved by senior management before moving on to other design elements. They support this suggestion with an article from a leading software development journal. Which of the following BEST describes this type of input?',
+				explanation: 'The situation is neither mandatory nor driven by an external source. A heuristic is a general rule that can be used consistently. This situation is a unique occurrence for which a preferred method is being suggested. Therefore, this is a discretionary dependency.',
+				answers: [
+					{ answer: 'Mandatory dependency' },
+					{ answer: 'Discretionary dependency', correct: true },
+					{ answer: 'External dependency' },
+					{ answer: 'Heuristic' },
+				]
+			},
+			{	question: 'Based on the following, if you needed to shorten the duration of the project, which activity would you try to shorten?<br><img src="img/Chapter 02 Q23.png"/>',
+				explanation: 'This is an example of a two-stage question you may find on the exam. First you need to draw the network diagram and find the critical path, and then make a decision. The network diagram would be:<br><img src="img/Chapter 02 E23.png"/><br> The critical path is 16 (Start, С, E, H, End). Many people immediately look for the longest duration activity on the project to cut. Here activity D is the longest, at 10 weeks. However, that activity is not on the critical path, and cutting it would not shorten the projects duration. You must change the critical path. In this case, both activity C and activity H are on the critical path. If you have a choice, all things being equal, choose the earlier option. Therefore, activity C is the best answer.',
+				answers: [
+					{ answer: 'Activity B' },
+					{ answer: 'Activity D' },
+					{ answer: 'Activity H' },
+					{ answer: 'Activity C', correct: true },
+				]
+			},
+			{	question: 'You have a project with the following activities: Activity A takes 40 hours and can start after the project starts. Activity B takes 25 hours and should happen after the project starts. Activity C must happen after activity A and takes 35 hours. Activity D must happen after activities B and C and takes 30 hours. Activity E must take place after activity C and takes 10 hours. Activity F takes place after Activity E and takes 22 hours. Activities F and D are the last activities of the project. Which of the following is TRUE if activity B actually takes 37 hours?',
+				explanation: 'Did you notice how difficult this question was to read? Such wording is intentional, to prepare you for interpreting questions on the real exam. Looking at this situation, you see there are three paths through the network as shown in the following table. If the duration of activity B changes from 25 to 37, the activity will take 12 hours longer. As the activity is only on the third path, it will only change the duration of that path from 55 to 55 + 12, or 67 hours. Since the duration of the critical path is 107 hours, the delay with activity B will have no impact on the project timeline or the current critical path.<br><img src="img/Chapter 02 E24.png"/>',
+				answers: [
+					{ answer: 'The critical path is 67 hours.' },
+					{ answer: 'The critical path changes to Start, B, D, End.' },
+					{ answer: 'The critical path is Start, A, С, E, F, End.', correct: true },
+					{ answer: 'The critical path increases by 12 hours.' },
+				]
+			},
+			{	question: 'A project manager has received activity duration estimates from his team. Which of the following does he need in order to complete the Develop Schedule process?',
+				explanation: 'The Develop Schedule process includes all work and uses all inputs needed to come up with a finalized, realistic schedule. As part of the Estimate Activity Durations process, reserves are created to cover identified and unknown schedule risks. All the other items are parts of Control Schedule and occur after the Develop Schedule process.',
+				answers: [
+					{ answer: 'Change requests' },
+					{ answer: 'Schedule change control system' },
+					{ answer: 'Recommended corrective actions' },
+					{ answer: 'Reserves', correct: true },
+				]
+			},
+			{	question: 'A project manager is taking over a project from another project manager during project planning. If the new project manager wants to see what the previous project manager planned for managing changes to the schedule, it would be BEST to look at the:',
+				explanation: 'The schedule management plan is the most correct answer. It includes plans for how schedule changes will be managed.',
+				answers: [
+					{ answer: 'Communications management plan.' },
+					{ answer: 'Update management plan.' },
+					{ answer: 'Staffing management plan' },
+					{ answer: 'Schedule management plan.', correct: true },
+				]
+			},
+			{	question: 'A project manager is using weighted average duration estimates to perform schedule network analysis. Which type of mathematical analysis is being used?',
+				explanation: 'Beta distribution uses weighted averages to compute activity durations.',
+				answers: [
+					{ answer: 'Critical path method' },
+					{ answer: 'Beta distribution', correct: true },
+					{ answer: 'Monte Carlo' },
+					{ answer: 'Resource leveling' },
+				]
+			},
+			{	question: 'The WBS, estimates for each work package, and the network diagram are completed. The NEXT thing for the project manager to do is:',
+				explanation: 'Sequencing the activities is the same thing as creating a network diagram, so that has already been done. The Validate Scope process is done during project monitoring and controlling, not during project planning. Since a schedule is an input to risk management, risk management comes after the creation of a preliminary schedule, and so that is not the “next thing to do.” Creating the preliminary schedule is next.',
+				answers: [
+					{ answer: 'Sequence the activities.' },
+					{ answer: 'Validate that they have the correct scope.' },
+					{ answer: 'Create a preliminary schedule and get the team’s approval.', correct: true },
+					{ answer: 'Complete risk management.' },
+				]
+			},
+			{	question: 'A new product development project has four levels in the work breakdown structure and has been sequenced using the precedence diagramming method. The activity duration estimates have been received. What should be done NEXT?',
+				explanation: 'The question is really asking, “What is done after the Estimate Activity Durations process?” The work breakdown structure and activity list are done before Estimate Activity Durations. The schedule is not finalized until after schedule compression. Therefore compressing the schedule is done next. ',
+				answers: [
+					{ answer: 'Create an activity list.' },
+					{ answer: 'Begin the work breakdown structure.' },
+					{ answer: 'Finalize the schedule.' },
+					{ answer: 'Compress the schedule.', correct: true },
+				]
+			},
+			{	question: 'You are the project manager for a new product development project that has four levels in the work breakdown structure. The network diagram and duration estimates have been created, and a schedule has been developed and compressed. Which time management activity should you do NEXT?',
+				explanation: 'Notice how this question and the previous one seem very similar. This is intended to prepare you for similar questions on the exam. Estimating activity resources and analogously estimating the schedule should have already been completed. The situation described is within the Develop Schedule process of time management. Control Schedule is the next time management process after Develop Schedule, but the Develop Schedule process is not yet finished. Final approval of the schedule by the stakeholders is needed before one has a project schedule.',
+				answers: [
+					{ answer: 'Control Schedule.' },
+					{ answer: 'Estimate Activity Resources.' },
+					{ answer: 'Analogously estimate the schedule.' },
+					{ answer: 'Gain approval.', correct: true },
+				]
+			},
+			{	question: 'A team member from research and development tells you that her work is too creative to provide you with a fixed single estimate for the activity. You both decide to use the average labor hours to develop a prototype (from past projects). This is an example of which of the following?',
+				explanation: 'Monte Carlo analysis is a modeling, or simulation, technique. Three-point estimating uses three time estimates per activity. One could use data from past projects to come up with the estimate (analogous estimating), but the best answer is parametric estimating because past history is being used to calculate an estimate.',
+				answers: [
+					{ answer: 'Parametric estimating', correct: true },
+					{ answer: 'Three-point estimating' },
+					{ answer: 'Analogous estimating' },
+					{ answer: 'Monte Carlo analysis' },
+				]
+			},
+			{	question: 'An activity has an early start (ES) of day 3, a late start (LS) of day 13, an early finish (EF) of day 9, and a late finish (LF) of day 19. The activity:',
+				explanation: 'There is no information presented about lag or progress. The activity described has float, because there is a difference between the early start and late start. An activity that has float is probably not on the critical path.',
+				answers: [
+					{ answer: 'Is on the critical path.' },
+					{ answer: 'Has a lag.' },
+					{ answer: 'Is progressing well.' },
+					{ answer: 'Is not on the critical path.', correct: true },
+				]
+			},
+			{	question: 'The project is calculated to be completed four days after the desired completion date. You do not have access to additional resources. The project is low risk, the benefit cost ratio is expected to be 1.6, and the dependencies are preferential. Under these circumstances, what is the BEST thing to do?',
+				explanation: 'Cutting resources from an activity would not save time, nor would moving resources from the preferential dependencies to the external dependencies. Removing an activity from the project is a possibility, but since the dependencies are preferential and the risk is low, the best choice is to make more activities concurrent, as this would have less impact on the project.',
+				answers: [
+					{ answer: 'Cut resources from an activity.' },
+					{ answer: 'Make more activities concurrent.', correct: true },
+					{ answer: 'Move resources from the preferential dependencies to the external dependencies.' },
+					{ answer: 'Remove an activity from the project.' },
+				]
+			},
+			{	question: 'A project manager for a small construction company has a project that was budgeted for US $130,000 over a six-week period. According to her schedule, the project should have cost US $60,000 to date. However, it has cost US $90,000 to date. The project is also behind schedule, because the original estimates were not accurate. Who has the PRIMARY responsibility to solve this problem?',
+				explanation: 'Did you get lost looking at all the numbers presented in this question? Notice that there are no calculations required, simply an understanding of what the problem is. This question describes schedule management, which is a responsibility of the project manager.',
+				answers: [
+					{ answer: 'Project manager', correct: true },
+					{ answer: 'Senior management' },
+					{ answer: 'Project sponsor' },
+					{ answer: 'Manager of the project management office' },
+				]
+			},
+			{	question: 'Senior management is complaining that they are not able to easily determine the status of ongoing projects in the organization. Which of the following types of reports would help provide summary information to senior management?',
+				explanation: 'Detailed cost estimates have nothing to do with the situation described. Project management plans include more detail than is necessary for the situation described, and may distract from the conversation if used in this situation. Bar charts are most effective for reporting to the team. The best answer is milestone reports, which present the right level of detail for upper management.',
+				answers: [
+					{ answer: 'Detailed cost estimates' },
+					{ answer: 'Project management plans' },
+					{ answer: 'Barcharts' },
+					{ answer: 'Milestone reports', correct: true },
+				]
+			},
+			{	question: 'Rearranging resources so that a constant number of resources is used each month is called:',
+				explanation: 'The key to this question is the phrase “constant number used each month.” Only leveling has such an effect on the schedule.',
+				answers: [
+					{ answer: 'Crashing.' },
+					{ answer: 'Floating.' },
+					{ answer: 'Leveling.', correct: true },
+					{ answer: 'Fast tracking.' },
+				]
+			},
+			{	question: 'Which of the following is a benefit of an analogous project estimate?',
+				explanation: 'Remember that analogous project estimates are considered to be top-down, high-level estimates. Therefore, they are not based on a detailed understanding of what the work will require. The project manager needs more than an analogous (high-level) estimate to determine whether or not the project will meet the schedule. The benefit of an analogous project estimate is that it is managements expectations of how long the project will take. Any differences between the analogous estimate and the detailed bottom-up estimate can be reconciled in the planning processes. ',
+				answers: [
+					{ answer: 'It will be closer to what the work will actually require.' },
+					{ answer: 'It is based on a detailed understanding of what the work requires.' },
+					{ answer: 'It gives the project team an understanding of management’s expectations.', correct: true },
+					{ answer: 'It helps the project manager determine if the project will meet the schedule.' },
+				]
+			},
+			{	question: 'During project executing, a large number of changes are made to the project. The project manager should:',
+				explanation: 'Waiting until all changes are known, and then printing out a new schedule, is a common error many project managers make. Instead, the project manager should be controlling the project throughout its completion. The situation in the question does not provide a reason to believe the schedule baseline must be changed. A project manager must be in control of the project, rather than consulting with management before making any changes. Whenever a large number of changes occur on a project, it is wise to confirm that the business case, as stated in the project charter, is still valid.',
+				answers: [
+					{ answer: 'Wait until all changes are known and print out a new schedule.' },
+					{ answer: 'Make approved changes as needed, but retain the schedule baseline.', correct: true },
+					{ answer: 'Make only the changes approved by management.' },
+					{ answer: 'Talk to management before any changes are made.' },
+				]
+			},
+		]
+	},
+	{
+		title: 'Chapter 07',
+		questions: [
+			{	question: 'One common way to compute estimate at completion (EAC) is to take the budget at completion (BAC) and:',
+				explanation: 'This formula for EAC is used if no variances from the BAC have occurred or you will continue at the same rate of spending (as calculated in your cumulative CPI). You have to remember the formula to get the answer correct.',
+				answers: [
+					{ answer: 'Divide by SP1.' },
+					{ answer: 'Multiply by SPI.' },
+					{ answer: 'Multiply by CPI.' },
+					{ answer: 'Divide by CPI.', correct: true },
+				]
+			},
+			{	question: 'Estimate at completion (EAC) is a periodic evaluation of:',
+				explanation: 'When you look at earned value, many of the terms have similar definitions. This could get you into trouble. EAC means the estimate at completion. What it will cost to finish the project is the definition of ETC, or estimate to complete.',
+				answers: [
+					{ answer: 'The cost of work completed.' },
+					{ answer: 'The value of work performed.' },
+					{ answer: 'The anticipated total cost at project completion.', correct: true },
+					{ answer: 'What it will cost to finish the project.' },
+				]
+			},
+			{	question: 'If earned value (EV) = 350, actual cost (AC) = 400, and planned value (PV) = 325, what is cost variance (CV)?',
+				explanation: 'The formula is CV = EV - AC. Therefore, CV = 350 - 400, or CV = -50.',
+				answers: [
+					{ answer: '350' },
+					{ answer: '-75' },
+					{ answer: '400' },
+					{ answer: '-50', correct: true },
+				]
+			},
+			{	question: 'The customer responsible for overseeing your project asks you to provide a written cost estimate that is 30 percent higher than your estimate of the project’s cost. He explains that the budgeting process requires managers to estimate pessimistically to ensure enough money is allocated for projects. What is the BEST way to handle this?',
+				explanation: 'Presenting anything other than your original estimate (allocating more to the budget) is inaccurate and calls into question your competence and integrity as a project manager. The customer should list potential changes and risks related to your estimate. If the costs and risks are justified, you can increase the budget.',
+				answers: [
+					{ answer: 'Add the 30 percent as a lump sum contingency fund to handle project risks.' },
+					{ answer: 'Add the 30 percent to your cost estimate by spreading it evenly across all project activities.' },
+					{ answer: 'Create one cost baseline for budget allocation and a second one for the actual project management plan.' },
+					{ answer: 'Ask for information on risks that would cause your estimate to be too low.', correct: true },
+				]
+			},
+			{	question: 'Analogous estimating:',
+				explanation: 'Analogous estimating is used most frequently during project planning, not project executing. Parametric estimating involves calculations based on historical records. Analogous estimating uses top-down estimating techniques.',
+				answers: [
+					{ answer: 'Uses bottom-up estimating techniques.' },
+					{ answer: 'Is used most frequently during project executing.' },
+					{ answer: 'Uses top-down estimating techniques.', correct: true },
+					{ answer: 'Calculates estimates using actual detailed historical costs.' },
+				]
+			},
+			{	question: 'All of the following are outputs of the Estimate Costs process EXCEPT:',
+				explanation: 'This question is asking, “When you finish estimating costs, what do you have?” Many people who do not realize that estimates should be in a range pick that option. Documentation of assumptions is referring to the basis of estimates, which is an output of Estimate Costs. The prevention of inappropriate changes is more correctly part of the cost management plan and the change control system.',
+				answers: [
+					{ answer: 'An understanding of the cost risk in the work that has been estimated.' },
+					{ answer: 'The prevention of inappropriate changes from being included in the cost baseline.', correct: true },
+					{ answer: 'An indication of the range of possible costs for the project.' },
+					{ answer: 'Documentation of any assumptions made during the Estimate Costs process.' },
+				]
+			},
+			{	question: 'The main focus of life cycle costing is to:',
+				explanation: 'Life cycle costing looks at operations and maintenance costs and balances them with the project costs to try to reduce the cost across the entire life of the project.',
+				answers: [
+					{ answer: 'Estimate installation costs.' },
+					{ answer: 'Estimate the cost of operations and maintenance.' },
+					{ answer: 'Consider installation costs when planning the project costs.' },
+					{ answer: 'Consider operations and maintenance costs in making project decisions.', correct: true },
+				]
+			},
+			{	question: 'Cost performance measurement is BEST done through which of the following?',
+				explanation: 'Asking percent complete is not a best practice since it is usually a guess. Often the easiest work is done first on a project, throwing off any percentage calculations of work remaining. The life cycle cost cannot be lower than the project cost, as the life cycle cost includes the project cost. Focusing on the amount spent last month and what will be spent in the next month is often done by inexperienced project managers. Not only does this provide little information, but the data cannot be used to predict the future. Using earned value and other calculations is the best answer since this choice looks at the past and uses that information to estimate future costs.',
+				answers: [
+					{ answer: 'Asking for a percent complete from each team member and reporting that in the monthly progress report' },
+					{ answer: 'Calculating earned value and using the indexes and other calculations to report past performance and forecast future performance', correct: true },
+					{ answer: 'Using the 50/50 rule and making sure the life cycle cost is less than the project cost' },
+					{ answer: 'Focusing on the amount expended last month and what will be expended the following month' },
+				]
+			},
+			{	question: 'A cost performance index (CPI) of 0.89 means:',
+				explanation: 'The CPI is less than one, so the situation is bad. The project is only getting 89 cents out of every dollar invested. ',
+				answers: [
+					{ answer: 'At this time, we expect the total project to cost 89 percent more than planned.' },
+					{ answer: 'When the project is completed, we will have spent 89 percent more than planned.' },
+					{ answer: 'The project is progressing at 89 percent of the rate planned.' },
+					{ answer: 'The project is getting 89 cents out of every dollar invested.', correct: true },
+				]
+			},
+			{	question: 'A schedule performance index (SPI) of 0.76 means:',
+				explanation: 'Earned value questions ask for a calculation or an interpretation of the results. In this case, the project is progressing at 76 percent of the rate planned.',
+				answers: [
+					{ answer: 'You are over budget.' },
+					{ answer: 'You are ahead of schedule.' },
+					{ answer: 'You are progressing at 76 percent of the rate originally planned.', correct: true },
+					{ answer: 'You are progressing at 24 percent of the rate originally planned.' },
+				]
+			},
+			{	question: 'Which of the following is NOT needed in order to come up with a project estimate?',
+				explanation: 'You need the WBS to define the activities, the network diagram to see the dependencies, and the risks to determine contingencies. NOTE: These are high-level risks, not the detailed risks we identify later in project planning. Change requests are not required to obtain estimates, although they could cause existing estimates to be adjusted. Without the other three choices, you cannot develop the estimates.',
+				answers: [
+					{ answer: 'A WBS' },
+					{ answer: 'A network diagram' },
+					{ answer: 'Risks' },
+					{ answer: 'Change requests', correct: true },
+				]
+			},
+			{	question: 'Which of the following is an example of a parametric estimate?',
+				explanation: 'Parametric estimates use a mathematical model to predict project cost or time.',
+				answers: [
+					{ answer: 'Dollars per module', correct: true },
+					{ answer: 'Learning bend' },
+					{ answer: 'Bottom-up' },
+					{ answer: 'CPM' },
+				]
+			},
+			{	question: 'A rough order of magnitude estimate is made during which project management process group?',
+				explanation: 'This estimate has a wide range. It is done during project initiating, when very little is known about the project.',
+				answers: [
+					{ answer: 'Planning' },
+					{ answer: 'Closing' },
+					{ answer: 'Executing' },
+					{ answer: 'Initiating', correct: true },
+				]
+			},
+			{	question: 'A cost baseline is an output of which cost management process?',
+				explanation: 'A cost baseline is an output of the Determine Budget process.',
+				answers: [
+					{ answer: 'Estimate Activity Resources' },
+					{ answer: 'Estimate Costs' },
+					{ answer: 'Determine Budget', correct: true },
+					{ answer: 'Control Costs' },
+				]
+			},
+			{	question: 'During which project management process group are budget forecasts created?',
+				explanation: 'Budget forecasts are an output of Control Costs, which is part of monitoring and controlling.',
+				answers: [
+					{ answer: 'Monitoring and controlling', correct: true },
+					{ answer: 'Planning' },
+					{ answer: 'Initiating' },
+					{ answer: 'Executing' },
+				]
+			},
+			{	question: 'Which type of cost is team training?',
+				explanation: 'You are training the team on skills required for the project. The cost is directly related to the project and thus a direct cost.',
+				answers: [
+					{ answer: 'Direct', correct: true },
+					{ answer: 'NPV' },
+					{ answer: 'Indirect' },
+					{ answer: 'Fixed' },
+				]
+			},
+			{	question: 'Project setup costs are an example of:',
+				explanation: 'Setup costs do not change as production on the project changes. Therefore, they are fixed costs.',
+				answers: [
+					{ answer: 'Variable costs.' },
+					{ answer: 'Fixed costs.', correct: true },
+					{ answer: 'Overhead costs.' },
+					{ answer: 'Opportunity costs.' },
+				]
+			},
+			{	question: 'Value analysis is performed to get:',
+				explanation: 'Notice that you need to know the definition of value analysis to answer this question. Also notice that the other choices could be considered correct by someone who does not know the definition. Value analysis seeks to decrease cost while maintaining the same scope.',
+				answers: [
+					{ answer: 'More value from the cost analysis.' },
+					{ answer: 'Management to buy into the project.' },
+					{ answer: 'The team to buy into the project.' },
+					{ answer: 'A less costly way of doing the same work.', correct: true },
+				]
+			},
+			{	question: 'Which estimating method tends to be MOST costly for creating a project cost estimate?',
+				explanation: 'Because you need project details to estimate this way, the effort expended will be greater with bottom-up estimating.',
+				answers: [
+					{ answer: 'Bottom-up', correct: true },
+					{ answer: 'Analogous' },
+					{ answer: 'Parametric' },
+					{ answer: '50/50' },
+				]
+			},
+			{	question: 'Which of the following represents the estimated value of the work actually accomplished?',
+				explanation: 'It can be confusing to differentiate earned value terms from each other. The estimated value of the work actually completed is the definition of EV, or earned value.',
+				answers: [
+					{ answer: 'Earned value (EV)', correct: true },
+					{ answer: 'Planned value (PV)' },
+					{ answer: 'Actual cost (AC)' },
+					{ answer: 'Cost variance (CV)' },
+				]
+			},
+			{	question: 'Which of the following are ALL items included in the cost management plan?',
+				explanation: 'Notice how one item in each of the incorrect options makes the entire choice incorrect. Duration estimates are created during time management, and measuring team performance is a part of human resource management. There is no level of risk required for estimates. Specifications for how estimates should be stated, rules for measuring cost performance, and the level of accuracy needed for estimates are all parts of the cost management plan.',
+				answers: [
+					{ answer: 'The level of accuracy needed for estimates, rules for measuring cost performance, specifications for how duration estimates should be stated' },
+					{ answer: 'Specifications for how estimates should be stated, rules for measuring cost performance, the level of accuracy needed for estimates', correct: true },
+					{ answer: 'Rules for measuring team performance, the level of accuracy needed for estimates, specifications for how estimates should be stated' },
+					{ answer: 'Specifications for how estimates should be stated, the level of risk needed for estimates, rules for measuring cost performance' },
+				]
+			},
+			{	question: 'Your project has a medium amount of risk and is not very well defined. The sponsor hands you a project charter and asks you to confirm that the project can be completed within the project cost budget. What is the BEST method to handle this?',
+				explanation: 'With such limited information, it is best to estimate in a range. The range can be narrowed as planning progresses and risks are addressed.',
+				answers: [
+					{ answer: 'Build an estimate in the form of a range of possible results.', correct: true },
+					{ answer: 'Ask the team members to help estimate the cost based on the project charter.' },
+					{ answer: 'Based on the information you have, calculate a parametric estimate.' },
+					{ answer: 'Provide an analogous estimate based on past history.' },
+				]
+			},
+			{	question: 'The cost contingency reserve should be:',
+				explanation: 'Hiding the reserve is an inappropriate action. Adding cost to each activity will not shorten the critical path, and thus is an incorrect statement. Management reserves, not contingency reserves, are maintained by management to cover cost overruns. During the risk management process, you determine appropriate contingency reserves to cover the cost of identified risks.',
+				answers: [
+					{ answer: 'Hidden to prevent management from disallowing the reserve.' },
+					{ answer: 'Added to each activity to provide the customer with a shorter critical path.' },
+					{ answer: 'Maintained by management to cover cost overruns.' },
+					{ answer: 'Added to the costs of the project to account for risks.', correct: true },
+				]
+			},
+			{	question: 'You are having difficulty estimating the cost of a project. Which of the following BEST describes the most probable cause of your difficulty?',
+				explanation: 'Although all choices could cause difficulty, only inadequate scope definition makes estimating impossible.',
+				answers: [
+					{ answer: 'Inadequate scope definition', correct: true },
+					{ answer: 'Unavailability of desired resources' },
+					{ answer: 'Lack of historical records from previous projects' },
+					{ answer: 'Lack of company processes' },
+				]
+			},
+			{	question: 'Your cost forecast shows that you will have a cost overrun at the end of the project. Which of the following should you do?',
+				explanation: 'Look for the choice that would have the least negative impact on this situation. You would not need to meet with the sponsor to determine which work can be done sooner. Cutting quality and decreasing scope always have negative effects. The choice with the least negative impact is to eliminate risks in estimates and reestimate.',
+				answers: [
+					{ answer: 'Eliminate risks in estimates and reestimate.', correct: true },
+					{ answer: 'Meet with the sponsor to find out what work can be done sooner.' },
+					{ answer: 'Cut quality.' },
+					{ answer: 'Decrease scope.' },
+				]
+			},
+			{	question: 'Early in the life of your project, you are having a discussion with the sponsor about what estimating techniques should be used. You want a form of expert judgment, but the sponsor argues for analogous estimating. It would be BEST to:',
+				explanation: 'This is a tricky question. Determining why the sponsor wants such an accurate estimate sounds like a good idea at first. However, analogous estimates are less accurate than other forms of estimating, as they are prepared with a limited amount of detailed information. Reading every word of this choice helps eliminate it. In order to pick the best answer, you need to realize that analogous estimating is a form of expert judgment.',
+				answers: [
+					{ answer: 'Agree to analogous estimating, as it is a form of expert judgment.', correct: true },
+					{ answer: 'Suggest life cycle costing as a compromise.' },
+					{ answer: 'Determine why the sponsor wants such an accurate estimate.' },
+					{ answer: 'Try to convince the sponsor to allow expert judgment because it is typically more accurate.' },
+				]
+			},
+			{	question: 'You have just completed the initiating processes of a small project and are moving into project planning when a project stakeholder asks you for the project s budget and cost baseline. What should you tell her?',
+				explanation: 'The overall project budget may be included in the project charter but not the detailed costs. Even small projects should have a budget and schedule. It is not impossible to create a project budget before the project management plan is created. However, it is not wise to do so, as the budget will not be accurate. The project budget and baseline are not finalized and accepted until the planning processes are completed.',
+				answers: [
+					{ answer: 'The project budget can be found in the project charter, which has just been completed.' },
+					{ answer: 'The project budget and baseline will not be finalized and accepted until the planning processes are completed.', correct: true },
+					{ answer: 'The project management plan will not contain the project’s budget and baseline; this is a small project.' },
+					{ answer: 'It is impossible to complete an estimate before the project management plan is created.' },
+				]
+			},
+			{	question: 'The project manager is allocating overall cost estimates to individual activities to establish a baseline for measuring project performance. What process is this?',
+				explanation: 'Cost Management is too general. The estimates are already created in this situation, so the answer is not Estimate Costs. The answer is not Control Costs, because the baseline has not yet been created. The work described is the Determine Budget process.',
+				answers: [
+					{ answer: 'Cost Management' },
+					{ answer: 'Estimate Costs' },
+					{ answer: 'Determine Budget', correct: true },
+					{ answer: 'Control Costs' },
+				]
+			},
+			{	question: 'Monitoring cost expended to date in order to detect variances from the plan occurs during:',
+				explanation: 'Recommending corrective actions and possible updates to the cost baseline result from project performance reviews; they are not concurrent with them. Monitoring costs is part of change control, but not part of creating the change control system. The correct choice is project performance reviews.',
+				answers: [
+					{ answer: 'The creation of the cost change management plan.' },
+					{ answer: 'Recommending corrective actions.' },
+					{ answer: 'Updating the cost baseline.' },
+					{ answer: 'Project performance reviews.', correct: true },
+				]
+			},
+			{	question: 'A cost management plan contains a description of:',
+				explanation: 'The exam will ask you what the management plans include, in order to test whether you really understand them. The cost management plan identifies the WBS level at which earned value will be calculated.',
+				answers: [
+					{ answer: 'The project costs.' },
+					{ answer: 'How resources are allocated.' },
+					{ answer: 'The budgets and how they were calculated.' },
+					{ answer: 'The WBS level at which earned value will be calculated.', correct: true },
+				]
+			},
+			{	question: 'A manufacturing project has a schedule performance index (SPI) of 0.89 and a cost performance index (CPI) of 0.91. Generally, what is the BEST explanation for why this occurred?',
+				explanation: 'To answer this question, you must look for a choice that would take longer and cost more. Notice one of the choices says scope was changed, but it was not necessarily added to. If the change was to reduce the scope, it might also have reduced cost. Though it would take time to handle the issue of the need to find a new supplier, the impacted activity might not be on the critical path and thus might not affect time. Purchasing additional equipment definitely adds cost, but not necessarily time. A critical path activity taking longer and requiring more labor hours to complete would negatively affect both time and cost.',
+				answers: [
+					{ answer: 'The scope was changed.' },
+					{ answer: 'A supplier went out of business and a new one needed to be found.' },
+					{ answer: 'Additional equipment needed to be purchased.' },
+					{ answer: 'A critical path activity took longer and needed more labor hours to complete.', correct: true },
+				]
+			},
+			{	question: 'Although the stakeholders thought there was enough money in the budget, halfway through the project the cost performance index (CPI) is 0.7. To determine the root cause, several stakeholders audit the project and discover the project cost budget was estimated analogously. Although the activity estimates add up to the project estimate, the stakeholders think something was missing in how the estimate was completed. Which of the following describes what was missing?',
+				explanation: 'Actual costs are used to measure CPI, and there is no reason to use SPI in this situation. Using past history is another way of saying “analogous.” The best way to estimate is bottom-up. Such estimating would have improved the overall quality of the estimate.',
+				answers: [
+					{ answer: 'Estimated costs should be used to measure CPI.' },
+					{ answer: 'SPI should be used, not CPI.' },
+					{ answer: 'Bottom-up estimating should have been used.', correct: true },
+					{ answer: 'Past history was not taken into account.' },
+				]
+			},
+			{	question: 'Earned value measurement is an example of:',
+				explanation: 'Earned value measurement is a great reporting tool. With it, you can show where you stand on budget and schedule, as well as provide forecasts for the rest of the project.',
+				answers: [
+					{ answer: 'Performance reporting.', correct: true },
+					{ answer: 'Planning control.' },
+					{ answer: 'Ishikawa diagrams.' },
+					{ answer: 'Integrating the project components into a whole.' },
+				]
+			},
+			{	question: 'Identified risks are:',
+				explanation: 'Identified risks are listed in the risk register, an input to the Estimate Costs process. In completing the Estimate Costs process, additional risks may be uncovered. These are added to the risk register as project documents updates.',
+				answers: [
+					{ answer: 'An input to the Estimate Costs process.' },
+					{ answer: 'An output of the Estimate Costs process.' },
+					{ answer: 'Not related to the Estimate Costs process.' },
+					{ answer: 'Both an input to and an output of the Estimate Costs process.', correct: true },
+				]
+			},
+			{	question: 'The difference between the cost baseline and the cost budget can be BEST described as:',
+				explanation: 'Cost accounts are included in the project cost estimate, and the contingency reserves are added to that to come up with the cost baseline. Thereafter, the management reserves are added to come up with the cost budget. The management reserves make up the difference between the cost baseline and the cost budget.',
+				answers: [
+					{ answer: 'The management reserves.', correct: true },
+					{ answer: 'The contingency reserves.' },
+					{ answer: 'The project cost estimate.' },
+					{ answer: 'The cost account.' },
+				]
+			},
+			{	question: 'You provide a project cost estimate for the project to the project sponsor. Ele is unhappy with the estimate, because he thinks the price should be lower. He asks you to cut 15 percent off the project estimate. What should you do?',
+				explanation: 'This question is full of choices that are not correct project management actions. To answer the question, you must first realize that it is never appropriate for a project manager to just cut estimates across the board. You should have created a project estimate based on realistic work package estimates that do not include padding. Then, if costs must be decreased, you can look to cut quality, decrease risk, cut scope, or use cheaper resources (and at the same time closely monitor the impact of changes on the project schedule). One of the worst things a project manager can do is to start a project knowing that the time or cost for the project is unrealistic. Did you notice the choice of adding additional resources? Even though they have low hourly rates, that would add cost. Evaluating, looking for alternatives, and then reporting the impact of the cost cutting to the sponsor is the best action to take.',
+				answers: [
+					{ answer: 'Start the project and constantly look for cost savings.' },
+					{ answer: 'Tell all the team members to cut 15 percent from their estimates.' },
+					{ answer: 'Inform the sponsor of the activities to be cut.', correct: true },
+					{ answer: 'Add additional resources with low hourly rates.' },
+				]
+			},
+			{	question: 'Cost risk means:',
+				explanation: 'While it is true that risk will cost the project money, that is not the definition of cost risk. Stating that the project is too risky from a cost perspective assumes that the risk is too great to do the project. Cost risk is the risk that project costs could go higher than planned.',
+				answers: [
+					{ answer: 'There are risks that will cost the project money.' },
+					{ answer: 'The project is too risky from a cost perspective.' },
+					{ answer: 'There is a risk that project costs could go higher than planned.', correct: true },
+					{ answer: 'There is a risk that the cost of the project will be lower than planned.' },
+				]
+			},
+			{	question: 'A project manager needs to analyze the project costs to find ways to decrease costs. It would be BEST if the project manager looks at:',
+				explanation: 'Direct costs are directly attributable to the project, and variable costs are costs that vary with the amount of work accomplished. It is best to look at decreasing these costs on the project.',
+				answers: [
+					{ answer: 'Variable costs and fixed costs.' },
+					{ answer: 'Fixed costs and indirect costs.' },
+					{ answer: 'Direct costs and variable costs.', correct: true },
+					{ answer: 'Indirect costs and direct costs.' },
+				]
+			},
+		]
+	},
+	{
+		title: 'Chapter 08',
+		questions: [
+			{	question: 'When a product or service completely meets a customer’s requirements:',
+				explanation: 'As a general rule, one cannot say that quality (as defined in the question) is either of high or low cost. It provides what the customer wanted, which may not be the lowest or highest cost. When a product or service completely meets a customer’s needs, quality is achieved.',
+				answers: [
+					{ answer: 'Quality is achieved.', correct: true },
+					{ answer: 'The cost of quality is high.' },
+					{ answer: 'The cost of quality is low.' },
+					{ answer: 'The customer pays the minimum price.' },
+				]
+			},
+			{	question: 'To what does the following definition refer? “The point where the benefits or revenue to be received from improving quality equals the incremental cost to achieve that quality.”',
+				explanation: 'This is the definition of marginal analysis. Know the term so you will be able to answer questions that deal with this concept. The other choices may sound good, but they are made-up terms.',
+				answers: [
+					{ answer: 'Quality control analysis' },
+					{ answer: 'Marginal analysis', correct: true },
+					{ answer: 'Standard quality analysis' },
+					{ answer: 'Conformance analysis' },
+				]
+			},
+			{	question: 'Who is ultimately responsible for quality management on the project?',
+				explanation: 'Although each person working on the project should check his or her own work, the project manager ultimately has the responsibility for quality on the project as a whole.',
+				answers: [
+					{ answer: 'The project engineer' },
+					{ answer: 'The project manager', correct: true },
+					{ answer: 'The quality manager' },
+					{ answer: 'The team member' },
+				]
+			},
+			{	question: 'A project has faced major difficulties in the quality of its deliverables. Management now states that quality is the most important project constraint. If another problem with quality were to occur, what would be the BEST thing for the project manager to do?',
+				explanation: 'If a problem with quality were to occur again, many people would opt to fix the problem as soon as possible. It is proactive, but some other project constraint(s) must change to accommodate fixing the root cause of the problem. It may not be necessary to allow the schedule to slip, because the project manager might be able to compress the schedule in other areas. Cutting cost does not necessarily cause the schedule to slip, nor would that necessarily fix the problem at hand. Allowing risk to increase by cutting cost is not the best choice, because a quality problem is most likely to create additional cost, rather than cut cost. Allowing the cost to increase by fixing the root cause of the problem addresses both finding the cause and the probable impact of dealing with the problem.',
+				answers: [
+					{ answer: 'Fix the problem as soon as possible.' },
+					{ answer: 'Allow the schedule to slip by cutting cost.' },
+					{ answer: 'Allow cost to increase by fixing the root cause of the problem.', correct: true },
+					{ answer: 'Allow risk to increase by cutting cost.' },
+				]
+			},
+			{	question: 'A manager notices that a project manager is holding a meeting with some of the team and some stakeholders to discuss the quality of the project. The project schedule has been compressed, and the CPI is 1.1. They have worked hard on the project, the team has been rewarded according to the reward system the project manager put in place, and there is a strong sense of team. The manager suggests that the project manager does not have enough time to hold meetings about quality when the schedule is so compressed. Which of the following BEST describes why the manager is wrong?',
+				explanation: 'Did you notice there is a lot of data not relevant to answering the question? Expect distracters to appear in many questions on the exam. Quality efforts should produce a decrease rather than an increase in cost risk as a result of less rework. Quality efforts should also provide increased cost effectiveness due to less rework. This leaves the best answer: “Improved quality leads to increased productivity, increased cost effectiveness, and decreased cost risk.”',
+				answers: [
+					{ answer: 'Improved quality leads to increased productivity, increased cost effectiveness, and decreased cost risk.', correct: true },
+					{ answer: 'Improved quality leads to increased productivity, decreased cost effectiveness, and increased cost risk.' },
+					{ answer: 'Improved quality leads to increased productivity, increased cost effectiveness, and increased cost risk.' },
+					{ answer: 'Improved quality leads to increased productivity, decreased cost effectiveness, and decreased cost risk.' },
+				]
+			},
+			{	question: 'Quality is:',
+				explanation: 'There can be a cost impact (or time, risk, etc.) of exceeding expectations or adding extras. Quality is the degree to which the project meets requirements.',
+				answers: [
+					{ answer: 'Meeting and exceeding the customers expectations.' },
+					{ answer: 'Adding extras to make the customer happy.' },
+					{ answer: 'The degree to which the project meets requirements.', correct: true },
+					{ answer: 'Conformance to managements objectives.' },
+				]
+			},
+			{	question: 'All the following are tools of Control Quality EXCEPT:',
+				explanation: 'Inspection, Pareto diagrams, and fishbone diagrams are all tools that can be used in Control Quality. Cost of quality is part of Plan Quality Management, making sure the project is not spending too much to achieve a particular level of quality.',
+				answers: [
+					{ answer: 'Inspection.' },
+					{ answer: 'Cost of quality.', correct: true },
+					{ answer: 'Pareto diagram.' },
+					{ answer: 'Fishbone diagram.' },
+				]
+			},
+			{	question: 'Pareto diagrams help the project manager:',
+				explanation: 'Fishbone diagrams are often used to stimulate thinking and to explore a desired future outcome. Determining whether a process is out of control is a function of control charts. Only focusing on critical issues to improve quality relates to Pareto diagrams. ',
+				answers: [
+					{ answer: 'Focus on the most critical issues to improve quality.', correct: true },
+					{ answer: 'Focus on stimulating thinking.' },
+					{ answer: 'Explore a desired future outcome.' },
+					{ answer: 'Determine if a process is out of control.' },
+				]
+			},
+			{	question: 'A control chart helps the project manager:',
+				explanation: 'Focusing on the most critical issues to improve quality relates to Pareto diagrams. Stimulating thinking and exploring a desired future outcome relate to fishbone diagrams. Only determining if a process is functioning within set limits relates to control charts.',
+				answers: [
+					{ answer: 'Focus on the most critical issues to improve quality.' },
+					{ answer: 'Focus on stimulating thinking.' },
+					{ answer: 'Explore a desired future outcome.' },
+					{ answer: 'Determine if a process is functioning within set limits.', correct: true },
+				]
+			},
+			{	question: 'Testing the entire population would:',
+				explanation: 'The length of time it takes to test a whole population is one of the reasons to take a sample.',
+				answers: [
+					{ answer: 'Take too long.', correct: true },
+					{ answer: 'Provide more information than wanted.' },
+					{ answer: 'Be mutually exclusive.' },
+					{ answer: 'Show many defects.' },
+				]
+			},
+			{	question: 'All of the following are examples of the cost of nonconformance EXCEPT:',
+				explanation: 'Quality training is a cost of conformance to quality. All the other choices are costs of nonconformance to quality.',
+				answers: [
+					{ answer: 'Rework.' },
+					{ answer: 'Quality training.', correct: true },
+					{ answer: 'Scrap.' },
+					{ answer: 'Warranty costs.' },
+				]
+			},
+			{	question: 'Standard deviation is a measure of how:',
+				explanation: 'Standard deviation is the measurement of a range around the mean.',
+				answers: [
+					{ answer: 'Far the estimate is from the highest estimate.' },
+					{ answer: 'Far the measurement is from the mean.', correct: true },
+					{ answer: 'Correct the sample is.' },
+					{ answer: 'Much time remains in the project.' },
+				]
+			},
+			{	question: 'All of the following result from quality audits EXCEPT:',
+				explanation: 'Quality metrics are an output of the Plan Quality Management process. They are an input to the Perform Quality Assurance process, the process in which quality audits take place.',
+				answers: [
+					{ answer: 'Determination of whether project activities comply with organizational policies.' },
+					{ answer: 'Improved processes to increase productivity.' },
+					{ answer: 'Creation of quality metrics.', correct: true },
+					{ answer: 'Confirmation of the implementation of approved change requests.' },
+				]
+			},
+			{	question: 'A control chart shows seven data points in a row on one side of the mean. What should be done?',
+				explanation: 'The rule of seven applies here. If you have seven data points in a row on the same side of the mean, statistically the mean has shifted, calling for action to correct the problem.',
+				answers: [
+					{ answer: 'Perform a design of experiments.' },
+					{ answer: 'Adjust the chart to reflect the new mean.' },
+					{ answer: 'Find an assignable cause.', correct: true },
+					{ answer: 'Nothing. This is the rule of seven and can be ignored.' },
+				]
+			},
+			{	question: 'You are managing a project in a just in time environment. This will require more attention, because the amount of inventory in such an environment is generally:',
+				explanation: 'In a just in time environment, supplies are delivered when you need them and not before. Therefore, you have little or no inventory.',
+				answers: [
+					{ answer: '45 percent.' },
+					{ answer: '10 percent.' },
+					{ answer: '12 percent.' },
+					{ answer: '0 percent.', correct: true },
+				]
+			},
+			{	question: 'There are several executing activities underway on your project. You are beginning to get concerned about the accuracy of the progress reporting your team members are doing. How could you verify whether there is a problem?',
+				explanation: 'Quality audits are a necessary part of the Perform Quality Assurance process. They help you assess whether the processes are being followed correctly on the project.',
+				answers: [
+					{ answer: 'Quality audits', correct: true },
+					{ answer: 'Risk quantification reports' },
+					{ answer: 'Regression analysis' },
+					{ answer: 'Monte Carlo analysis' },
+				]
+			},
+			{	question: 'A project manager and team from a firm that designs railroad equipment are tasked to design a machine to load stone onto railroad cars. The design allows for 2 percent spillage, amounting to over two tons of spilled rock per day. In which of the following does the project manager document quality control, quality assurance, and quality improvement processes for this project?',
+				explanation: 'The quality policy and control charts are components of a quality management plan. Although the quality management plan is part of the project management plan, the most precise answer is the quality management plan.',
+				answers: [
+					{ answer: 'Quality management plan', correct: true },
+					{ answer: 'Quality policy' },
+					{ answer: 'Control charts' },
+					{ answer: 'Project management plan' },
+				]
+			},
+			{	question: 'During a team meeting, the team adds a specific area of extra work to the project because they have determined it would benefit the customer. What is wrong in this situation?',
+				explanation: 'This is an example of gold plating. You should provide ONLY what the customer asked for. The team does not know if their change will provide benefit to the customer. The team should focus their efforts on fulfilling the requirements.',
+				answers: [
+					{ answer: 'The team is gold plating.', correct: true },
+					{ answer: 'These efforts shouldn’t be done in meetings.' },
+					{ answer: 'Nothing. This is how to meet and exceed customer expectations.' },
+					{ answer: 'Nothing. The project manager is in control of the situation.' },
+				]
+			},
+			{	question: 'The project team has created a plan for how they will implement the quality policy. It addresses the organizational structure, responsibilities, procedures, and other information about plans for quality. If this plan changes during the project, WHICH of the following plans will also change?',
+				explanation: 'The plan described is the quality management plan. Since the quality management plan is included in the project management plan, changing the quality management plan will also change the project management plan. ',
+				answers: [
+					{ answer: 'Quality assurance plan' },
+					{ answer: 'Quality management plan' },
+					{ answer: 'Project management plan', correct: true },
+					{ answer: 'Quality control plan' },
+				]
+			},
+			{	question: 'You are a project manager for a major information systems project. Someone from the quality department comes to see you about beginning a quality audit of your project. The team, already under pressure to complete the project as soon as possible, objects to the audit. You should explain to the team that the purpose of a quality audit is:',
+				explanation: 'Perform Quality Assurance, of which an audit is part, focuses on processes, procedures, and standards. Though ISO 9000 is a standard, that is not the only reason an audit would be conducted. The seller cannot generally control or review the customer’s quality process. Checking the accuracy of costs submitted by the team is more representative of a cost audit than a quality audit, so that option cannot be the best choice. One purpose of a quality audit is to identify inefficient and ineffective policies.',
+				answers: [
+					{ answer: 'To satisfy part of an ISO 9000 investigation.' },
+					{ answer: 'To check if the customer is following the quality process.' },
+					{ answer: 'To identify inefficient and ineffective policies.', correct: true },
+					{ answer: 'To check the accuracy of costs submitted by the team.' },
+				]
+			},
+			{	question: 'You are in the middle of a major new facility construction project. The structural steel is in place and the heating conduits are going into place when a senior manager informs you that he is worried the project will not meet the quality standards. What should you do in this situation?',
+				explanation: 'Assuring management that it was determined in planning that the project would meet quality standards is not productive, since it does not solve the problem. An analogous estimate looks at the past history of other projects. This would not be appropriate to determine how the current project is going. The quality management plan does not provide results. A quality assurance team could help to determine whether the team is following the correct process to satisfy the relevant quality standards.',
+				answers: [
+					{ answer: 'Assure senior management that during the Plan Quality Management process, it was determined that the project would meet the quality standards.' },
+					{ answer: 'Analogously estimate future results.' },
+					{ answer: 'Form a quality assurance team.', correct: true },
+					{ answer: 'Check the results from the last quality management plan.' },
+				]
+			},
+			{	question: 'You are asked to select tools and techniques to implement a quality assurance program to supplement existing quality control activities. Which of the following would NOT be appropriate for this purpose?',
+				explanation: 'Focus groups are a tool of the Collect Requirements process, and would not be useful in the Perform Quality Assurance process.',
+				answers: [
+					{ answer: 'Quality audits' },
+					{ answer: 'Statistical sampling' },
+					{ answer: 'Pareto diagrams' },
+					{ answer: 'Focus groups', correct: true },
+				]
+			},
+			{	question: 'The new software installation project is in progress. The project manager is working with the quality assurance department to improve stakeholders’ confidence that the project will satisfy the quality standards. Which of the following MUST they have before they start this process?',
+				explanation: 'Though quality problems MAY lead to quality assurance efforts, they are not a MUST. Quality improvement is a result of Perform Quality Assurance, not an input. Rework (or defect repair) can be an output of Control Quality. That leaves only quality control measurements, which are inputs to the Perform Quality Assurance process.',
+				answers: [
+					{ answer: 'Quality problems' },
+					{ answer: 'Quality improvement' },
+					{ answer: 'Quality control measurements', correct: true },
+					{ answer: 'Rework' },
+				]
+			},
+			{	question: 'A project manager has just taken over the project from another project manager during project executing. The previous project manager created a project budget, determined communications requirements, and went on to complete work packages. What should the new project manager do NEXT?',
+				explanation: 'Completion of work packages is done after project planning. Since the previous project manager did not finish planning, continuing to execute the project management plan should not be next. Identify Risks sounds like a good choice; however, identifying quality standards occurs before the Identify Risks process. You may have misread the question and assumed communication planning was complete as well, but notice it only says that communication requirements have been determined. Communications planning still needs to be completed as well. Identify quality standards is the best answer, as planning must be completed on the project.',
+				answers: [
+					{ answer: 'Coordinate completion of work packages.' },
+					{ answer: 'Identify quality standards.', correct: true },
+					{ answer: 'Begin the Identify Risks process.' },
+					{ answer: 'Execute the project management plan.' },
+				]
+			},
+			{	question: 'Design of experiments:',
+				explanation: 'The design of experiments technique allows you to find those factors that have the most impact on quality. It allows the project manager to focus attention on the factors that are most important.',
+				answers: [
+					{ answer: 'Identifies which variables will have the most influence on a quality outcome.', correct: true },
+					{ answer: 'Identifies which variables will have the least influence on a quality outcome.' },
+					{ answer: 'Determines what a quality outcome is.' },
+					{ answer: 'Determines methods to be used for research and development.' },
+				]
+			},
+			{	question: 'At the end of a project, a project manager determines the project has added four areas of functionality and three areas of performance. The customer has expressed satisfaction with the project. What does this mean in terms of the success of the project?',
+				explanation: 'Gold plating a project wastes time and probably cost. It makes the project unsuccessful.',
+				answers: [
+					{ answer: 'The project was an unqualified success.' },
+					{ answer: 'The project was unsuccessful because it was gold plated.', correct: true },
+					{ answer: 'The project was unsuccessful because the customer being happy means they would have paid more for the work.' },
+					{ answer: 'Tire project was successful because the team had a chance to learn new areas of functionality and the customer was satisfied.' },
+				]
+			},
+			{	question: 'During project executing, a project team member informs the project manager that a work package has not met the quality metric, and that she believes it is not possible to meet it. The project manager meets with all concerned parties to analyze the situation. Which part of the quality management process is the project manager involved in?',
+				explanation: 'Measuring is part of the Control Quality process. Did you select project control?',
+				answers: [
+					{ answer: 'Perform Quality Assurance' },
+					{ answer: 'Project Control' },
+					{ answer: 'Control Quality', correct: true },
+					{ answer: 'Plan Quality Management' },
+				]
+			},
+			{	question: 'The project manager notices that project activities being completed by one department are all taking slightly longer than planned. To date, none of the activities in the work packages have been on the critical path, nor have they affected the critical chain planning that has occurred. The project manager is bothered by the problem, since four of the next five critical path activities are being completed by this department. After making three calls, the project manager is finally able to converse with the department manager to determine what is going on. The conversation is slow, because both speak different native languages and they are trying to converse in French, a shared language. To make communication easier, the project manager frequently asks the department manager to repeat back what has been said. The department manager communicates that his staff is following a company policy that requires two levels of testing. During the conversation, the department manager also makes a comment that leads the project manager to believe that the policy may include excessive work. This is the fourth time the project manager has heard such a comment. What is the BEST thing to do?',
+				explanation: 'Changing the communications management plan may not be needed on the project and it does not deal with the problem at hand, the policy that is slowing things down. Confirming the department manager’s opinion with someone else in the department is not the best choice, as the project manager already has heard the opinion on many other occasions. It is already confirmed. Determining whether upcoming activities should be reestimated is just being reactive. A good project manager will find the root cause and deal with that, even if it means attempting to improve the company’s policies and processes. Yes, recommending improvement of the policy is the best answer. This is continuous improvement. Because there are several activities affected by the policy, it would best serve the project to get to the root cause of the problem and solve it.',
+				answers: [
+					{ answer: 'Create a better communications management plan that requires only one language to be the universal language on the project and have translators readily available on a moments notice.' },
+					{ answer: 'Contact someone else in the department who speaks the project manager’s native language better to confirm the department managers opinion.' },
+					{ answer: 'Find out if the upcoming activities should be reestimated.' },
+					{ answer: 'Work on increasing the effectiveness of the performing organization by recommending continuous improvement of the policy in question.', correct: true },
+				]
+			},
+			{	question: 'As the project manager, you are preparing your quality management plan. You are looking for a tool that can demonstrate the relationship between events and their resulting effects. You want to use this tool to depict the events that cause a negative effect on quality. Which of the following is the BEST choice for accomplishing your objective?',
+				explanation: 'All reports and diagrams are communications tools. This question asks you to pick the most appropriate quality tool to help communications. An Ishikawa diagram, also called a cause and effect diagram, is more appropriate than a Pareto diagram since you are trying to determine the causes. Once causes are known and you have data on occurrences, the data can be displayed in a Pareto diagram.',
+				answers: [
+					{ answer: 'Histogram' },
+					{ answer: 'Pareto diagram' },
+					{ answer: 'Ishikawa diagram', correct: true },
+					{ answer: 'Control chart' },
+				]
+			},
+			{	question: 'Which of the following explains why quality is planned in and not inspected in?',
+				explanation: 'Look for the proactive approach. When we plan for quality, we define the appropriate level of quality needed, which will improve quality overall and will likely be less expensive over the long run. NOTE: You may spend more initially for identifying the right quality and doing the work to produce the planned quality, but you will save through reduced rework, waste, and scrap, and other such benefits.',
+				answers: [
+					{ answer: 'It reduces quality and is less expensive.' },
+					{ answer: 'It improves quality and is more expensive.' },
+					{ answer: 'It reduces quality and is more expensive.' },
+					{ answer: 'It improves quality and is less expensive.', correct: true },
+				]
+			},
+			{	question: 'Work on a project is ongoing when the project manager overhears two workers arguing over what a set of instructions means. The project manager investigates and discovers that the instructions for the construction of the concrete footings currently being poured were poorly translated between the different languages in use on the project. Which of the following is the BEST thing for the project manager to do FIRST?',
+				explanation: 'Although all of these choices are correct things to do, the question asks what to do first. What is the most immediate problem? Getting the instructions translated by a more experienced party could be done, but it does not address the immediate concern of the footings that have already been poured according to the poorly translated instructions. Asking the team to look for other translation issues is an excellent idea. However, it does not address the immediate problem. Informing the sponsor is also not taking action to solve the problem. Isn’t it most urgent to find out whether the concrete footings meet your project requirements? Are they adequate? Only the option of looking for quality impacts of the poor translation will help you determine that.',
+				answers: [
+					{ answer: 'Get the instructions translated by a more experienced party.' },
+					{ answer: 'Look for quality impacts of the poor translation of the instructions for the footings.', correct: true },
+					{ answer: 'Bring the issue to the attention of the team and ask them to look for other translation problems.' },
+					{ answer: 'Inform the sponsor of the problem in the next project report.' },
+				]
+			},
+		]
+	},
+	{
 		title: 'Test',
 		questions: [
 			{	question: 'What the fuck is it?<br><img src="img/01.png"/>',

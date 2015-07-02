@@ -1,0 +1,304 @@
+1.	One common way to compute estimate at completion (EAC) is to take the budget at completion (BAC) and:
+A.	Divide by SP1.
+B.	Multiply by SPI.
+C.	Multiply by CPI.
+D.	Divide by CPI.
+
+2.	Estimate at completion (EAC) is a periodic evaluation of:
+A.	The cost of work completed.
+B.	The value of work performed.
+C.	The anticipated total cost at project completion.
+D.	What it will cost to finish the project.
+
+3.	If earned value (EV) = 350, actual cost (AC) = 400, and planned value (PV) = 325, what is cost variance (CV)?
+A.	350
+B.	-75
+C.	400
+D.	-50
+
+4.	The customer responsible for overseeing your project asks you to provide a written cost estimate that is 30 percent higher than your estimate of the project’s cost. He explains that the budgeting process requires managers to estimate pessimistically to ensure enough money is allocated for projects. What is the BEST way to handle this?
+A.	Add the 30 percent as a lump sum contingency fund to handle project risks.
+B.	Add the 30 percent to your cost estimate by spreading it evenly across all project activities.
+C.	Create one cost baseline for budget allocation and a second one for the actual project management plan.
+D.	Ask for information on risks that would cause your estimate to be too low.
+
+5.	Analogous estimating:
+A.	Uses bottom-up estimating techniques.
+B.	Is used most frequently during project executing.
+C.	Uses top-down estimating techniques.
+D.	Calculates estimates using actual detailed historical costs.
+
+6.	All of the following are outputs of the Estimate Costs process EXCEPT:
+A.	An understanding of the cost risk in the work that has been estimated.
+B.	The prevention of inappropriate changes from being included in the cost baseline.
+C.	An indication of the range of possible costs for the project.
+D.	Documentation of any assumptions made during the Estimate Costs process.
+
+7.	The main focus of life cycle costing is to:
+A.	Estimate installation costs.
+B.	Estimate the cost of operations and maintenance.
+C.	Consider installation costs when planning the project costs.
+D.	Consider operations and maintenance costs in making project decisions.
+
+8.	Cost performance measurement is BEST done through which of the following?
+A.	Asking for a percent complete from each team member and reporting that in the monthly progress report
+B.	Calculating earned value and using the indexes and other calculations to report past performance and forecast future performance
+C.	Using the 50/50 rule and making sure the life cycle cost is less than the project cost
+D.	Focusing on the amount expended last month and what will be expended the following month
+
+9.	A cost performance index (CPI) of 0.89 means:
+A.	At this time, we expect the total project to cost 89 percent more than planned.
+B.	When the project is completed, we will have spent 89 percent more than planned.
+C.	The project is progressing at 89 percent of the rate planned.
+D.	The project is getting 89 cents out of every dollar invested.
+
+10.	A schedule performance index (SPI) of 0.76 means:
+A.	You are over budget.
+B.	You are ahead of schedule.
+C.	You are progressing at 76 percent of the rate originally planned.
+D.	You are progressing at 24 percent of the rate originally planned.
+
+11.	Which of the following is NOT needed in order to come up with a project estimate?
+A.	A WBS
+B.	A network diagram
+C.	Risks
+D.	Change requests
+
+12.	Which of the following is an example of a parametric estimate?
+A.	Dollars per module
+B.	Learning bend
+C.	Bottom-up
+D.	CPM
+
+13.	A rough order of magnitude estimate is made during which project management process group?
+A.	Planning
+B.	Closing
+C.	Executing
+D.	Initiating
+
+14.	A cost baseline is an output of which cost management process?
+A.	Estimate Activity Resources
+B.	Estimate Costs
+C.	Determine Budget
+D.	Control Costs
+
+15.	During which project management process group are budget forecasts created?
+A.	Monitoring and controlling
+B.	Planning
+C.	Initiating
+D.	Executing
+
+16.	Which type of cost is team training?
+A.	Direct
+B.	NPV
+C.	Indirect
+D.	Fixed
+
+17.	Project setup costs are an example of:
+A.	Variable costs.
+B.	Fixed costs.
+C.	Overhead costs.
+D.	Opportunity costs.
+
+18.	Value analysis is performed to get:
+A.	More value from the cost analysis.
+B.	Management to buy into the project.
+C.	The team to buy into the project.
+D.	A less costly way of doing the same work.
+
+19.	Which estimating method tends to be MOST costly for creating a project cost estimate?
+A.	Bottom-up
+B.	Analogous
+C.	Parametric
+D.	50/50
+
+20.	Which of the following represents the estimated value of the work actually accomplished?
+A.	Earned value (EV)
+B.	Planned value (PV)
+C.	Actual cost (AC)
+D.	Cost variance (CV) 
+
+21.	Which of the following are ALL items included in the cost management plan?
+A.	The level of accuracy needed for estimates, rules for measuring cost performance, specifications for how duration estimates should be stated
+B.	Specifications for how estimates should be stated, rules for measuring cost performance, the level of accuracy needed for estimates
+C.	Rules for measuring team performance, the level of accuracy needed for estimates, specifications for how estimates should be stated
+D.	Specifications for how estimates should be stated, the level of risk needed for estimates, rules for measuring cost performance
+
+22.	Your project has a medium amount of risk and is not very well defined. The sponsor hands you a project charter and asks you to confirm that the project can be completed within the project cost budget. What is the BEST method to handle this?
+A.	Build an estimate in the form of a range of possible results.
+B.	Ask the team members to help estimate the cost based on the project charter.
+C.	Based on the information you have, calculate a parametric estimate.
+D.	Provide an analogous estimate based on past history.
+
+23.	The cost contingency reserve should be:
+A.	Hidden to prevent management from disallowing the reserve.
+B.	Added to each activity to provide the customer with a shorter critical path.
+C.	Maintained by management to cover cost overruns.
+D.	Added to the costs of the project to account for risks.
+
+24.	You are having difficulty estimating the cost of a project. Which of the following BEST describes the most probable cause of your difficulty?
+A.	Inadequate scope definition
+B.	Unavailability of desired resources
+C.	Lack of historical records from previous projects
+D.	Lack of company processes
+
+25.	Your cost forecast shows that you will have a cost overrun at the end of the project. Which of the following should you do?
+A.	Eliminate risks in estimates and reestimate.
+B.	Meet with the sponsor to find out what work can be done sooner.
+C.	Cut quality.
+D.	Decrease scope.
+
+26.	Early in the life of your project, you are having a discussion with the sponsor about what estimating techniques should be used. You want a form of expert judgment, but the sponsor argues for analogous estimating. It would be BEST to:
+A.	Agree to analogous estimating, as it is a form of expert judgment.
+B.	Suggest life cycle costing as a compromise.
+C.	Determine why the sponsor wants such an accurate estimate.
+D.	Try to convince the sponsor to allow expert judgment because it is typically more accurate. 
+
+27. You have just completed the initiating processes of a small project and are moving into project planning when a project stakeholder asks you for the project s budget and cost baseline. What should you tell her?
+A.	The project budget can be found in the project charter, which has just been completed.
+B.	The project budget and baseline will not be finalized and accepted until the planning processes are completed.
+C.	The project management plan will not contain the project’s budget and baseline; this is a small project.
+D.	It is impossible to complete an estimate before the project management plan is created.
+
+28. The project manager is allocating overall cost estimates to individual activities to establish a baseline for measuring project performance. What process is this?
+A.	Cost Management
+B.	Estimate Costs
+C.	Determine Budget
+D.	Control Costs
+
+29.	Monitoring cost expended to date in order to detect variances from the plan occurs during:
+A.	The creation of the cost change management plan.
+B.	Recommending corrective actions.
+C.	Updating the cost baseline.
+D.	Project performance reviews.
+
+30.	A cost management plan contains a description of:
+A.	The project costs.
+B.	How resources are allocated.
+C.	The budgets and how they were calculated.
+D.	The WBS level at which earned value will be calculated.
+
+31.	A manufacturing project has a schedule performance index (SPI) of 0.89 and a cost performance index (CPI) of 0.91. Generally, what is the BEST explanation for why this occurred?
+A. The scope was changed.
+B. A supplier went out of business and a new one needed to be found. 
+C. Additional equipment needed to be purchased.
+D. A critical path activity took longer and needed more labor hours to complete.
+
+32. Although the stakeholders thought there was enough money in the budget, halfway through the project the cost performance index (CPI) is 0.7. To determine the root cause, several stakeholders audit the project and discover the project cost budget was estimated analogously. Although the activity estimates add up to the project estimate, the stakeholders think something was missing in how the estimate was completed. Which of the following describes what was missing?
+A.	Estimated costs should be used to measure CPI.
+B.	SPI should be used, not CPI.
+C.	Bottom-up estimating should have been used.
+D.	Past history was not taken into account.
+
+33.	Earned value measurement is an example of:
+A.	Performance reporting.
+B.	Planning control.
+C.	Ishikawa diagrams.
+D.	Integrating the project components into a whole.
+
+34.	Identified risks are:
+A.	An input to the Estimate Costs process.
+B.	An output of the Estimate Costs process.
+C.	Not related to the Estimate Costs process.
+D.	Both an input to and an output of the Estimate Costs process.
+
+35.	The difference between the cost baseline and the cost budget can be BEST described as:
+A.	The management reserves.
+B.	The contingency reserves.
+C.	The project cost estimate.
+D.	The cost account.
+
+36.	You provide a project cost estimate for the project to the project sponsor. Ele is unhappy with the estimate, because he thinks the price should be lower. He asks you to cut 15 percent off the project estimate. What should you do?
+A.	Start the project and constantly look for cost savings.
+B.	Tell all the team members to cut 15 percent from their estimates.
+C.	Inform the sponsor of the activities to be cut.
+D.	Add additional resources with low hourly rates.
+
+37.	Cost risk means:
+A.	There are risks that will cost the project money.
+B.	The project is too risky from a cost perspective.
+C.	There is a risk that project costs could go higher than planned.
+D.	There is a risk that the cost of the project will be lower than planned.
+
+38.	A project manager needs to analyze the project costs to find ways to decrease costs. It would be BEST if the project manager looks at:
+A.	Variable costs and fixed costs.
+B.	Fixed costs and indirect costs.
+C.	Direct costs and variable costs.
+D.	Indirect costs and direct costs. 
+
+1.	Answer D
+Explanation This formula for EAC is used if no variances from the BAC have occurred or you will continue at the same rate of spending (as calculated in your cumulative CPI). You have to remember the formula to get the answer correct.
+2.	Answer C
+Explanation When you look at earned value, many of the terms have similar definitions. This could get you into trouble. EAC means the estimate at completion. What it will cost to finish the project is the definition of ETC, or estimate to complete.
+3.	Answer D
+Explanation The formula is CV = EV - AC. Therefore, CV = 350 - 400, or CV = -50.
+4.	Answer D
+Explanation Presenting anything other than your original estimate (allocating more to the budget) is inaccurate and calls into question your competence and integrity as a project manager. The customer should list potential changes and risks related to your estimate. If the costs and risks are justified, you can increase the budget.
+5.	Answer C
+Explanation Analogous estimating is used most frequently during project planning, not project executing. Parametric estimating involves calculations based on historical records. Analogous estimating uses top-down estimating techniques.
+6.	Answer B
+Explanation This question is asking, “When you finish estimating costs, what do you have?” Many people who do not realize that estimates should be in a range pick that option. Documentation of assumptions is referring to the basis of estimates, which is an output of Estimate Costs. The prevention of inappropriate changes is more correctly part of the cost management plan and the change control system.
+7.	Answer D
+Explanation Life cycle costing looks at operations and maintenance costs and balances them with the project costs to try to reduce the cost across the entire life of the project.
+8.	Answer B
+Explanation Asking percent complete is not a best practice since it is usually a guess. Often the easiest work is done first on a project, throwing off any percentage calculations of work remaining. The life cycle cost cannot be lower than the project cost, as the life cycle cost includes the project cost. Focusing on the amount spent last month and what will be spent in the next month is often done by inexperienced project managers. Not only does this provide little information, but the data cannot be used to predict the future. Using earned value and other calculations is the best answer since this choice looks at the past and uses that information to estimate future costs.
+9.	Answer D
+Explanation The CPI is less than one, so the situation is bad. The project is only getting 89 cents out of every dollar invested. 
+10.	Answer C
+Explanation Earned value questions ask for a calculation or an interpretation of the results. In this case, the project is progressing at 76 percent of the rate planned.
+11.	Answer D
+Explanation You need the WBS to define the activities, the network diagram to see the dependencies, and the risks to determine contingencies. NOTE: These are high-level risks, not the detailed risks we identify later in project planning. Change requests are not required to obtain estimates, although they could cause existing estimates to be adjusted. Without the other three choices, you cannot develop the estimates.
+12.	Answer A
+Explanation Parametric estimates use a mathematical model to predict project cost or time.
+13.	Answer D
+Explanation This estimate has a wide range. It is done during project initiating, when very little is known about the project.
+14.	Answer C
+Explanation A cost baseline is an output of the Determine Budget process.
+15.	Answer A
+Explanation Budget forecasts are an output of Control Costs, which is part of monitoring and controlling.
+16.	Answer A
+Explanation You are training the team on skills required for the project. The cost is directly related to the project and thus a direct cost.
+17.	Answer B
+Explanation Setup costs do not change as production on the project changes. Therefore, they are fixed costs.
+18.	Answer D
+Explanation Notice that you need to know the definition of value analysis to answer this question. Also notice that the other choices could be considered correct by someone who does not know the definition. Value analysis seeks to decrease cost while maintaining the same scope.
+19.	Answer A
+Explanation Because you need project details to estimate this way, the effort expended will be greater with bottom-up estimating.
+20.	Answer A
+Explanation It can be confusing to differentiate earned value terms from each other. The estimated value of the work actually completed is the definition of EV, or earned value.
+21.	Answer B
+Explanation Notice how one item in each of the incorrect options makes the entire choice incorrect. Duration estimates are created during time management, and measuring team performance is a part of human resource management. There is no level of risk required for estimates. Specifications for how estimates should be stated, rules for measuring cost performance, and the level of accuracy needed for estimates are all parts of the cost management plan.
+22.	Answer A
+Explanation With such limited information, it is best to estimate in a range. The range can be narrowed as planning progresses and risks are addressed.
+23.	Answer D
+Explanation Hiding the reserve is an inappropriate action. Adding cost to each activity will not shorten the critical path, and thus is an incorrect statement. Management reserves, not contingency reserves, are maintained by management to cover cost overruns. During the risk management process, you determine appropriate contingency reserves to cover the cost of identified risks.
+24.	Answer A
+Explanation Although all choices could cause difficulty, only inadequate scope definition makes estimating impossible.
+25.	Answer A
+Explanation Look for the choice that would have the least negative impact on this situation. You would not need to meet with the sponsor to determine which work can be done sooner. Cutting quality and decreasing scope always have negative effects. The choice with the least negative impact is to eliminate risks in estimates and reestimate.
+26.	Answer A
+Explanation This is a tricky question. Determining why the sponsor wants such an accurate estimate sounds like a good idea at first. However, analogous estimates are less accurate than other forms of estimating, as they are prepared with a limited amount of detailed information. Reading every word of this choice helps eliminate it. In order to pick the best answer, you need to realize that analogous estimating is a form of expert judgment.
+27.	Answer B
+Explanation The overall project budget may be included in the project charter but not the detailed costs. Even small projects should have a budget and schedule. It is not impossible to create a project budget before the project management plan is created. However, it is not wise to do so, as the budget will not be accurate. The project budget and baseline are not finalized and accepted until the planning processes are completed.
+28.	Answer C
+Explanation Cost Management is too general. The estimates are already created in this situation, so the answer is not Estimate Costs. The answer is not Control Costs, because the baseline has not yet been created. The work described is the Determine Budget process.
+29.	Answer D
+Explanation Recommending corrective actions and possible updates to the cost baseline result from project performance reviews; they are not concurrent with them. Monitoring costs is part of change control, but not part of creating the change control system. The correct choice is project performance reviews.
+30.	Answer D
+Explanation The exam will ask you what the management plans include, in order to test whether you really understand them. The cost management plan identifies the WBS level at which earned value will be calculated.
+31.	Answer D
+Explanation To answer this question, you must look for a choice that would take longer and cost more. Notice one of the choices says scope was changed, but it was not necessarily added to. If the change was to reduce the scope, it might also have reduced cost. Though it would take time to handle the issue of the need to find a new supplier, the impacted activity might not be on the critical path and thus might not affect time. Purchasing additional equipment definitely adds cost, but not necessarily time. A critical path activity taking longer and requiring more labor hours to complete would negatively affect both time and cost.
+32.	Answer C
+Explanation Actual costs are used to measure CPI, and there is no reason to use SPI in this situation. Using past history is another way of saying “analogous.” The best way to estimate is bottom-up. Such estimating would have improved the overall quality of the estimate.
+33.	Answer A
+Explanation Earned value measurement is a great reporting tool. With it, you can show where you stand on budget and schedule, as well as provide forecasts for the rest of the project.
+34.	Answer D
+Explanation Identified risks are listed in the risk register, an input to the Estimate Costs process. In completing the Estimate Costs process, additional risks may be uncovered. These are added to the risk register as project documents updates.
+35.	Answer A
+Explanation Cost accounts are included in the project cost estimate, and the contingency reserves are added to that to come up with the cost baseline. Thereafter, the management reserves are added to come up with the cost budget. The management reserves make up the difference between the cost baseline and the cost budget.
+36.	Answer C
+Explanation This question is full of choices that are not correct project management actions. To answer the question, you must first realize that it is never appropriate for a project manager to just cut estimates across the board. You should have created a project estimate based on realistic work package estimates that do not include padding. Then, if costs must be decreased, you can look to cut quality, decrease risk, cut scope, or use cheaper resources (and at the same time closely monitor the impact of changes on the project schedule). One of the worst things a project manager can do is to start a project knowing that the time or cost for the project is unrealistic. Did you notice the choice of adding additional resources? Even though they have low hourly rates, that would add cost. Evaluating, looking for alternatives, and then reporting the impact of the cost cutting to the sponsor is the best action to take.
+37.	Answer C
+Explanation While it is true that risk will cost the project money, that is not the definition of cost risk. Stating that the project is too risky from a cost perspective assumes that the risk is too great to do the project. Cost risk is the risk that project costs could go higher than planned.
+38.	Answer C
+Explanation Direct costs are directly attributable to the project, and variable costs are costs that vary with the amount of work accomplished. It is best to look at decreasing these costs on the project.

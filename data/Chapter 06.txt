@@ -1,0 +1,304 @@
+1.	To control the schedule, a project manager is reanalyzing the project to predict project duration. She does this by analyzing the sequence of activities with the least amount of scheduling flexibility. What technique is she using?
+A.	Critical path method
+B.	Flowchart
+C.	Precedence diagramming
+D.	Work breakdown structure
+
+2.	A dependency requiring that design be completed before manufacturing can start is an example of a(n):
+A.	Discretionary dependency.
+B.	External dependency.
+C.	Mandatory dependency.
+D.	Scope dependency.
+
+3.	Which of the following are GENERALLY illustrated BETTER by bar charts than network diagrams?
+A.	Logical relationships
+B.	Critical paths
+C.	Resource trade-offs
+D.	Progress or status
+
+4.	If the optimistic estimate for an activity is 12 days, and the pessimistic estimate is 18 days, what is the standard deviation of this activity?
+A.	1
+B.	1.3
+C.	6
+D.	3
+
+5.	A heuristic is BEST described as a:
+A.	Control tool.
+B.	Scheduling method.
+C.	Planning tool.
+D.	Generally accepted rule.
+
+6.	Lag means:
+A.	The amount of time an activity can be delayed without delaying the project finish date.
+B.	The amount of time an activity can be delayed without delaying the early start date of its successor.
+C.	Waiting time.
+D.	The product of a forward and backward pass.
+
+7.	Which of the following is the BEST project management tool to use to determine the longest time the project will take?
+A.	Work breakdown structure
+B.	Network diagram
+C.	Bar chart
+D.	Project charter
+
+8.	Which of the following is CORRECT?
+A.	The critical path helps prove how long the project will take.
+B.	There can be only one critical path.
+C.	The network diagram will change every time the end date changes.
+D.	A project can never have negative float.
+
+9.	What is the duration of a milestone?
+A.	It is shorter than the duration of the longest activity.
+B.	It is shorter than the activity it represents.
+C.	It has no duration.
+D.	It is the same length as the activity it represents.
+
+10.	Which of the following BEST describes the relationship between standard deviation and risk?
+A.	There is no relationship.
+B.	Standard deviation tells you if the estimate is accurate.
+C.	Standard deviation tells you how uncertain the estimate is.
+D.	Standard deviation tells you if the estimate includes a pad.
+
+11.	The float of an activity is determined by:
+A.	Performing a Monte Carlo analysis.
+B.	Determining the waiting time between activities.
+C.	Determining lag.
+D.	Determining the length of time the activity can be delayed without delaying the critical path.
+
+12.	A project has three critical paths. Which of the following BEST describes how this affects the project?
+A.	It makes it easier to manage.
+B.	It increases the project risk.
+C.	It requires more people.
+D.	It makes it more expensive.
+
+13.	If project time and cost are not as important as the number of resources used each month, which of the following is the BEST thing to do?
+A.	Perform a Monte Carlo analysis.
+B.	Fast track the project.
+C.	Perform resource optimization.
+D.	Analyze the life cycle costs. 
+
+14. When a milestone chart used instead of a bar chart? 
+A. Project planning
+B. Reporting to team members
+C. Reporting to management
+D. Risk analysis
+
+15. You project management plan results in a project schedule that is too long. If the project network diagram cannot change but you have extra personnel resources, what is the BEST thing to do? 
+A. Fast track the project.
+B. Level the resources.
+C. Crash the project. 
+D. Perform Monte Carlo analysis.
+
+16. Which of the following is the BEST thing to do whtn asked to complete a project two days earlier then planned?
+A. Tell senior managemtn that the project's critical path does not allow the project to be finished earlier. 
+B. Tell your boss. 
+C. Meet with the team to look at options for crashing or fast tracking the critical path. 
+D. Work hard and see what the project status is next month. 
+
+17. In attempting to complete the project faster, the project manager looks at the cost associated with crashing each activity. The BEST approach to crashing would also include looking at the: 
+A. Risk impact of crashing each activity. 
+B. Customers opinion of which activities to crash. 
+C. Boss's opinion of which activities to crash and in which order. 
+D. Project the cycle phase in which the activity is due to occur. 
+
+18. Which of the following processes includes asking team members about the time estimates for their activities and reaching agreement on the calendar date for each activity? 
+A. Sequence Activities. 
+B. Develop Schedule Define.
+C. Scope Develop Project. 
+D. Charter.
+
+19. A project manager is in the middle of executing a very large construction project when he discovers the time needed to complete the project is longer than the time available. What is the BEST thing to do? 
+A. Cut product scope.
+B. Meet with management and tell them the required date cannot be met. 
+C. Work overtime. 
+D. Determine options for schedule compression and present management with his recommended option. 
+ 
+20.	During project planning, you estimate the time needed for each activity and then add up the estimates to create the project estimate. You commit to completing the project by this date. What is wrong with this scenario?
+A.	 The team did not create the estimate, and estimating takes too long using that method.
+B.	 The team did not create the estimate, and a network diagram was not used.
+C.	The estimate is too long and should be created by management.
+D.	The project estimate should be the same as the customers required completion date.
+
+21.	You are a project manager on a US $5,000,000 software development project. While working with your project team to develop a network diagram, you notice a series of activities that can be worked in parallel but must finish in a specific sequence. What type of activity sequencing method is required for these activities?
+A.	Precedence diagramming method
+B.	Arrow diagramming method
+C.	Critical path method
+D.	Operational diagramming method
+
+22.	You are a project manager on a US $5,000,000 software development project. While working with your project team to develop a network diagram, your data architects suggest that quality could be improved if the data model is approved by senior management before moving on to other design elements. They support this suggestion with an article from a leading software development journal. Which of the following BEST describes this type of input?
+A.	Mandatory dependency
+B.	Discretionary dependency
+C.	External dependency
+D.	Heuristic
+
+23.	Based on the following, if you needed to shorten the duration of the project, which activity would you try to shorten?<br><img src="img/Chapter 02 Q23.png"/>
+A.	Activity B
+B.	Activity D
+C.	Activity H
+D.	Activity C 
+
+24.	You have a project with the following activities: Activity A takes 40 hours and can start after the project starts. Activity B takes 25 hours and should happen after the project starts. Activity C must happen after activity A and takes 35 hours. Activity D must happen after activities B and C and takes 30 hours. Activity E must take place after activity C and takes 10 hours. Activity F takes place after Activity E and takes 22 hours. Activities F and D are the last activities of the project. Which of the following is TRUE if activity B actually takes 37 hours?
+A.	The critical path is 67 hours.
+B.	The critical path changes to Start, B, D, End.
+C.	The critical path is Start, A, С, E, F, End.
+D.	The critical path increases by 12 hours.
+
+25.	A project manager has received activity duration estimates from his team. Which of the following does he need in order to complete the Develop Schedule process?
+A.	Change requests
+B.	Schedule change control system
+C.	Recommended corrective actions
+D.	Reserves
+
+26.	A project manager is taking over a project from another project manager during project planning. If the new project manager wants to see what the previous project manager planned for managing changes to the schedule, it would be BEST to look at the:
+A.	Communications management plan.
+B.	Update management plan.
+C.	Staffing management plan
+D.	Schedule management plan.
+
+27.	A project manager is using weighted average duration estimates to perform schedule network analysis. Which type of mathematical analysis is being used?
+A.	Critical path method
+B.	Beta distribution
+C.	Monte Carlo
+D.	Resource leveling
+
+28.	The WBS, estimates for each work package, and the network diagram are completed. The NEXT thing for the project manager to do is:
+A.	Sequence the activities.
+B.	Validate that they have the correct scope.
+C.	Create a preliminary schedule and get the team’s approval.
+D.	Complete risk management.
+
+29.	A new product development project has four levels in the work breakdown structure and has been sequenced using the precedence diagramming method. The activity duration estimates have been received. What should be done NEXT?
+A.	Create an activity list.
+B.	Begin the work breakdown structure.
+C.	Finalize the schedule.
+D.	Compress the schedule.
+
+30.	You are the project manager for a new product development project that has four levels in the work breakdown structure. The network diagram and duration estimates have been created, and a schedule has been developed and compressed. Which time management activity should you do NEXT?
+A.	Control Schedule.
+B.	Estimate Activity Resources.
+C.	Analogously estimate the schedule.
+D.	Gain approval.
+
+31.	A team member from research and development tells you that her work is too creative to provide you with a fixed single estimate for the activity. You both decide to use the average labor hours to develop a prototype (from past projects). This is an example of which of the following?
+A.	Parametric estimating
+B.	Three-point estimating
+C.	Analogous estimating
+D.	Monte Carlo analysis
+
+32.	An activity has an early start (ES) of day 3, a late start (LS) of day 13, an early finish (EF) of day 9, and a late finish (LF) of day 19. The activity:
+A.	Is on the critical path.
+B.	Has a lag.
+C.	Is progressing well.
+D.	Is not on the critical path.
+
+33.	The project is calculated to be completed four days after the desired completion date. You do not have access to additional resources. The project is low risk, the benefit cost ratio is expected to be 1.6, and the dependencies are preferential. Under these circumstances, what is the BEST thing to do?
+A.	Cut resources from an activity.
+B.	Make more activities concurrent.
+C.	Move resources from the preferential dependencies to the external dependencies.
+D.	Remove an activity from the project.
+
+34.	A project manager for a small construction company has a project that was budgeted for US $130,000 over a six-week period. According to her schedule, the project should have cost US $60,000 to date. However, it has cost US $90,000 to date. The project is also behind schedule, because the original estimates were not accurate. Who has the PRIMARY responsibility to solve this problem?
+A.	Project manager
+B.	Senior management
+C.	Project sponsor
+D.	Manager of the project management office 
+
+35.	Senior management is complaining that they are not able to easily determine the status of ongoing projects in the organization. Which of the following types of reports would help provide summary information to senior management?
+A.	Detailed cost estimates
+B.	Project management plans
+C.	Barcharts
+D.	Milestone reports
+
+36.	Rearranging resources so that a constant number of resources is used each month is called:
+A.	Crashing.
+B.	Floating.
+C.	Leveling.
+D.	Fast tracking.
+
+37.	Which of the following is a benefit of an analogous project estimate?
+A.	It will be closer to what the work will actually require.
+B.	It is based on a detailed understanding of what the work requires.
+C.	It gives the project team an understanding of management’s expectations.
+D.	It helps the project manager determine if the project will meet the schedule.
+
+38.	During project executing, a large number of changes are made to the project. The project manager should:
+A.	Wait until all changes are known and print out a new schedule.
+B.	Make approved changes as needed, but retain the schedule baseline.
+C.	Make only the changes approved by management.
+D.	Talk to management before any changes are made. 
+
+1.	Answer A
+Explanation There are only two choices related to scheduling: critical path method and precedence diagramming. Precedence diagramming, however, is a diagramming technique that deals with the relationship between activities, not schedule flexibility. The project manager is analyzing the critical path.
+2.	Answer C
+Explanation No mention is made that the dependency comes from a source outside the project, so this is not an external dependency. Scope dependency is not a defined term. The key word in the question is “requiring.” Since the dependency is required, it could not be discretionary and therefore must be mandatory. The question defines a mandatory dependency.
+3.	Answer D
+Explanation The bar chart (or Gantt chart) is designed to show a relationship to time. This is best used when demonstrating progress or status as a factor of time.
+4.	Answer A
+Explanation The beta standard deviation is computed by (P - 0)/6. Therefore, the answer is (18- 12)/6 = 6/6 = 1.
+5.	Answer D
+Explanation A heuristic is a generally accepted rule. Examples are cost per line of code, cost per square foot of floor space, etc.
+6.	Answer C
+Explanation Total float and free float are the time an activity can be delayed without impacting the entire project or the next activity. A forward or backward pass refers to a network analysis technique, not waiting time. Waiting time is the correct definition of lag.
+7.	Answer B
+Explanation The bar chart may show an end date, but it is not used to determine dates. The project charter also may include a required end date, but not a logical determination of how long the project will take. The network diagram takes the activities from the activity list and adds dependencies. The dependencies allow us to look at the various paths through the diagram to determine the longest duration (critical) path. The network diagram is the best answer.
+8.	Answer A
+Explanation This question tests your knowledge about a number of topics. There can often be more than one critical path, but you might adjust the plan in order to decrease risk and have only one critical path. The network diagram may or may not change when the end date changes, depending on the amount of schedule reserve and the reason for the change to the schedule. You can have negative float if you are behind schedule. The critical path helps prove how long the project will take. This is the only correct statement of the choices given.
+9.	Answer C
+Explanation A milestone represents the completion of a series of activities or work packages. Therefore, it takes no time of its own. 
+10.	Answer C
+Explanation An estimate can have a wide range and still be accurate if the item estimated includes identified risks. There is no such thing as a pad in proper project management. An estimate might be inflated, but it is a calculated reserve to account for risks, not arbitrary padding. The standard deviation tells you the amount of uncertainty or risk involved in the estimate for the activity.
+11.	Answer D
+Explanation The total float of an activity is the length of time the activity can be delayed without delaying the critical path.
+12.	Answer B
+Explanation Though having three critical paths COULD require more people or cost more, the answer that is definitely and always true is that it increases project risk. Because you need to manage three critical paths, there is more risk that something could happen to delay the project.
+13.	Answer C
+Explanation Fast tracking affects both time and cost but may not help even out resource usage. Monte Carlo analysis and analysis of life cycle costs do not directly deal with resources. Resource optimization is the only choice that will definitely affect resources.
+14.	Answer C
+Explanation Both types of charts are used in project planning. Team members need to see details and so they need a bar chart rather than a milestone chart. Risk analysis COULD make use of both charts. A milestone chart is used instead of a bar chart for any situation where you want to report in a less detailed way. Since bar charts can scare people with their complexity and often show too much detail to be worthwhile on a management level, milestone charts are more effective for reporting to management.
+15.	Answer C
+Explanation Leveling resources generally extends the schedule. Monte Carlo analysis does not directly address the constraints of this situation. To compress the schedule, you could either crash or fast track. However, the situation says that the network diagram cannot change. This eliminates the fast tracking option, leaving crashing the project as the best answer.
+16.	Answer C
+Explanation This is another question that asks about problem solving. Neither telling the boss nor waiting to see the status next month tries to solve the real problem. It would be inaccurate to report that the project cannot be finished earlier. Only meeting with the team to look for options for compressing the schedule (by crashing or fast tracking) relates to problem solving.
+17.	Answer A
+Explanation You may or may not need your customers or your boss’s input, but you will definitely need to include an analysis of risk.
+18.	Answer B
+Explanation By the time this process is taking place, Develop Project Charter, Define Scope, and Sequence Activities would be completed. The process defined in the question is Develop Schedule. 
+19.	Answer D
+Explanation This question again tests whether you know how to solve problems. Cutting product scope negatively affects the customer, and is therefore not best. A project managers job is to determine options for meeting any end date; therefore, simply telling management the required date cannot be met is not correct. Working overtime is expensive and unnecessary when there are many other choices that could be selected first. Determining options for schedule compression would have the least negative effect on the project.
+20.	Answer B
+Explanation Time estimates for the activities should be created by the team and should not be added together to create the project estimate. Some activities may take place concurrently; these would be identified in the network diagram.
+21.	Answer A
+Explanation The question implies a finish-to-finish relationship between activities. The arrow diagramming method does not support that type of relationship. Critical path is not a diagramming method, and operational diagramming method is a made-up term. The precedence diagramming method is most appropriate in this case.
+22.	Answer B
+Explanation The situation is neither mandatory nor driven by an external source. A heuristic is a general rule that can be used consistently. This situation is a unique occurrence for which a preferred method is being suggested. Therefore, this is a discretionary dependency.
+23.	Answer D
+Explanation This is an example of a two-stage question you may find on the exam. First you need to draw the network diagram and find the critical path, and then make a decision. The network diagram would be:<br><img src="img/Chapter 02 E23.png"/><br> The critical path is 16 (Start, С, E, H, End). Many people immediately look for the longest duration activity on the project to cut. Here activity D is the longest, at 10 weeks. However, that activity is not on the critical path, and cutting it would not shorten the projects duration. You must change the critical path. In this case, both activity C and activity H are on the critical path. If you have a choice, all things being equal, choose the earlier option. Therefore, activity C is the best answer.
+24. Answer C
+Explanation Did you notice how difficult this question was to read? Such wording is intentional, to prepare you for interpreting questions on the real exam. Looking at this situation, you see there are three paths through the network as shown in the following table. If the duration of activity B changes from 25 to 37, the activity will take 12 hours longer. As the activity is only on the third path, it will only change the duration of that path from 55 to 55 + 12, or 67 hours. Since the duration of the critical path is 107 hours, the delay with activity B will have no impact on the project timeline or the current critical path.<br><img src="img/Chapter 02 E24.png"/>
+25.	Answer D
+Explanation The Develop Schedule process includes all work and uses all inputs needed to come up with a finalized, realistic schedule. As part of the Estimate Activity Durations process, reserves are created to cover identified and unknown schedule risks. All the other items are parts of Control Schedule and occur after the Develop Schedule process.
+26.	Answer D
+Explanation The schedule management plan is the most correct answer. It includes plans for how schedule changes will be managed.
+27.	Answer B
+Explanation Beta distribution uses weighted averages to compute activity durations.
+28.	Answer C
+Explanation Sequencing the activities is the same thing as creating a network diagram, so that has already been done. The Validate Scope process is done during project monitoring and controlling, not during project planning. Since a schedule is an input to risk management, risk management comes after the creation of a preliminary schedule, and so that is not the “next thing to do.” Creating the preliminary schedule is next.
+29.	Answer D
+Explanation The question is really asking, “What is done after the Estimate Activity Durations process?” The work breakdown structure and activity list are done before Estimate Activity Durations. The schedule is not finalized until after schedule compression. Therefore compressing the schedule is done next. 
+30.	Answer D
+Explanation Notice how this question and the previous one seem very similar. This is intended to prepare you for similar questions on the exam. Estimating activity resources and analogously estimating the schedule should have already been completed. The situation described is within the Develop Schedule process of time management. Control Schedule is the next time management process after Develop Schedule, but the Develop Schedule process is not yet finished. Final approval of the schedule by the stakeholders is needed before one has a project schedule.
+31.	Answer A
+Explanation Monte Carlo analysis is a modeling, or simulation, technique. Three-point estimating uses three time estimates per activity. One could use data from past projects to come up with the estimate (analogous estimating), but the best answer is parametric estimating because past history is being used to calculate an estimate.
+32.	Answer D
+Explanation There is no information presented about lag or progress. The activity described has float, because there is a difference between the early start and late start. An activity that has float is probably not on the critical path.
+33.	Answer B
+Explanation Cutting resources from an activity would not save time, nor would moving resources from the preferential dependencies to the external dependencies. Removing an activity from the project is a possibility, but since the dependencies are preferential and the risk is low, the best choice is to make more activities concurrent, as this would have less impact on the project.
+34.	Answer A
+Explanation Did you get lost looking at all the numbers presented in this question? Notice that there are no calculations required, simply an understanding of what the problem is. This question describes schedule management, which is a responsibility of the project manager.
+35.	Answer D
+Explanation Detailed cost estimates have nothing to do with the situation described. Project management plans include more detail than is necessary for the situation described, and may distract from the conversation if used in this situation. Bar charts are most effective for reporting to the team. The best answer is milestone reports, which present the right level of detail for upper management.
+36.	Answer C
+Explanation The key to this question is the phrase “constant number used each month.” Only leveling has such an effect on the schedule.
+37.	Answer C
+Explanation Remember that analogous project estimates are considered to be top-down, high-level estimates. Therefore, they are not based on a detailed understanding of what the work will require. The project manager needs more than an analogous (high-level) estimate to determine whether or not the project will meet the schedule. The benefit of an analogous project estimate is that it is managements expectations of how long the project will take. Any differences between the analogous estimate and the detailed bottom-up estimate can be reconciled in the planning processes. 
+38. Answer B
+Explanation Waiting until all changes are known, and then printing out a new schedule, is a common error many project managers make. Instead, the project manager should be controlling the project throughout its completion. The situation in the question does not provide a reason to believe the schedule baseline must be changed. A project manager must be in control of the project, rather than consulting with management before making any changes. Whenever a large number of changes occur on a project, it is wise to confirm that the business case, as stated in the project charter, is still valid.

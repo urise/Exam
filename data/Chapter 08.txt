@@ -1,0 +1,249 @@
+1.	When a product or service completely meets a customer’s requirements:
+A.	Quality is achieved.
+B.	The cost of quality is high.
+C.	The cost of quality is low.
+D.	The customer pays the minimum price.
+
+2.	To what does the following definition refer? “The point where the benefits or revenue to be received from improving quality equals the incremental cost to achieve that quality.”
+A.	Quality control analysis
+B.	Marginal analysis
+C.	Standard quality analysis
+D.	Conformance analysis
+
+3.	Who is ultimately responsible for quality management on the project?
+A.	The project engineer
+B.	The project manager
+C.	The quality manager
+D.	The team member
+
+4.	A project has faced major difficulties in the quality of its deliverables. Management now states that quality is the most important project constraint. If another problem with quality were to occur, what would be the BEST thing for the project manager to do?
+A.	Fix the problem as soon as possible.
+B.	Allow the schedule to slip by cutting cost.
+C.	Allow cost to increase by fixing the root cause of the problem.
+D.	Allow risk to increase by cutting cost.
+
+5.	A manager notices that a project manager is holding a meeting with some of the team and some stakeholders to discuss the quality of the project. The project schedule has been compressed, and the CPI is 1.1. They have worked hard on the project, the team has been rewarded according to the reward system the project manager put in place, and there is a strong sense of team. The manager suggests that the project manager does not have enough time to hold meetings about quality when the schedule is so compressed. Which of the following BEST describes why the manager is wrong?
+A.	Improved quality leads to increased productivity, increased cost effectiveness, and decreased cost risk.
+B.	Improved quality leads to increased productivity, decreased cost effectiveness, and increased cost risk.
+C.	Improved quality leads to increased productivity, increased cost effectiveness, and increased cost risk.
+D.	Improved quality leads to increased productivity, decreased cost effectiveness, and decreased cost risk. 
+
+6.	Quality is:
+A.	Meeting and exceeding the customers expectations.
+B.	Adding extras to make the customer happy.
+C.	The degree to which the project meets requirements.
+D. Conformance to managements objectives.
+
+7.	All the following are tools of Control Quality EXCEPT:
+A.	Inspection.
+B.	Cost of quality.
+C.	Pareto diagram.
+D.	Fishbone diagram.
+
+8.	Pareto diagrams help the project manager:
+A.	Focus on the most critical issues to improve quality.
+B.	Focus on stimulating thinking.
+C.	Explore a desired future outcome.
+D.	Determine if a process is out of control.
+
+9.	A control chart helps the project manager:
+A.	Focus on the most critical issues to improve quality.
+B.	Focus on stimulating thinking.
+C.	Explore a desired future outcome.
+D.	Determine if a process is functioning within set limits.
+
+10.	Testing the entire population would:
+A.	Take too long.
+B.	Provide more information than wanted.
+C.	Be mutually exclusive.
+D.	Show many defects.
+
+11.	All of the following are examples of the cost of nonconformance EXCEPT:
+A.	Rework.
+B.	Quality training.
+C.	Scrap.
+D.	Warranty costs.
+
+12.	Standard deviation is a measure of how:
+A.	Far the estimate is from the highest estimate.
+B.	Far the measurement is from the mean.
+C.	Correct the sample is.
+D.	Much time remains in the project. 
+
+13.	All of the following result from quality audits EXCEPT:
+A.	Determination of whether project activities comply with organizational policies.
+B.	Improved processes to increase productivity.
+C.	Creation of quality metrics.
+D.	Confirmation of the implementation of approved change requests.
+
+14.	A control chart shows seven data points in a row on one side of the mean. What should be done?
+A.	Perform a design of experiments.
+B.	Adjust the chart to reflect the new mean.
+C.	Find an assignable cause.
+D.	Nothing. This is the rule of seven and can be ignored.
+
+15.	You are managing a project in a just in time environment. This will require more attention, because the amount of inventory in such an environment is generally:
+A.	45 percent.
+B.	10 percent.
+C.	12 percent.
+D.	0 percent.
+
+16.	There are several executing activities underway on your project. You are beginning to get concerned about the accuracy of the progress reporting your team members are doing. How could you verify whether there is a problem?
+A.	Quality audits
+B.	Risk quantification reports
+C.	Regression analysis
+D.	Monte Carlo analysis
+
+17.	A project manager and team from a firm that designs railroad equipment are tasked to design a machine to load stone onto railroad cars. The design allows for 2 percent spillage, amounting to over two tons of spilled rock per day. In which of the following does the project manager document quality control, quality assurance, and quality improvement processes for this project?
+A.	Quality management plan
+B.	Quality policy
+C.	Control charts
+D.	Project management plan
+
+18.	During a team meeting, the team adds a specific area of extra work to the project because they have determined it would benefit the customer. What is wrong in this situation?
+A.	The team is gold plating.
+B.	These efforts shouldn’t be done in meetings.
+C.	Nothing. This is how to meet and exceed customer expectations.
+D.	Nothing. The project manager is in control of the situation. 
+
+19.	The project team has created a plan for how they will implement the quality policy. It addresses the organizational structure, responsibilities, procedures, and other information about plans for quality. If this plan changes during the project, WHICH of the following plans will also change?
+A.	Quality assurance plan
+B.	Quality management plan
+C.	Project management plan
+D.	Quality control plan
+
+20.	You are a project manager for a major information systems project. Someone from the quality department comes to see you about beginning a quality audit of your project. The team, already under pressure to complete the project as soon as possible, objects to the audit. You should explain to the team that the purpose of a quality audit is:
+A.	To satisfy part of an ISO 9000 investigation.
+B.	To check if the customer is following the quality process.
+C.	To identify inefficient and ineffective policies.
+D.	To check the accuracy of costs submitted by the team.
+
+21.	You are in the middle of a major new facility construction project. The structural steel is in place and the heating conduits are going into place when a senior manager informs you that he is worried the project will not meet the quality standards. What should you do in this situation?
+A.	Assure senior management that during the Plan Quality Management process, it was determined that the project would meet the quality standards.
+B.	Analogously estimate future results.
+C.	Form a quality assurance team.
+D.	Check the results from the last quality management plan.
+
+22.	You are asked to select tools and techniques to implement a quality assurance program to supplement existing quality control activities. Which of the following would NOT be appropriate for this purpose?
+A.	Quality audits
+B.	Statistical sampling
+C.	Pareto diagrams
+D.	Focus groups
+
+23.	The new software installation project is in progress. The project manager is working with the quality assurance department to improve stakeholders’ confidence that the project will satisfy the quality standards. Which of the following MUST they have before they start this process?
+A.	Quality problems
+B.	Quality improvement
+C.	Quality control measurements
+D.	Rework 
+
+24.	A project manager has just taken over the project from another project manager during project executing. The previous project manager created a project budget, determined communications requirements, and went on to complete work packages. What should the new project manager do NEXT?
+A.	Coordinate completion of work packages.
+B.	Identify quality standards.
+C.	Begin the Identify Risks process.
+D.	Execute the project management plan.
+
+25.	Design of experiments:
+A.	Identifies which variables will have the most influence on a quality outcome.
+B.	Identifies which variables will have the least influence on a quality outcome.
+C.	Determines what a quality outcome is.
+D.	Determines methods to be used for research and development.
+
+26.	At the end of a project, a project manager determines the project has added four areas of functionality and three areas of performance. The customer has expressed satisfaction with the project. What does this mean in terms of the success of the project?
+A.	The project was an unqualified success.
+B.	The project was unsuccessful because it was gold plated.
+C.	The project was unsuccessful because the customer being happy means they would have paid more for the work.
+D.	Tire project was successful because the team had a chance to learn new areas of functionality and the customer was satisfied.
+
+27.	During project executing, a project team member informs the project manager that a work package has not met the quality metric, and that she believes it is not possible to meet it. The project manager meets with all concerned parties to analyze the situation. Which part of the quality management process is the project manager involved in?
+A.	Perform Quality Assurance
+B.	Project Control
+C.	Control Quality
+D.	Plan Quality Management 
+
+28.	The project manager notices that project activities being completed by one department are all taking slightly longer than planned. To date, none of the activities in the work packages have been on the critical path, nor have they affected the critical chain planning that has occurred. The project manager is bothered by the problem, since four of the next five critical path activities are being completed by this department. After making three calls, the project manager is finally able to converse with the department manager to determine what is going on. The conversation is slow, because both speak different native languages and they are trying to converse in French, a shared language. To make communication easier, the project manager frequently asks the department manager to repeat back what has been said. The department manager communicates that his staff is following a company policy that requires two levels of testing. During the conversation, the department manager also makes a comment that leads the project manager to believe that the policy may include excessive work. This is the fourth time the project manager has heard such a comment. What is the BEST thing to do?
+A.	Create a better communications management plan that requires only one language to be the universal language on the project and have translators readily available on a moments notice.
+B.	Contact someone else in the department who speaks the project manager’s native language better to confirm the department managers opinion.
+C.	Find out if the upcoming activities should be reestimated.
+D.	Work on increasing the effectiveness of the performing organization by recommending continuous improvement of the policy in question.
+
+29.	As the project manager, you are preparing your quality management plan. You are looking for a tool that can demonstrate the relationship between events and their resulting effects. You want to use this tool to depict the events that cause a negative effect on quality. Which of the following is the BEST choice for accomplishing your objective?
+A.	Histogram
+B.	Pareto diagram
+C.	Ishikawa diagram
+D.	Control chart
+
+30.	Which of the following explains why quality is planned in and not inspected in?
+A.	It reduces quality and is less expensive.
+B.	It improves quality and is more expensive.
+C.	It reduces quality and is more expensive.
+D.	It improves quality and is less expensive.
+
+31.	Work on a project is ongoing when the project manager overhears two workers arguing over what a set of instructions means. The project manager investigates and discovers that the instructions for the construction of the concrete footings currently being poured were poorly translated between the different languages in use on the project. Which of the following is the BEST thing for the project manager to do FIRST?
+A.	Get the instructions translated by a more experienced party.
+B.	Look for quality impacts of the poor translation of the instructions for the footings.
+C.	Bring the issue to the attention of the team and ask them to look for other translation problems.
+D.	Inform the sponsor of the problem in the next project report. 
+
+1.	Answer A
+Explanation As a general rule, one cannot say that quality (as defined in the question) is either of high or low cost. It provides what the customer wanted, which may not be the lowest or highest cost. When a product or service completely meets a customer’s needs, quality is achieved.
+2.	Answer B
+Explanation This is the definition of marginal analysis. Know the term so you will be able to answer questions that deal with this concept. The other choices may sound good, but they are made-up terms.
+3.	Answer B
+Explanation Although each person working on the project should check his or her own work, the project manager ultimately has the responsibility for quality on the project as a whole.
+4.	Answer C
+Explanation If a problem with quality were to occur again, many people would opt to fix the problem as soon as possible. It is proactive, but some other project constraint(s) must change to accommodate fixing the root cause of the problem. It may not be necessary to allow the schedule to slip, because the project manager might be able to compress the schedule in other areas. Cutting cost does not necessarily cause the schedule to slip, nor would that necessarily fix the problem at hand. Allowing risk to increase by cutting cost is not the best choice, because a quality problem is most likely to create additional cost, rather than cut cost. Allowing the cost to increase by fixing the root cause of the problem addresses both finding the cause and the probable impact of dealing with the problem.
+5.	Answer A
+Explanation Did you notice there is a lot of data not relevant to answering the question? Expect distracters to appear in many questions on the exam. Quality efforts should produce a decrease rather than an increase in cost risk as a result of less rework. Quality efforts should also provide increased cost effectiveness due to less rework. This leaves the best answer: “Improved quality leads to increased productivity, increased cost effectiveness, and decreased cost risk.”
+6.	Answer C
+Explanation There can be a cost impact (or time, risk, etc.) of exceeding expectations or adding extras. Quality is the degree to which the project meets requirements.
+7.	Answer B
+Explanation Inspection, Pareto diagrams, and fishbone diagrams are all tools that can be used in Control Quality. Cost of quality is part of Plan Quality Management, making sure the project is not spending too much to achieve a particular level of quality.
+8.	Answer A
+Explanation Fishbone diagrams are often used to stimulate thinking and to explore a desired future outcome. Determining whether a process is out of control is a function of control charts. Only focusing on critical issues to improve quality relates to Pareto diagrams. 
+9.	Answer D
+Explanation Focusing on the most critical issues to improve quality relates to Pareto diagrams. Stimulating thinking and exploring a desired future outcome relate to fishbone diagrams. Only determining if a process is functioning within set limits relates to control charts.
+10.	Answer A
+Explanation The length of time it takes to test a whole population is one of the reasons to take a sample.
+11.	Answer B
+Explanation Quality training is a cost of conformance to quality. All the other choices are costs of nonconformance to quality.
+12.	Answer B
+Explanation Standard deviation is the measurement of a range around the mean.
+13.	Answer C
+Explanation Quality metrics are an output of the Plan Quality Management process. They are an input to the Perform Quality Assurance process, the process in which quality audits take place.
+14.	Answer C
+Explanation The rule of seven applies here. If you have seven data points in a row on the same side of the mean, statistically the mean has shifted, calling for action to correct the problem.
+15.	Answer D
+Explanation In a just in time environment, supplies are delivered when you need them and not before. Therefore, you have little or no inventory.
+16.	Answer A
+Explanation Quality audits are a necessary part of the Perform Quality Assurance process. They help you assess whether the processes are being followed correctly on the project.
+17.	Answer A
+Explanation The quality policy and control charts are components of a quality management plan. Although the quality management plan is part of the project management plan, the most precise answer is the quality management plan.
+18.	Answer A
+Explanation This is an example of gold plating. You should provide ONLY what the customer asked for. The team does not know if their change will provide benefit to the customer. The team should focus their efforts on fulfilling the requirements.
+19.	Answer C
+Explanation The plan described is the quality management plan. Since the quality management plan is included in the project management plan, changing the quality management plan will also change the project management plan. 
+20.	Answer C
+Explanation Perform Quality Assurance, of which an audit is part, focuses on processes, procedures, and standards. Though ISO 9000 is a standard, that is not the only reason an audit would be conducted. The seller cannot generally control or review the customer’s quality process. Checking the accuracy of costs submitted by the team is more representative of a cost audit than a quality audit, so that option cannot be the best choice. One purpose of a quality audit is to identify inefficient and ineffective policies.
+21.	Answer C
+Explanation Assuring management that it was determined in planning that the project would meet quality standards is not productive, since it does not solve the problem. An analogous estimate looks at the past history of other projects. This would not be appropriate to determine how the current project is going. The quality management plan does not provide results. A quality assurance team could help to determine whether the team is following the correct process to satisfy the relevant quality standards.
+22.	Answer D
+Explanation Focus groups are a tool of the Collect Requirements process, and would not be useful in the Perform Quality Assurance process.
+23.	Answer C
+Explanation Though quality problems MAY lead to quality assurance efforts, they are not a MUST. Quality improvement is a result of Perform Quality Assurance, not an input. Rework (or defect repair) can be an output of Control Quality. That leaves only quality control measurements, which are inputs to the Perform Quality Assurance process.
+24.	Answer B
+Explanation Completion of work packages is done after project planning. Since the previous project manager did not finish planning, continuing to execute the project management plan should not be next. Identify Risks sounds like a good choice; however, identifying quality standards occurs before the Identify Risks process. You may have misread the question and assumed communication planning was complete as well, but notice it only says that communication requirements have been determined. Communications planning still needs to be completed as well. Identify quality standards is the best answer, as planning must be completed on the project.
+25.	Answer A
+Explanation The design of experiments technique allows you to find those factors that have the most impact on quality. It allows the project manager to focus attention on the factors that are most important.
+26.	Answer B
+Explanation Gold plating a project wastes time and probably cost. It makes the project unsuccessful.
+27.	Answer C
+Explanation Measuring is part of the Control Quality process. Did you select project control?
+The question asked which part of the quality management process the project manager is involved in, not which part of the project management process.
+28.	Answer D
+Explanation Changing the communications management plan may not be needed on the project and it does not deal with the problem at hand, the policy that is slowing things down. Confirming the department manager’s opinion with someone else in the department is not the best choice, as the project manager already has heard the opinion on many other occasions. It is already confirmed. Determining whether upcoming activities should be reestimated is just being reactive. A good project manager will find the root cause and deal with that, even if it means attempting to improve the company’s policies and processes. Yes, recommending improvement of the policy is the best answer. This is continuous improvement. Because there are several activities affected by the policy, it would best serve the project to get to the root cause of the problem and solve it.
+29.	Answer C
+Explanation All reports and diagrams are communications tools. This question asks you to pick the most appropriate quality tool to help communications. An Ishikawa diagram, also called a cause and effect diagram, is more appropriate than a Pareto diagram since you are trying to determine the causes. Once causes are known and you have data on occurrences, the data can be displayed in a Pareto diagram.
+30.	Answer D
+Explanation Look for the proactive approach. When we plan for quality, we define the appropriate level of quality needed, which will improve quality overall and will likely be less expensive over the long run. NOTE: You may spend more initially for identifying the right quality and doing the work to produce the planned quality, but you will save through reduced rework, waste, and scrap, and other such benefits.
+31.	Answer B
+Explanation Although all of these choices are correct things to do, the question asks what to do first. What is the most immediate problem? Getting the instructions translated by a more experienced party could be done, but it does not address the immediate concern of the footings that have already been poured according to the poorly translated instructions. Asking the team to look for other translation issues is an excellent idea. However, it does not address the immediate problem. Informing the sponsor is also not taking action to solve the problem. Isn’t it most urgent to find out whether the concrete footings meet your project requirements? Are they adequate? Only the option of looking for quality impacts of the poor translation will help you determine that.
