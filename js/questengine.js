@@ -137,7 +137,8 @@ function showResults() {
             td.classList.add("wrongAnswer");
         
         var a = document.createElement("a");
-        var aText = document.createTextNode((i+1).toString() + ". " + question.question);
+		var questionWithoutTags = question.question.replace(/<\/?[a-z][a-z0-9]*[^<>]*>/ig, "");
+        var aText = document.createTextNode((i+1).toString() + ". " + questionWithoutTag);
         a.appendChild(aText);
         a.setAttribute("data-index", i);
         a.setAttribute("onclick", "onResultClick(event)");

@@ -1135,4 +1135,18 @@ window.questionnaires = [
 			},
 		]
 	},
+	{
+		title: 'Test',
+		questions: [
+			{	question: 'What the fuck is it?<br><img src="img/01.png"/>',
+				explanation: 'Because of this: <br><img src="img/02.png"/><br>And I don`t give a fuck about it. ',
+				answers: [
+					{ answer: 'This is fuck' },
+					{ answer: 'Fuck is this', correct: true },
+					{ answer: 'Is this fuck' },
+					{ answer: 'Is fuck this' },
+				]
+			},
+		]
+	},
 ];
