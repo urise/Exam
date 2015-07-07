@@ -1,0 +1,160 @@
+1.	When do stakeholders have the MOST influence on a project?
+A.	At the beginning of the project
+B.	In the middle of the project
+C.	At the end of the project
+D.	Throughout the project
+
+2.	The project has been going well, except for the number of changes being made. The product of the project is being installed into seven different departments within the company and will greatly improve departmental performance when operational. The team has selected the appropriate processes for use on the project. The project manager is a technical expert as well as having been trained in communications and managing people. Which of the following is the MOST likely cause of the project problems?
+A.	The project manager was not trained in understanding the company environment.
+B.	The project should have more management oversight since it will result in such great benefits to the company.
+C.	The project should have used more of the project management processes.
+D.	Some stakeholders were not identified.
+
+3.	Stakeholders can be identified in which project management process groups?
+A.	Initiating, planning, executing, and monitoring and controlling
+B.	Initiating and planning
+C.	Planning and monitoring and controlling
+D.	Monitoring and controlling and closing
+
+4.	A particular stakeholder has a reputation for requesting many changes on projects. What is the BEST approach a project manager can take at the beginning of the project to manage this situation?
+A.	Say “No” to the stakeholder a few times to dissuade him from submitting more changes.
+B.	Get the stakeholder involved in the project as early as possible.
+C.	Talk to the stakeholders boss to find ways of directing the stakeholder’s activities to another project.
+D.	Ask that the stakeholder not be included in the stakeholder listing.
+
+5.	Which of the following statements BEST describes how stakeholders are involved on a project?
+A.	They help to determine the project schedule, deliverables, and requirements.
+B.	They help to determine the project constraints and product deliverables.
+C.	They help to determine the resource needs and resource constraints on the project.
+D.	They approve the project charter, help provide assumptions, and create the management plans.
+
+6.	All of the following are parts of the team’s stakeholder management effort EXCEPT:
+A.	Determining stakeholders’ needs.
+B.	Identifying stakeholders.
+C.	Giving stakeholders extras.
+D.	Managing stakeholders’ expectations.
+
+7.	You have been assigned to manage the development of an organizations new website. The site will be highly complex and interactive, and neither your project team nor the client has much experience with this type of website development.<br>The timeline is extremely aggressive. Any delay will be costly for both your firm and the client.<br>You have a project sponsor and have achieved agreement and sign-off on both the project charter and the project management plan. Client personnel have been kept fully informed of the projects progress through status reports and regular meetings. The project is on schedule and within budget, and a final perfunctory review has been scheduled.<br>Suddenly you hear that the entire effort may be cancelled because the product being developed is totally unacceptable. What is the MOST likely cause of this situation?
+A.	A key stakeholder was not adequately involved in the project.
+B.	The project charter and project management plan were not thoroughly explained to or adequately reviewed by the client.
+C.	Communications arrangements were inadequate and did not provide the required information to interested parties.
+D.	The project sponsor failed to provide adequate support for the project.
+
+8.	A project manager wants to more extensively involve the stakeholders on the project. Which of the following would be the BEST way to accomplish this?
+A.	Have the stakeholders periodically review the list of project requirements.
+B.	Invite the stakeholders to attend project status meetings.
+C.	Send status reports to the stakeholders.
+D.	Update the stakeholders on the status of all project changes.
+
+9.	A stakeholders engagement assessment matrix can be used to identify:
+A.	Communication gaps.
+B.	Additional stakeholders.
+C.	Key relationships between stakeholders.
+D.	Skill levels of stakeholders.
+
+10.	Tie role of each stakeholder is determined by:
+A.	Tie stakeholder and the sponsor.
+B.	The project manager and the sponsor.
+C.	Tie team and the project manager.
+D.	Tie project manager and the stakeholder.
+
+11.	You are the project manager for a large installation project when you realize there are over 200 potential stakeholders on the project. Which of the following would be the BEST course of action for you to take?
+A.	Eliminate some stakeholders.
+B.	Find an effective way to gather the needs of all stakeholders.
+C.	Contact your manager, and ask which stakeholders are most important.
+D.	Gather the needs of all the most influential stakeholders.
+
+12.	Information in the stakeholder register should be:
+A.	Accessible only to the project manager.
+B.	Available to the project manager and PMO staff.
+C.	Available to all stakeholders and team members.
+D.	Shared with others at the discretion of the project manager.
+
+13.	The project manager is trying to recall a stakeholders preferred communication method. Where can she find that information?
+A.	RACI chart
+B.	Stakeholders engagement assessment matrix
+C.	Stakeholder management plan
+D.	Human resource management plan
+
+14.	All of the following are responsibilities of the project manager EXCEPT:
+A.	Carefully select the appropriate stakeholders for the project.
+B.	Get stakeholders’ sign-off that the requirements are finalized.
+C.	Figure out when stakeholders will be involved in the project and how extensively.
+D.	Ask stakeholders to let you know about problems in project communications and relationships.
+
+15.	The key objective of stakeholder management is:
+A.	Communication.
+B.	Coordination.
+C.	Satisfaction.
+D.	Relationships.
+
+16.	As project manager, you are unable to allocate as much time to interact with your stakeholders as you would like. Which of the following stakeholders will you make it a priority to get to know?
+A.	The stakeholder who is an expert on the product of the project, but is not interested in implementing it in his department.
+B.	The manager of the department that will use the product of the project. She is known to be resistant to change.
+C.	The project sponsor, with whom you have successfully worked on many projects.
+D.	The department employee who is unfamiliar with the product of the project, but open to the positive impacts he believes the product will have on his work environment.
+
+17.	A stakeholders belief about or mental picture of the future is a(n):
+A.	Requirement.
+B.	Heuristic.
+C.	Expectation.
+D.	Constraint 
+
+18.	The degree to which a particular stakeholder may be able to positively or negatively affect a project is his or her:
+A.	Level of engagement.
+B. Level of interest.
+C. Level of commitment.
+D. Level of influence.
+
+19.	The stakeholder register is an input to which of the following processes?
+A.	Plan Risk Management and Collect Requirements
+B.	Perform Integrated Change Control and Plan Communications Management
+C.	Plan Quality Management and Perform Quality Assurance
+D. Identify Risks and Develop Project Charter
+
+20.	A project manager on a multinational website implementation project is at a party and talks to friends who will be heavy users of this new website when the project is complete and the site is rolled out. They describe some annoying aspects of the current website. The project manager takes this feedback to the sponsor, and encourages design and scope changes. Which of the following BEST describes what the project manager has done?
+A. Scope validation
+B.	Integrated change control
+C.	Stakeholder analysis
+D.	Scope planning 
+
+1.	Answer A
+Explanation Stakeholders have an impact throughout the project, but they must be identified and involved at the beginning of the project, in order to determine their requirements and expectations. If this effort is not done early, the results may be expensive changes and/or dissatisfaction later in the project.
+2.	Answer D
+Explanation Once again, it is important to look for the choice that would solve the real problem. There is no reason to think that training, management oversight, and a need for more processes are factors contributing to the number of changes. The root cause is that stakeholders were missed and, as a result, their requirements were not found. Those stakeholders are now requesting changes to accommodate their needs.
+3.	Answer A
+Explanation Stakeholders can be identified throughout the project. However, the earlier stakeholders are identified, the better for the project. If all of the stakeholders’ needs and requirements are taken into account before plans are finalized and project work is begun, fewer changes will be needed later in the project, when they will be more costly.
+4.	Answer B
+Explanation The project manager cannot avoid the stakeholder, because he has a stake in the project. The project manager can say “No,” but this does not solve the root cause of the problem. There may be some good ideas within those change requests. The only choice that deals with the problem is getting the stakeholder involved in the project as soon as possible.<br>Changes generally arise due to lack of input at the beginning of the project. If the project manager begins effective communication with this stakeholder early, there is a much better chance his changes will be discovered during the planning process, when they will have less of an impact on the project.
+5.	Answer B
+Explanation The project manager determines the project schedule through schedule development. The team and other stakeholders provide the inputs. Since it is also the project managers role to determine resource needs and create management plans, the choices including those roles cannot be best. The project sponsor approves the project charter, not the stakeholders. Stakeholders do, however, help in determining project constraints and product deliverables.<br>Notice how tricky questions can be if you do not read them correctly! Watch for this in other questions, and pay close attention to the differences in wording.
+6.	Answer C
+Explanation Giving stakeholders extras is known as gold plating. This is not effective stakeholder or quality management.
+7.	Answer A
+Explanation A single high-level executive can end an entire project if he or she is not satisfied with the results, even if that person has, by choice, been only tangentially involved in the project.<br>It is critical to ensure that all of the final decision makers have been identified early in a project in order to ensure that their concerns are addressed.
+8.	Answer A
+Explanation It seems like all of these are good ideas, but having the stakeholders review the list of project requirements helps discover errors and changes, and could therefore be considered the best choice to keep stakeholders involved on the project.
+9.	Answer A
+Explanation The stakeholders engagement assessment matrix can be used to compare the actual engagement levels of individual stakeholders to the planned levels of engagement. Any discrepancies can be analyzed, and communications to adjust the engagement levels can be implemented.
+10.	Answer D
+Explanation The role of each stakeholder is determined by the project manager and the stakeholder. It is important that stakeholders have input into what they will be contributing to the project. The role of the project manager is NOT to tell people what to do!
+11.	Answer B
+Explanation You need to consider the needs of all your stakeholders as early as possible, to create a better organized project and to minimize changes later.
+12.	Answer D
+Explanation Remember that the stakeholder register includes the project manager’s impression of stakeholders’ capabilities and attitudes, and possibly challenges related to working with them. Such notes may not be intended, or appropriate, for all to see. Therefore, the stakeholder register should be shared with others at the discretion of the project manager.
+13.	Answer C
+Explanation Stakeholders’ individual communication requirements are documented in the stakeholder management plan.
+14.	Answer A
+Explanation The project manager does not have the option of selecting stakeholders. By definition, stakeholders are people or organizations whose interests may be positively or negatively impacted by the project or its product, as well as anyone who can exert positive or negative influence over the project. All stakeholders must be identified and managed to ensure project success.
+15.	Answer C
+Explanation While communication, coordination, and development of relationships are parts of stakeholder management, collectively they contribute to the main objective of this process— stakeholder satisfaction.
+16.	Answer B
+Explanation As the department manager, this person is a key stakeholder, and wields a lot of influence over other stakeholders in her department. The fact that she is resistant to change indicates she will need some personal reassurance from the project manager, or she may exert her influence to derail the project.
+17.	Answer C
+Explanation Expectations are not as direct or straightforward as requirements. Nonetheless, they are important to recognize and address to ensure stakeholder satisfaction with the project. Therefore, the project manager must do additional work to uncover the expectations of stakeholders.
+18.	Answer D
+Explanation The question is referring to level of influence. Each stakeholder’s level of influence may be based on status within the organization, seniority, or other factors. The level of influence of each stakeholder should be identified and managed throughout the project.
+19.	Answer A
+Explanation Of the answer choices listed, the stakeholder register is an input to Collect Requirements, Plan Quality Management, Plan Communications Management, Plan Risk Management, and Identify Risks. Be sure you understand why it is important in each of these processes.
+20.	Answer C
+Explanation Scope validation is a control function related to gaining customer acceptance. Integrated change control relates to looking for multiple impacts of changes. Scope planning creates a scope management plan. The project manager has performed stakeholder analysis by learning stakeholder requirements, and making recommendations to fulfill those requirements.

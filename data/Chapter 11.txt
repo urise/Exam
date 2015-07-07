@@ -1,0 +1,304 @@
+1.	All of the following are factors in the assessment of project risk EXCEPT:
+A.	Risk events.
+B.	Risk probability.
+C.	Amount at stake.
+D.	Insurance premiums.
+
+2.	If a project has a 60 percent chance of a US $100,000 profit and a 40 percent chance of a US $100,000 loss, the expected monetary value (EMV) for the project is:
+A.	$100,000 profit.
+B.	$60,000 loss.
+C.	$20,000 profit.
+D.	$40,000 loss.
+
+3.	Assuming that the ends of a range of estimates are +/- 3 sigma from the mean, which of the following range estimates involves the LEAST risk?
+A.	30 days, plus or minus 5 days
+B.	22 to 30 days
+C.	Optimistic = 26 days, most likely = 30 days, pessimistic = 33 days
+D.	Mean of 28 days
+
+4.	Which of the following risk events is MOST likely to interfere with attaining a projects schedule objective?
+A.	Delays in obtaining required approvals
+B.	Substantial increases in the cost of purchased materials
+C.	Contract disputes that generate claims for increased payments
+D.	Slippage of the planned post-implementation review meeting
+
+5.	If a risk has a 20 percent chance of happening in a given month, and the project is expected to last five months, what is the probability that this risk event will occur during the fourth month of the project?
+A.	Less than 1 percent
+B.	20 percent
+C.	60 percent
+D.	80 percent
+
+6.	If a risk event has a 90 percent chance of occurring, and the consequences will be US $10,000, what does US $9,000 represent?
+A.	Risk value
+B.	Present value
+C.	Expected monetary value
+D.	Contingency budget 
+
+7.	Most of the risks will be identified during which risk management processes?
+A.	Perform Quantitative Risk Analysis and Identify Risks
+B.	Identify Risks and Control Risks
+C.	Perform Qualitative Risk Analysis and Control Risks
+D.	Identify Risks and Perform Qualitative Risk Analysis
+
+8.	What should be done with risks on the watch list?
+A.	Document them for historical use on other projects.
+B.	Document them and revisit during project monitoring and controlling.
+C.	Document them and set them aside because they are already covered in your contingency plans.
+D.	Document them and give them to the customer.
+
+9.	All of the following are ALWAYS inputs to the risk management process EXCEPT:
+A.	Historical information.
+B.	Lessons learned.
+C.	Work breakdown structure.
+D.	Project status reports.
+
+10.	Risk tolerances are determined in order to help:
+A.	The team rank the project risks.
+B.	The project manager estimate the project.
+C.	The team schedule the project.
+D.	Management know how other managers will act on the project.
+
+11.	All of the following are common results of risk management EXCEPT:
+A.	Contract terms and conditions are created.
+B.	The project management plan is changed.
+C.	The communications management plan is changed.
+D.	The project charter is changed.
+
+12.	Purchasing insurance is BEST considered an example of risk:
+A.	Mitigation.
+B.	Transfer.
+C.	Acceptance.
+D.	Avoidance.
+
+13.	You are finding it difficult to evaluate the exact cost impact of risks. You should evaluate on a(n):
+A.	Quantitative basis.
+B.	Numerical basis.
+C.	Qualitative basis.
+D.	Econometric basis. 
+
+14.	Outputs of the Plan Risk Responses process include:
+A.	Residual risks, fallback plans, and contingency reserves.
+B.	Risk triggers, contracts, and a risk list.
+C.	Secondary risks, process updates, and risk owners.
+D.	Contingency plans, project management plan updates, and sensitivity analysis.
+
+15.	Workarounds are determined during which risk management process?
+A.	Identify Risks
+B.	Perform Quantitative Risk Analysis
+C.	Plan Risk Responses
+D.	Control Risks
+
+16.	During which risk management process is a determination to transfer a risk made?
+A.	Identify Risks
+B.	Perform Quantitative Risk Analysis
+C.	Plan Risk Responses
+D.	Control Risks
+
+17.	A project manager has just finished the risk response plan for a US $387,000 engineering project. Which of the following should he probably do NEXT?
+A.	Determine the overall risk rating of the project.
+B.	Begin to analyze the risks that show up in the project drawings.
+C.	Add work packages to the project work breakdown structure.
+D.	Hold a project risk reassessment.
+
+18.	A project manager analyzed the quality of risk data and asked various stakeholders to determine the probability and impact of a number of risks. He is about to move to the next process of risk management. Based on this information, what has the project manager forgotten to do?
+A.	Evaluate trends in risk analysis.
+B.	Identify triggers.
+C.	Provide a standardized risk rating matrix.
+D.	Create a fallback plan.
+
+19.	A project manager has assembled the project team. They have identified 56 risks on the project, determined what would trigger the risks, rated them on a risk rating matrix, tested their assumptions, and assessed the quality of the data used. The team is continuing to move through the risk management process. What has the project manager forgotten to do?
+A.	Simulation
+B.	Risk mitigation
+C.	Overall risk ranking for the project
+D.	Involve other stakeholders 
+
+20.	You are a project manager for the construction of a major new manufacturing plant that has never been done before. The project cost is estimated at US $30,000,000 and will make use of three sellers. Once begun, the project cannot be cancelled, as there will be a large expenditure on plant and equipment. As the project manager, it is MOST important to carefully:
+A.	Review all cost proposals from the sellers.
+B.	Examine the budget reserves.
+C.	Complete the project charter.
+D.	Perform an identification of risks.
+
+21.	Your team has come up with 434 risks and 16 major causes of those risks. The project is the last in a series of projects that the team has worked on together. The sponsor is very supportive, and a lot of time was invested in making sure the project work was complete and signed off by all key stakeholders.<br>During project planning, the team cannot come up with an effective way to mitigate or insure against a risk. It is not work that can be outsourced, nor can it be deleted. What would be the BE1ST solution?
+A.	Accept the risk.
+B.	Continue to investigate ways to mitigate the risk.
+C.	Look for ways to avoid the risk.
+D.	Look for ways to transfer the risk.
+
+22.	A project manager is quantifying risk for her project. Several of her experts are off-site, but wish to be included. How can this be done?
+A.	Use Monte Carlo analysis using the Internet as a tool.
+B.	Apply the critical path method.
+C.	Determine options for recommended corrective action.
+D.	Use the Delphi technique.
+
+23.	An experienced project manager has just begun working for a large information technology integrator. Her manager provides her with a draft project charter and immediately asks her to provide an analysis of the risks on the project. Which of the following would BEST help in this effort?
+A.	An article from PM Network magazine
+B.	Her project scope statement from the project planning process
+C.	Her resource plan from the project planning process
+D.	A conversation with a team member from a similar project that failed in the past
+
+24.	You have been appointed as the manager of a new, large, and complex project. Because this project is business-critical and very visible, senior management has told you to analyze the project’s risks and prepare response strategies for them as soon as possible. The organization has risk management procedures that are seldom used or followed, and has had a history of handling risks badly. The projects first milestone is in two weeks. In preparing the risk response plan, input from which of the following is generally LEAST important?
+A.	Project team members
+B.	Project sponsor
+C.	Individuals responsible for risk management policies and templates
+D.	Key stakeholders 
+
+25.	You were in the middle of a two-year project to deploy new technology to field offices across the country. A hurricane caused power outages just when the upgrade was near completion. When the power was restored, all of the project reports and historical data were lost with no way of retrieving them. What should have been done to prevent this problem?
+A.	Purchase insurance.
+B.	Plan for a reserve fund.
+C.	Monitor the weather and have a contingency plan.
+D.	Schedule the installation outside of the hurricane season.
+
+26.	A system development project is nearing project closing when a previously unidentified risk is discovered. This could potentially affect the project’s overall ability to deliver. What should be done NEXT?
+A.	Alert the project sponsor of potential impacts to cost, scope, or schedule.
+B.	Qualify the risk.
+C.	Mitigate this risk by developing a risk response plan.
+D.	Develop a workaround.
+
+27.	The cost performance index (CPI) of a project is 0.6 and the schedule performance index (SPI) is 0.71. The project has 625 work packages and is being completed over a four-year period. The team members are very inexperienced and the project received little support for proper planning. Which of the following is the BEST thing to do?
+A.	Update risk identification and analysis.
+B.	Spend more time improving the cost estimates.
+C.	Remove as many work packages as possible.
+D.	Reorganize the responsibility assignment matrix.
+
+28.	While preparing your risk responses, you identify additional risks. What should you do?
+A.	Add reserves to the project to accommodate the new risks and notify management.
+B.	Document the risk items and calculate the expected monetary value based on the probability and impact of the occurrences.
+C.	Determine the risk events and the associated costs, then add the cost to the project budget as a reserve.
+D.	Add a 10 percent contingency to the project budget and notify the customer.
+
+29.	During project executing, a team member identifies a risk that is not in the risk register. What should you do?
+A.	Get further information on how the team member identified the risk, because you already performed a detailed analysis and did not identify this risk.
+B.	Disregard the risk, because risks were identified during project planning.
+C.	Inform the customer about the risk.
+D.	Analyze the risk. 
+
+30.	During project executing, a major problem occurs that was not included in the risk register. What should you do FIRST?
+A.	Create a workaround.
+B.	Reevaluate the Identify Risks process.
+C.	Look for any unexpected effects of the problem.
+D.	Tell management.
+
+31.	Which of the following is a chief characteristic of the Delphi technique?
+A.	Extrapolation from historical records from previous projects
+B.	Expert opinion
+C.	Analytical hierarchy process
+D.	Bottom-up approach
+
+32.	A project has had some problems, but now seems under control. In the last few months, almost all the reserve has been used up and most of the negative impacts of events that had been predicted have occurred. There are only four activities left, and two of them are on the critical path.<br>Management now informs the project manager that it would be in the performing organizations best interest to finish the project two weeks earlier than scheduled, in order to receive an additional profit. In response, the project manager sends out a request for proposal for some work that the team was going to do, hoping to find another company that might be able to do the work faster. The project manager can BEST be said to be attempting to work with:
+A.	Reserve.
+B.	Opportunities.
+C.	Scope validation.
+D.	Threats.
+
+33.	Monte Carlo analysis is used to:
+A.	Get an indication of the risk involved in the project.
+B.	Estimate an activity’s length.
+C.	Simulate possible quality issues on the project.
+D.	Prove to management that extra staff is needed.
+
+34.	A project team is creating a project management plan when management asks them to identify project risks and provide some form of qualitative output as soon as possible. What should the project team provide?
+A.	Prioritized list of project risks
+B.	Risk triggers
+C.	Contingency reserves
+D.	Probability of achieving the time and cost objectives 
+
+35.	A project manager is creating a risk response plan. However, every time a risk response is suggested, another risk is identified that is caused by the response. Which of the following is the BEST thing for the project manager to do?
+A.	Document the new risks and continue the Plan Risk Responses process.
+B.	Make sure the project work is better understood.
+C.	Spend more time making sure the risk responses are clearly defined.
+D.	Get more people involved in the Identify Risks process, since risks have been missed.
+
+36.	A watch list is an output of which risk management process?
+A.	Plan Risk Responses
+B.	Perform Quantitative Risk Analysis
+C.	Perform Qualitative Risk Analysis
+D.	Plan Risk Management
+
+37.	During the Identify Risks process, a project manager and stakeholders used various methods to identify risks and then created a long list of those risks. The project manager then made sure all the risks were understood and that triggers had been identified. Later, in the Plan Risk Responses process, he took all the risks identified by the stakeholders and determined ways to mitigate them. What has he done wrong?
+A.	The project manager should have waited until the Perform Qualitative Risk Analysis process to get the stakeholders involved.
+B.	More people should have been involved in the Plan Risk Responses process.
+C.	The project manager should have created workarounds.
+D.	Triggers should not be identified until the Identify Risks process.
+
+38.	Which of the following MUST be an agenda item at all team meetings?
+A.	Discussion of project risks
+B.	Status of current activities
+C.	Identification of new activities
+D.	Review of project problems 
+
+1.	Answer D
+Explanation Insurance premiums are not factors in assessing project risk. They come into play when you determine which risk response strategy you will use.
+2.	Answer C
+Explanation Expected monetary value is calculated by EMV = probability x impact. We need to calculate both positive and negative values and then add them:<br>0.6 x $100,000 = $60,000 0.4 x ($100,000) = ($40,000)<br>Expected monetary value = $60,000 - $40,000 = $20,000 profit
+3.	Answer C
+Explanation This one drove you crazy, didn’t it? Reread the question! A mean of 28 days is not a range estimate, and so must be eliminated as a possible answer. When you look at the ranges of each of the other choices, you will see that 30 days, plus or minus 5 days = a range of 10 days. The range of 22 to 30 days = a range of 8 days. An optimistic estimate of 26 days, most likely estimate of 30 days, and pessimistic estimate of 33 days represents a range of 7 days. The estimate with the smallest range is the least risky, and therefore the correct choice. Did you realize the words +/- 3 sigma are extraneous? Practice reading questions that are wordy and have extraneous data.
+4.	Answer A
+Explanation Cost increases and contract disputes for payments will not necessarily interfere with schedule. If a “post-implementation” review meeting slips, it may not interfere with the project schedule. Delays in obtaining required approvals is the only choice that always causes a time delay, and is therefore the most likely to threaten the project schedule.
+5.	Answer B
+Explanation No calculation is needed. If there is a 20 percent chance in any one month, the chance in the fourth month must therefore be 20 percent.
+6.	Answer C
+Explanation Expected monetary value is calculated by multiplying the probability times the impact. In this case, EMV = 0.9 x $10,000 = $9,000.
+7.	Answer B
+Explanation This is a tricky question. Although risks can be identified at any time throughout the project, most risks are identified during the Identify Risks process. Newly emerging risks are identified in the Control Risks process.
+8.	Answer B
+Explanation Risks change throughout the project. You need to review risks at intervals during the project to ensure noncritical risks on the watch list have not become critical.
+9.	Answer D
+Explanation Project status reports can be an input to risk management. However, when completing risk management for the first time, you would not have project status reports. Therefore, project status reports are not always an input to risk management. 
+10.	Answer A
+Explanation If you know the tolerances of the stakeholders, you can determine how they might react to different situations and risk events. You use this information to help assign levels of risk on each work package or activity.
+11.	Answer D
+Explanation A contract is a tool to transfer risks. The project management plan could change to include a modified WBS and new work packages related to mitigating risk. The communications management plan could change as a way to address a risk. A change to the charter is a fundamental change to the project and may require a major adjustment to all aspects of the project management plan. It is not a common result of risk management efforts.
+12.	Answer B
+Explanation To mitigate risk, we either reduce the probability of the event happening or reduce its impact. Acceptance of risk means doing nothing (if it happens, it happens, or contingency plans are created). Avoidance of risk means we change the way we will execute the project so the risk is no longer a factor. Transference is passing the risk off to another party. Many people think of using insurance as a way of decreasing impact. However, purchasing insurance transfers the risk to another party.
+13.	Answer C
+Explanation If you cannot determine an exact cost impact of the event, use qualitative estimates such as Low, Medium, High, etc.
+14.	Answer A
+Explanation A risk list, process updates, and sensitivity analysis are not outputs of the Plan Risk Responses process. Residual risks, fallback plans, and contingency reserves are all outputs of the Plan Risk Responses process, making this the correct answer.
+15.	Answer D
+Explanation A workaround refers to determining how to handle a risk that has occurred but was not included in the risk register. The project must be in the Control Risks process if risks have occurred.
+16.	Answer C
+Explanation Transference is a risk response strategy. Risk response strategies are determined in the Plan Risk Responses process.
+17.	Answer C
+Explanation This situation is occurring during project planning. Planning must be completed before moving on. Determining the risk rating of the project is done during Perform Qualitative Risk Analysis, and should have already been done. Project risk reassessment occurs during Control Risks, the next step in the risk management process after Plan Risk Responses. But the question does not ask what is next in the risk management process, just what is next. Adding work packages to the WBS, as part of iterations, comes next in project planning.
+18.	Answer C
+Explanation The project manager is in the Perform Qualitative Risk Analysis process. This process includes risk data quality assessment and probability and impact matrix development.<br>It appears the project manager has not yet completed the matrix, which is used to sort risks based on their probability and impact ratings. Trend analysis, the identification of triggers, and development of fallback plans will occur later in risk management.
+19.	Answer D
+Explanation The process the project manager has used so far is fine, except the input of other stakeholders is needed in order to identify more risks.
+20.	Answer D
+Explanation A review of cost proposals could be done, but it is not a pressing issue based on the situation provided. Examining the budget reserves could also be done, but not until risk planning is completed. It is always important to carefully complete a project charter, but there are other issues needing detailed attention in this situation. Since this project has never been done before, and there will be a large cost outlay, it would be best for the project manager to spend more time on risk management. Risk identification is the most proactive response and will have the greatest positive impact on the project.
+21.	Answer A
+Explanation This question relates real-world situations to risk types. Did you realize that the entire first paragraph is extraneous? Based on the question, you cannot remove the work to avoid it, nor can you insure or outsource it to transfer the risk. This leaves acceptance as the only correct choice.
+22.	Answer D
+Explanation In quantitative risk analysis, the Delphi technique could be used to collect time and cost estimates from experts and achieve consensus. This reduces the possibility of bias.
+23.	Answer D
+Explanation Did you realize this situation is taking place during project initiating? The scope statement and resource plan are created in project planning, and so are not yet available. Therefore, we are left with deciding if the magazine article or a conversation with a team member who worked on a similar project provides the greater value. Since the information gained in conversing with the team member provides input more specific to your organization, it is the best choice.
+24.	Answer B
+Explanation Team members will have knowledge of the project and the product of the project and will thus have a lot to contribute to risk responses. Those responsible for risk templates will be able to provide the templates from past projects (historical records) and therefore will be very important. Key stakeholders will know more about the technical working of the project to help plan “What are we going to do about it?” so they are not likely to be the least important. The sponsor may have the least knowledge of what will work to solve the problems. Sponsors need to be involved in the project and help identify risks. They may even approve the response plans created by others, but they would not generally be major contributors to response plans.
+25.	Answer C
+Explanation The risk is the loss of data due to a power outage. Purchasing insurance is not related to preventing the problem. It transfers the risk. Creating a reserve fund is acceptance of the risk, and would help address the cost factors after the power failure, but would not reduce the probability or impact of it. Avoiding the hurricane by scheduling the installation at a different time reduces the power outage risk, but could have a large negative impact on the project schedule and so is not the best choice. The better choice of the options is to monitor the weather and know when to implement the contingency plan. 
+26.	Answer B
+Explanation A workaround is an unplanned response to an event that is occurring. This risk discussed in the question has been identified, but it is not occurring at this time, so there is no need to take the action of creating a workaround. You need to analyze the problem before talking to the sponsor. You cannot mitigate the risk until you qualify it. Qualifying the risk will help you determine how to proceed.
+27.	Answer A
+Explanation This project has deviated so far from the baseline that updated risk identification and risk analysis should be performed.
+28.	Answer B
+Explanation When new risks are identified, they should go through the risk management process. You need to determine the probability and impact of the risks and then try to diminish them through the Plan Risk Responses process. Only after these efforts should you consider adding reserves for time and/or cost. Any reserves should be based on a detailed analysis of risk. Calculating the expected monetary value of the risks is an important part of the risk management process, and the best choice presented here.
+29.	Answer D
+Explanation First, you want to determine what the risk entails and the impact to the project, then determine what actions you will take regarding the risk.
+30.	Answer A
+Explanation Following the right process is part of professional and social responsibility. Because an unidentified problem or risk occurred, it is important to reevaluate the Identify Risks process as well as to look for unexpected effects of the problem. However, they are not your first choices. You might need to inform management, but this is reactive, not proactive, and not the first thing you should do. Since this is a problem that has occurred, rather than a problem that has just been identified, the first thing you must do is address the risk by creating a workaround.
+31.	Answer B
+Explanation The Delphi technique uses experts and builds consensus; therefore, expert opinion is the chief characteristic.
+32.	Answer B
+Explanation The wording of this question can be confusing. Scope validation involves meeting with the customer to gain formal acceptance, so that cannot be the best choice. Reserve is mentioned in the situation, but the use of reserves is not the primary concern. The project manager is working to make a positive impact on the project more likely to occur. Therefore, he is working with an opportunity. This may include analyzing the appropriateness of using management reserves to cover the cost of the opportunity.
+33.	Answer A
+Explanation A Monte Carlo analysis could indicate that an estimate for an activity needs to change, but not what the activity estimate should be. Monte Carlo is a simulation, but it does not specifically address quality. It does not deal directly with staff or resource needs either. Project risk can be assessed using Monte Carlo analysis. By considering the inputs to the weighted estimates and the network diagram, you can obtain a better overview of the overall project risk.
+34.	Answer A
+Explanation This question essentially asks, “What is an output of Perform Qualitative Risk Analysis?” The probability of achieving time and cost objectives is determined during the Perform Quantitative Risk Analysis process. Risk triggers and contingency reserves are parts of the Plan Risk Responses process. A prioritized list of risks is an output of Perform Qualitative Risk Analysis.
+35.	Answer A
+Explanation Did you realize this question describes secondary risks? Identifying secondary risks is an important part of completing the Plan Risk Responses process. With that in mind, the best thing to do is to document the newly identified risks and continue the Plan Risk Responses process.
+36.	Answer C
+Explanation A watch list is made up of low-priority risks that, in the Perform Qualitative Risk Analysis process, were determined to be of too low priority or low impact to move further in the risk management process.
+37.	Answer B
+Explanation Stakeholders should be included in the Identify Risks process. Some triggers may be identified in the Identify Risks process, but they are generally identified and added to the risk register in the Plan Risk Responses process. Workarounds are created as unidentified risk events occur. The project managers error was not including others in the Plan Risk Responses process. Plan Risk Responses must include the involvement of all risk owners and possibly other stakeholders.
+38.	Answer A
+Explanation Risk is so important that it must be discussed at all team meetings.

@@ -1,0 +1,175 @@
+1.	A project manager has a problem with a team member’s performance. What is BEST form of communication for addressing this problem?
+A.	Formal written communication
+B.	Formal verbal communication
+C.	Informal written communication
+D.	Informal verbal communication
+
+2.	Extensive use of	communication is most likely to aid in solving complex problems.
+A.	Formal verbal
+B.	Informal written
+C.	Formal written
+D.	Nonverbal
+
+3.	The MOST likely result of communication blockers is that:
+A.	The project is delayed.
+B.	The trust level is enhanced.
+C.	Conflict occurs.
+D.	Senior management is displeased.
+
+4.	Communications are often enhanced when the sender	the receiver.
+A.	Speaks up to
+B.	Uses gestures when speaking to
+C.	Speaks slowly to
+D.	Shows concern for the perspective of
+
+5.	Formal written correspondence with the customer is required when:
+A.	Defects are detected.
+B.	The customer requests additional work not covered under contract.
+C.	The project has a schedule slippage that includes changes to the critical path.
+D.	The project has cost overruns.
+
+6.	When a project manager is engaged in negotiations, nonverbal communication skills are of:
+A.	Little importance.
+B.	Major importance.
+C.	Importance only when cost and schedule objectives are involved.
+D.	Importance to ensure he wins the negotiation. 
+
+7.	A large, one-year telecommunications project is about halfway done when you take the place of the previous project manager. Tine project involves three different sellers and a project team of 30 people. You would like to see the projects communications requirements and what technology is being used to aid in project communications. Where will you find this information?
+A.	The slakeholder management plan
+B.	Tine information distribution plan
+C.	Tine bar chart
+D.	Tine communications management plan
+
+8.	Changes to some project deliverables have been documented in the project management plan. These changes, and other project information, have been distributed according to the communications management plan. One stakeholder expressed surprise to the project manager upon hearing of a documented change to a project deliverable. All stakeholders received the communication providing notification of the change. What should the project manager do?
+A.	Determine why the stakeholder did not receive the information and let him know when it was published.
+B.	Ask the functional manager why the stakeholder did not understand his responsibility.
+C.	Review the communications management plan and make revisions if necessary.
+D.	Address the situation in the next steering committee meeting so others do not miss published changes.
+
+9.	Communication is key to the success of a project. As the project manager, you had three stakeholders with whom you needed to communicate. Therefore, you had six channels of communication. A new stakeholder has been added with whom you also need to communicate. How many communication channels do you have now?
+A.	7
+B.	10
+C.	12
+D.	16
+
+10.	Two people are arguing about what needs to be done to complete a work package. In addition to the words being spoken, if the project manager wants to know what is going on, she should pay MOST attention to:
+A.	What is being said and when.
+B.	What is being said, who is saying it, and the time of day.
+C.	Physical mannerisms and when during the schedule this discussion is taking place.
+D.	The pitch and tone of the voices, and physical mannerisms.
+
+11.	A project manager has a project team consisting of people in four countries. The project is very important to the company, and the project manager is concerned about its success. The length of the project schedule is acceptable. What type of communication should he use?
+A.	Informal verbal communication
+B.	Formal written communication
+C.	Formal verbal communication
+D.	Informal written communication
+
+12.	The project team meeting is not going well. Many attendees are talking at the same time, there are people who are not participating, and many topics are being discussed at random. Which of the following rules for effective meetings is NOT being adhered to?
+A.	Demonstrate courtesy and consideration of each other, and control who is allowed to speak.
+B.	Schedule meetings in advance.
+C.	Have a purpose for the meeting, with the right people in attendance.
+D.	Create and publish an agenda and a set of rules for controlling the meeting.
+
+13.	You have just been assigned as project manager for a large manufacturing project. This one-year project is about halfway done. It involves 5 different sellers and 20 members of your company on the project team. You want to quickly review where the project now stands. Which of the following reports would be the MOST helpful in finding such information?
+A.	Work status
+B.	Progress
+C.	Forecast
+D.	Communications
+
+14.	A team member is visiting the manufacturing plant of one of the suppliers. Which of the following is the MOST important thing to be done in any telephone calls the project manager might make to the team member?
+A.	Ask the team member to repeat back what the project manager says.
+B.	Review the list of contact information for all stakeholders.
+C.	Ask the team member to look for change requests.
+D.	Review the upcoming meeting schedule.
+
+15.	A project manager overhears a conversation between two stakeholders who are discussing how unhappy they are with the impacts of the project on their own departments. Stakeholder A asks if the project is on time, and stakeholder B replies that the SPI is 1.05. Stakeholder A asks if the project manager for the project knows of stakeholder B’s concern. Stakeholder B responds that he is not sure. What is the BEST thing for the project manager to do?
+A.	Make sure the stakeholders see that the project manager overheard. Then ask them to direct any questions to the project manager in writing.
+B.	Make a presentation to all the stakeholders regarding the status of the project.
+C.	Send both stakeholders a copy of the issue log and ask for additional comments.
+D.	Arrange a meeting with both stakeholders to allow them to voice any concerns they may have.
+
+16.	During the middle of the project, things have been going well. The work authorization system has allowed people to know when to start work, and the issue log has helped keep track of stakeholders’ concerns. The sponsor has expressed his appreciation for the team members’ efforts by hosting a milestone party. The project manager gets a call from a team member saying the results from the completion of her activity’s predecessor are two days late. Which of the following reasons would BEST describe why this occurred?
+A.	The project manager was focusing on the sponsor’s needs.
+B.	Functional management was not included in the communications management plan.
+C.	The successor activities should have been watched, not the predecessors.
+D.	The right people were not invited to the milestone party.
+
+17.	A project manager has just been assigned a team that comes from many countries including Brazil, Japan, the United States, and Britain. What is her BEST tool for success?
+A.	The responsibility assignment matrix (RAM)
+B.	The teleconference
+C.	Team communication with the WBS
+D.	Communication and well-developed people skills
+
+18.	The project has 13 team members and affects more than 15 departments in the organization. Because the project is 20 percent complete to date and the team has had successful performance reports from five of the affected departments, the project manager holds a party to celebrate. The project manager invites key stakeholders from all of the departments to the party, in order to give those providing good reviews an informal opportunity to communicate good things to those departments that have not yet been affected by the project. At the party, the project manager walks around to try to discover any relevant information that would help her make the project even more successful. She happens to hear a manager of one of the departments talking about setting up more regular meetings on the project.The BEST thing for the project manager to do would be to FIRST:
+A.	Record the effectiveness of the party in the project lessons learned.
+B.	Review the effectiveness of the projects communications management plan.
+C.	Hold a meeting of all the stakeholders to discuss their concerns.
+D.	Make sure the manager has a copy of the communications management plan so he is reminded that such concerns should be sent to the project manager.
+
+19.	The requirements of many stakeholders were not approved for inclusion in your project. Therefore, you had a difficult time gaining formal approval of the project management plan.<br>The stakeholders argued and held up the project while they held meeting after meeting about their requirements. The project was finally approved and work began six months ago. All of the following would be good preventive actions to implement EXCEPT:
+A.	Keep a file of what requirements were not included in the project.
+B.	Make sure the change control process is not used as a vehicle to add the requirements back into the project.
+C.	Maintain an issue log.
+D.	Hold meetings with the stakeholders to go over the work that will not be added to the project.
+20.	The project manager is expecting a deliverable to be submitted by e-mail from a team member today. At the end of the day, the project manager contacts the team member to notify him that it has not been received. The team member apologizes and explains that he was not able to e-mail the deliverable, and it was sent through the mail instead. The team member goes on to remind the project manager that he had informed the project manager, during a phone conversation that this would occur. “Was that the conversation we had when I told you I could not hear you well due to poor cell phone coverage?” asks the project manager. “Yes,” replies the team member. What could have been done to avoid this problem?
+A.	Paralingual communication
+B.	Adding to the issue log after the phone call
+C.	Better attention to determining communications requirements
+D.	Feedback during the communication 
+
+21.	If a project manager wants to report on the actual project results versus planned results, she should use a:
+A.	Trend report.
+B.	Forecasting report.
+C.	Status report.
+D.	Variance report.
+
+22.	Which of the following aspects of leadership is MOST important for a project manager?
+A.	Communication
+B.	Team building
+C.	Technical expertise
+D.	Project control 
+
+1.	Answer D
+Explanation The best choice is informal verbal communication. This does not mean you do not keep records of the problem, but it is best to start this discussion informally. If informal communication does not solve the problem, formal written communication is the next choice.
+2.	Answer C
+Explanation Formal written communication allows your words to be documented, and they will go to everyone in the same form. When there are complex problems, you want everyone to receive the same information.
+3.	Answer C
+Explanation The major result of communication blockers and miscommunication as a whole is conflict.
+4.	Answer D
+Explanation An understanding of the receiver’s perspective allows the sender to direct the communication to meet the receivers needs.
+5.	Answer B
+Explanation Everything we do is more formal in a procurement environment than in other project activities. Therefore, formal written communication is required when the customer requests work not covered under the contract.
+6.	Answer B
+Explanation Nonverbal communication carries a significant portion of the message you send. With so much at stake, nonverbal communication is of major importance
+7.	Answer D
+Explanation This information is found in the communications management plan.
+8.	Answer C
+Explanation The question states that all stakeholders received the information, so the issue is not that this stakeholder did not receive it. The problem presented here illustrates that there is something missing in the communications management plan. The best answer is to review the communications management plan in order to prevent future problems and to find any instances of similar problems.
+9.	Answer B
+Explanation Did you realize the project manager is part of the communication channels? Therefore, there are actually four stakeholders to begin with and six channels of communication. The question is asking how many total channels of communication you have with a team of five people. The formula is [N x (N-l)]/2 or (5 x 4)/2 = 10.
+10.	Answer D
+Explanation Remember that nonverbal communication represents a major part of all communication. The choice including paralingual communication (pitch and tone), as well as physical mannerisms, is the best choice.
+11.	Answer B
+Explanation Because of the differences in culture and the distance between team members, formal written communication is needed.
+12.	Answer D
+Explanation Courtesy and consideration is not a “rule” for effective meetings. Since there is no indication that the meeting was not scheduled in advance or that there isn’t a purpose, these cannot be the best answers. “Discussed at random” implies no agenda. If an agenda is issued beforehand, people will follow the outline and should not need random discussions.
+13.	Answer B
+Explanation The key word is quickly. The status report is too detailed for a quick look. The forecast report only looks into the future. The progress report summarizes project status, and would be the most helpful for a quick review.
+14.	Answer A
+Explanation Questions like this drive people crazy. There are many choices that are reasonably correct. Look for the most immediate need. Here, the team member is in a manufacturing environment. That means communications will most likely be blocked by noise. It is best for the project manager to ask the team member to repeat back what he says, to ensure the team member correctly heard what the project manager communicated.
+15.	Answer D
+Explanation This is another question with more than one right answer. Would asking for something in writing be the best way to communicate? In this particular situation, asking for the concern to be in writing might alienate the stakeholders. The issue log is where the issue should be listed, but the situation does not say if the project manager knows what the stakeholders’ concern is. Therefore, using the issue log cannot be the best choice. Why not make a presentation to all the stakeholders regarding the status of the project? The project manager already knows stakeholders A and B have the concern, not all the stakeholders. This problem would likely require informal verbal communication to discover the real problem. Arranging a meeting with the concerned stakeholders is therefore the best choice.
+16.	Answer B
+Explanation Since there is no information about the sponsor or his needs in this situation, focusing on his needs cannot be best. The statement that successor activities should have been watched, rather than the predecessors, is not a correct statement. A project manager should watch both predecessor and successor activities. Attendance at the party and the issue at hand (the late results) are not related. Often forgotten in communications management plans are the bosses of team members (functional management in a matrix organization). Including the bosses of team members in communications planning, requirements gathering, risk management, and other areas of project management helps make the project better. In addition, it helps the functional managers manage their resources effectively. If the functional manager of the team member assigned to the predecessor activity had been included in the project planning processes, he would have known when the team member was needed to do work for the project and the impact, if any, of delay. The communications management plan should also have included a method to communicate potential delays. 
+17.	Answer D
+Explanation Working with people from different cultures with different cultural values and beliefs necessitates an understanding of both basic definitions and areas of cultural impact. As project managers, we need to have good communication skills and a willingness to adapt to other cultures.
+18.	Answer B
+Explanation Many of these choices could be done, but ask yourself, “What is the most effective thing to do?” The party may well generate lessons learned, and recording them would certainly be a good idea, but the question asked what to do first. There is a more immediate issue - the manager. Meeting with all the stakeholders could be useful, but there is only one stakeholder, the manager, who definitely has an issue. Besides, a good project manager would be holding regular meetings with the stakeholders already. Making sure the manager has a copy of the communications management plan might be a good idea, as the manager apparently is not communicating with the project manager. However, this would not be enough to ensure the manager does communicate.<br>The manager is, in effect, saying he is not getting the information he needs. His lack of needed information is causing him to suggest more meetings. However, too many meetings are a problem on projects. A great project manager does not just add meetings, but solves the real problem in the best way.<br>A goal of communications management is to get information to those who need it. The project manager may decide to adjust her communications management process by changing the format of a report, or sending existing reports to the manager with the issue, rather than adding meetings. Therefore, the correct choice is to review the methods of providing project information to the stakeholders.
+19.	Answer D
+Explanation This issue should be over, but since there were so many meetings and arguments about the requirements being removed, it is unlikely the issue will be dropped by the stakeholders. However, as it has not come up again and the project was started six months ago, spending time in a meeting is excessive. The other choices are easier, have less impact on the project, and are therefore things that could be done.
+20.	Answer D
+Explanation The pitch and tone of voice (paralingual communication) is not relevant here, as the project manager could not even hear all that was being said. There were no issues recognized after the conversation, so none could be added to the issue log. This issue is not related to communications requirements, so that choice cannot be best. Saying, “I am not sure I properly heard what you said,” during the conversation or repeating the message back to the team member would have prevented this problem. Giving and requesting feedback during the communication is the best option.
+21.	Answer D
+Explanation This situation describes the need to “compare.” A trend report shows performance over time. A forecasting report looks only to the future. A status report is generally static (relating to a moment in time). The only choice that compares project results is a variance analysis.
+22.	Answer A
+Explanation As project managers can spend 90 percent of their time communicating, the correct choice must be communication.

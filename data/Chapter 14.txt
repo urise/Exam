@@ -1,0 +1,216 @@
+1.	A project manager is being considered for a particular project that will deal exclusively with global virtual teams. He only has experience with local teams. What should he do when discussing the opportunity with the sponsor?
+A.	Since he has managed many projects and teams, it does not make any difference that the new project involves global virtual teams. He should tell the sponsor he has the relevant experience.
+B.	He should avoid any conversation regarding the types of teams involved so the sponsor does not know he lacks experience in this area.
+C.	The project manager should point out to the sponsor that he has not had experience with global virtual teams, but discuss why he thinks he is a good fit for the project anyway.
+D.	The project manager should point out to the sponsor that he has not had experience with global virtual teams and therefore must decline the assignment.
+
+2.	A project manager gathered data to perform earned value calculations on his project. He used the results to report to management that the project is under budget and on schedule. After reporting this information, he discovered the base figures he used in the calculations were incorrect, as they came from an old copy of the project file that had not been updated. What should he do now?
+A.	He should contact management to make them aware of the error, give the correct information, and explain how he made the mistake.
+B.	He should contact management and tell them to expect some changes in the next reporting period, and that things are starting to look gloomy.
+C.	He should use the correct figures to calculate the information when it is time for the next report and ignore the fact that he reported incorrect information.
+D.	He should tell management that the data he received from team members was incorrect and thus the report was not accurate.
+
+3.	A project manager is working with a vendor on a project when she learns one of the sellers has bribed a subcontractor to work on this project instead of fulfilling previous commitments to other projects. What should she do?
+A.	She should report the offense to management and the project managers of the affected projects.
+B.	She should not do anything because this is the vendor’s problem. The project manager herself didn’t do anything wrong.
+C.	She should report this to other subcontractors so they know they could get more money from the vendor.
+D.	She should resign from the project so as to remove herself from this type of activity, but keep it to herself rather than cause problems.
+
+4.	You are in the middle of a new product development project for your publicly traded company when you discover the previous project manager made a US $3,000,000 payment that was not approved in accordance with your company policies. Luckily, the project cost performance index (CPI) is 1.2. What should you do?
+A.	Contact your manager.
+B.	Put the payment in an escrow account.
+C.	Bury the cost in the largest cost center available.
+D.	Ignore the payment. 
+
+5.	While staffing a project in another country, the project leader from that country comes to you with a suggested team consisting of members of the project leaders family. Your FIRST course of action should be to:
+A.	Inquire if hiring through family lines is common practice in the project leaders country.
+B.	Review the resumes of the individuals to see if they are qualified.
+C.	Ask the project leader to provide additional names of people unrelated to him/her.
+D.	Use a different project leader to prevent problems later in the project.
+
+6.	When checking the calendar of a team member to schedule a meeting, you see she has scheduled a meeting with a key stakeholder that you were not informed of. The BEST approach would be to:
+A.	Avoid mentioning it to the team member but continue to watch her activities.
+B.	Notify your boss about the problem.
+C.	Address the concern with the team member’s boss.
+D.	Address the concern with the team member.
+
+7.	Your team member is three days late with a report. Five minutes before the meeting where the topic of the report is to be discussed, she hands you the report. You notice some serious errors in it. What should you do?
+A.	Cancel the meeting and reschedule when the report is fixed.
+B.	Go to the meeting and tell the other attendees there are errors in the report.
+C.	Allow the team member to do the presentation and remain silent as the other attendees find the errors.
+D.	Cancel the meeting and rewrite the report yourself.
+
+8.	A manager has responsibility for a project that has the support of a senior manager. From the beginning, you have disagreed with the manager as to how the project should proceed and what the deliverables should be. You and she have disagreed over many issues in the past. Your department has been tasked with providing some key work packages for the project. What should you do?
+A.	Provide the manager with what she needs.
+B.	Inform your manager of your concerns to get her support.
+C.	Sit down with the manager at the beginning of the project and attempt to describe why you object to the project, and discover a way to solve the problem.
+D.	Ask to be removed from the project.
+
+9.	A large, complex construction project in a foreign country requires coordination to move needed equipment through crowded city streets. To ensure the equipment is transported successfully, your contact in that country informs you that you will have to pay the local police a fee for coordinating traffic. What should you do?
+A.	Do not pay the fee because it is a bribe.
+B.	Eliminate the work.
+C.	Pay the fee.
+D.	Do not pay the fee if it is not part of the project estimate. 
+
+10.	A major negotiation with a potential subcontractor is scheduled for tomorrow when you discover there is a good chance the project will be cancelled. What should you do?
+A.	Do not spend too much time preparing for the negotiations.
+B.	Cut the negotiations short.
+C.	Only negotiate major items.
+D.	Postpone the negotiations.
+
+11.	You’ve been assigned to take over managing a project that should be half complete according to the schedule. After an extensive evaluation, you discover the project is running far behind schedule, and the project will probably take twice the time originally estimated by the previous project manager. However, the sponsor has been told the project is on schedule. What is the BEST course of action?
+A.	Try to restructure the schedule to meet the project deadline.
+B.	Report your assessment to the sponsor.
+C.	Turn the project back to the previous project manager.
+D.	Move forward with the schedule as planned by the previous project manager and report at the first missed milestone.
+
+12.	You are halfway through a major network rollout. There are 300 locations in the United States with another 20 in England. A software seller has just released a major software upgrade for some of the equipment being installed. The upgrade would provide the customer with functionality they requested, which was not available at the time the project began. What is the BEST course of action under these circumstances?
+A.	Continue as planned; your customer has not requested a change.
+B.	Inform the customer of the upgrade and the impacts to the project’s timeline and functionality if the upgrade is implemented.
+C.	Implement the change and adjust the schedule as necessary because this supports the customers original request.
+D.	Implement the change on the remaining sites and continue with the schedule.
+
+13.	You are a project manager for one of many projects in a large and important program. At a high- level status meeting, you note that another project manager has reported her project on schedule. Looking back on your project over the last few weeks, you remember many deliverables from the other project that arrived late. What should you do?
+A.	Meet with the program manager.
+B.	Develop a risk control plan.
+C.	Discuss the issue with your boss.
+D.	Meet with the other project manager.
+
+14.	You have always been asked by your management to cut your project cost estimates by 10 percent after you have submitted them. The scope of your new project is unclear and there are over 30 stakeholders. Management expects a 25 percent reduction in downtime as a result of the project. Which of the following is the BEST course of action in this situation?
+A.	Replan to achieve a 35 percent improvement in downtime.
+B.	Reduce the estimate and note the change in the risk response plan.
+C.	Provide an accurate estimate of the actual costs and be able to support it.
+D.	Meet with the team to identify where you can find 10 percent savings.
+
+15.	You are in the middle of a project when you discover that a software seller for your project is having major difficulty keeping employees due to a labor dispute. Many other projects in your company are also using the company’s services. What should you do?
+A.	Attempt to keep the required people on your project.
+B.	Tell the other project managers in your company about the labor problem.
+C.	Contact the company and advise that you will cancel the company’s work on your project unless the labor dispute is settled.
+D.	Cease doing business with the company.
+
+16.	All of the following are responsibilities of a project manager EXCEPT:
+A.	Maintain the confidentiality of the customer’s confidential information.
+B.	Determine the legality of company procedures.
+C.	Ensure that a conflict of interest does not compromise the legitimate interest of the customer.
+D.	Provide accurate and truthful representations in cost estimates.
+
+17.	Although your company is not the lowest bidder for a project, the client has come to expect good performance from your company and wants to award the contract to you. To win the contract, the client asks you to eliminate your project management costs. The client says your company has good project processes, and project controls unnecessarily inflate your costs. What should you do under these circumstances?
+A.	Eliminate your project management costs and rely on experience.
+B.	Remove costs associated with project team communications, meetings, and customer reviews.
+C.	Remove meeting costs but not the project manager’s salary.
+D.	Describe the costs incurred on past projects that did not use project management.
+
+18.	You are the project manager for one part of a new program in your organization. You are four months into a three year project when your project team makes significant discoveries on your project. What is the BEST thing to do?
+A.	Make certain the discoveries are included in the project lessons learned.
+B.	Make certain the discoveries are reported in the monthly status report.
+C.	Make certain you mention the discoveries at the senior management meeting in two months.
+D.	Make certain you tell the other project managers involved in this program about the discoveries at the weekly meeting.
+
+19.	You have just discovered an error in the implementation plan that will prevent you from meeting milestone date. The BEST thing you can do is:
+A.	Develop options to meet the milestone date.
+B.	Change the milestone date.
+C.	Remove any discussion about dates in the project status report.
+D.	Educate the team about the need to meet milestones. 
+
+20.	While testing the strength of concrete poured on your project, you discover that over 35 percent of the concrete does not meet your company’s quality standards. You feel certain the concrete will function as it is, and you don’t think the concrete needs to meet the quality level specified. What should you do?
+A.	Change the quality standards to meet the level achieved.
+B.	State in your reports that the concrete simply “meets our quality needs.”
+C.	Ensure the remaining concrete meets the standard.
+D.	Report the lesser quality level and try to find a solution.
+
+21.	You are the project manager for a new international project, and your project team includes people from four countries. Most of the team members have not worked on similar projects before, but the project has strong support from senior management. What is the BEST thing to do to ensure that cultural differences do not interfere with the project?
+A.	Spend a little more time creating the work breakdown structure and making sure it is complete.
+B.	As the project manager, make sure you choose your words carefully whenever you communicate.
+C.	Ask one person at each team meeting to describe something unique about their culture.
+D.	Keep communication short and to the point.
+
+22.	A project has a tight budget when you begin negotiating with a seller for a piece of equipment. The seller has told you the equipment price is fixed. Your manager has told you to negotiate the cost with the seller. What is your BEST course of action?
+A.	Make a good faith effort to find a way to decrease the cost.
+B.	Postpone negotiations until you can convince your manager to change his mind.
+C.	Hold the negotiations, but only negotiate other aspects of the project.
+D.	Cancel the negotiations.
+
+23.	A PMP-certified project manager is contacted by PMI and asked to provide information regarding another project manager who has been reported to be involved in unethical activities. The PMP- certified project manager knows his information would support the accusations, and the other project manager in question is a friend. He decides the best thing to do would be to not respond, and therefore neither confirm nor deny the accusations. Is this the right thing to do?
+A.	Yes. It is safe to just ignore the request and stay out of it.
+B.	No. If he knows something, he is required by PMI’s Code of Ethics and Professional Conduct to cooperate.
+C.	No. It would be better to deny the charges against his friend to maintain the relationship.
+D.	Yes. It is expected that project managers will support each other in the field.
+
+24.	A project manager discovers a defect in a deliverable that is due to the customer under contract today. The project manager knows the customer does not have the technical understanding to notice the defect. The deliverable meets the contract requirements, but it does not meet the project manager’s quality standard. What should the project manager do in this situation?
+A.	Issue the deliverable and get formal acceptance from the customer.
+B.	Note the problem in the lessons learned so future projects do not encounter the same problem.
+C.	Discuss the issue with the customer.
+D.	Inform the customer that the deliverable will be late.
+
+25.	Your company wants to open a plant in a country where the law stipulates that women can earn only 50 percent of what men earn. Under these circumstances, what should you recommend to your company?
+A.	Do not open the plant.
+B.	Meet with government officials and try to get a waiver that equalizes the pay rate between men and women.
+C.	Do not hire women.
+D.	Provide the women you hire with extra work to increase their salary.
+
+26.	Three students from another country are working as interns on a project. The project manager has arranged for some games to play as team-building activities to help create a close-knit sense of team with the group members. At the event where the activities are taking place, the three students refuse to participate, claiming the behavior involved is unacceptable in their country and they would be very uncomfortable participating. What should the project manager do?
+A.	He should tell the students they need to become familiar with how things are done in this country and they must participate.
+B.	He should excuse the students from playing and arrange to discuss with them alternative team-building activities they would be more comfortable with.
+C.	He should report the students to their functional manager and request they be removed from the project since their attitude will have a negative impact on the project.
+D.	He should tell the students they are excused from the activities and to not attend any team¬building activities in the future.
+
+27.	You are finalizing the monthly project status report due now to your manager when you discover that several project team members are not reporting actual hours spent on project activities. This results in skewed project statistics. What is the MOST appropriate action to take?
+A.	Discuss the impacts of these actions with team members.
+B.	Report the team members’ actions to their functional managers.
+C.	Continue reporting information as presented to you.
+D.	Provide accurate and truthful representations in all project reports. 
+
+1.	Answer C
+Explanation There are many issues that will be different in this project than those the project manager has experience with. It is unethical to overtly or indirectly mislead the sponsor about his qualifications. On the other hand, the project manager may have so many skills that would benefit the project that his lack of experience with global teams might not be a major problem.<br>The project manager must make sure the sponsor is aware of the gaps in his qualifications, so the sponsor has the correct information on which to base his decision.
+2.	Answer A
+Explanation Although things may be gloomy, this is not a new development, since the report was based on old data. It is unethical for the project manager not to admit his mistake, or to blame someone else for his error. The ethical thing to do is to acknowledge and take responsibility for the error.
+3.	Answer A
+Explanation It is the responsibility of the project manager to report unethical behavior to management and those affected. Not reporting this knowledge to the appropriate people is unethical.
+4.	Answer A
+Explanation Putting the payment in an escrow account or burying the cost hides it. Ignoring the payment is not an option. Project managers must deal with potentially unethical situations like the situation described. This payment must be brought to the attention of the project managers manager.
+5.	Answer A
+Explanation Ask yourself, what is the root problem? Your first action would be to find out whether working with family members is a common practice in that country, as there is nothing inherently illegal in this activity. Then, you would review qualifications. You may find it is not necessary to ask the project leader to provide additional names, or to consider using a different project leader.
+6.	Answer D
+Explanation Not mentioning the issue to the team member is withdrawal. Notifying your boss or the team members boss would not be appropriate until you learn the root cause of the problem. Always look for the choice that deals with and solves the problem. In this case, the best course of action is to address your concern with the team member directly.
+7.	Answer A
+Explanation Allowing the team member to deliver the inaccurate report is penalizing and embarrassing her. The only choice that does not involve decreasing the team members morale or wasting the time of the other attendees is to cancel the meeting, and reschedule when you and the team member have identified and addressed the root cause of the problem with the report.
+8.	Answer A
+Explanation We assume that proper project management was followed and your opinion was considered during project initiating. Therefore, you need to provide the work as approved by management.
+9.	Answer C
+Explanation This is a legitimate fee for special accommodations. It is therefore not a bribe.
+10.	Answer D
+Explanation Postponing the negotiations is the most ethical choice and demonstrates good faith. Why spend time in negotiations if it may be wasted time?
+11.	Answer B
+Explanation It is not possible to turn the project back to the previous project manager, as the previous project manager may have left the company, or he may be busy with new projects. That is a form of withdrawal. Moving ahead without addressing the situation also withdraws from the problem, and withdrawal is not the best choice. There are two problems described here; the project is behind schedule, and the sponsor does not know it. There seem to be two possible right answers: restructuring the schedule, and reporting the situation to the sponsor. You should work to get the project on schedule. However, looking only at restructuring the schedule excludes other possibilities, such as cutting scope, which might more effectively deal with the schedule problem. You do not know if the project completion date is critical. What if the sponsor would agree to change the due date? The best choice in this situation is to inform the sponsor of the revised completion time estimate, and discuss options.
+12.	Answer B
+Explanation Professional and social responsibility includes looking after the customers best interests. Therefore, ignoring the newly available upgrade cannot be best. In this case, the schedule and scope are already approved and all changes must go through the integrated change control process. Therefore, implementing the change on any of the sites without following the process is not acceptable. The best option is to inform the customer of the available upgrade and the impacts to the projects timeline and functionality if the upgrade is implemented.
+13.	Answer D
+Explanation You should confront the situation by discussing it with the other project manager. You can then find out if the other project is really on schedule and thereby confirm or deny your information. Meeting with the program manager or with your boss would be the next step it meeting with the other project manager validates your concern. You might also develop a risk response plan to deal with the risk to your project. First, though, you need to meet with the other project manager regarding those late deliverables.
+14.	Answer C
+Explanation This is a common problem on projects. If your estimates are accurate, you are ethically bound to stand by them. Managements only option to cut cost is to support the project manager in looking for alternatives related to all project constraints.
+15.	Answer B
+Explanation Attempting to keep the required people on your project puts your interests over those of your company, so it cannot be the best choice. There is no indication that the labor dispute has caused any problems, so there is no need to cancel this work or to cease doing business with the company. The best choice would be to inform others in your company about the labor dispute.
+16.	Answer B
+Explanation The project manager is neither empowered nor competent to determine the legality of company procedures. The other choices all represent responsibilities of the project manager. 
+17.	Answer D
+Explanation Describing the costs on past projects incurred due to project management processes not being used addresses the real problem by giving the client information they may not have. An alternate choice is to explain that project management and its associated costs are reasons for the company’s past performance and success. Project management activities are not optional.
+18.	Answer D
+Explanation The sooner such discoveries are made known to other project managers, the better you can improve the capabilities of colleagues in your company. It is part of a project managers professional and social responsibility to build such capabilities. After you’ve updated the other project managers, you can then document the discoveries in the project lessons learned and the status report, especially if that report has a wider distribution.
+19.	Answer A
+Explanation Educating the team on the importance of milestones is not addressing the real problem. Changing the milestone date is unethical. Avoiding mention of the due date in the status report violates the rule to report honestly. Only developing and reporting options to meet the milestone date solves the problem.
+20.	Answer D
+Explanation Changing the quality standards or stating that the concrete “meets our quality needs” would be unethical. Ensuring that the remaining concrete meets the existing quality standards withdraws from the problem and is therefore not the best solution. The only possible choice is to report the lesser quality level. That choice would involve quality and other experts to find a resolution.
+21.	Answer C
+Explanation Since this is an issue involving everyone, everyone should be involved in the solution. Spending extra time with the team on creating the WBS is generally a good idea, but it does not specifically address cultural issues. The best choice is to ask one person at each team meeting to describe something unique about their culture. This will lead to better understanding among people of different cultures, and help to avoid potential culture-related problems.
+22.	Answer A
+Explanation There is always a way to decrease costs on the project. The best choice is to attempt to find a way to decrease the cost.
+23.	Answer B
+Explanation Ignoring the request from PMI and lying for the project manager do not support PMI’s request for information and are unethical actions. PMI’s Code of Ethics and Professional Conduct requires PMP-certified project managers to report unethical behavior and violations of the code. The PMP-certified project manager is obligated to cooperate with PMI in collecting information.
+24.	Answer C
+Explanation Issuing the deliverable as it is does not protect the best interests of the customer. Simply noting the issue in lessons learned does not solve the problem. Informing the customer that the deliverable will be late will cause a default of contract. Although the deliverable meets the contractual requirements, it is best to bring the problem to the customer’s attention so an option that does no harm can be found.
+25.	Answer A
+Explanation Working under these rules would be a clear violation of the fundamental right to nondiscriminating treatment. You should recommend that your company not open the plant in that location.
+26.	Answer B
+Explanation Insisting that the team members participate is forcing them to do something that is unacceptable in their culture. Requesting their removal from the project penalizes the team members for expressing their cultural preferences, which is not a valid reason to remove them. Excluding them from all future team building does not show respect for their culture, and would have a negative impact on the project. Excusing them from playing, and discussing alternative activities for the whole team with which they would be more comfortable is best because it demonstrates respect for cultural differences.
+27.	Answer D
+Explanation The project managers responsibility is to provide truthful project information. He or she should thereafter discuss the impacts of their actions with the team members. If that does not work, the next step is to report the team members’ behavior to their functional managers. In the meantime, the project manager must report the status as accurately as possible.

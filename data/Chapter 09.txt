@@ -1,0 +1,248 @@
+1.	All of the following are forms of power derived from the project managers position EXCEPT:
+A.	Formal.
+B.	Reward.
+C.	Penalty.
+D.	Expert.
+
+2.	The highest point of Maslow’s hierarchy of needs is:
+A.	Physiological satisfaction.
+B.	Attainment of survival.
+C.	Need for association.
+D.	Esteem.
+
+3.	The halo effect refers to the tendency to:
+A.	Promote from within.
+B.	Hire the best.
+C.	Move people into project management because they are good in their technical fields.
+D.	Move people into project management because they have had project management training.
+
+4.	The sponsor’s role on a project is BEST described as:
+A.	Helping to plan activities.
+B.	Helping to prevent unnecessary changes to project objectives.
+C.	Identifying unnecessary project constraints.
+D.	Helping to develop the project management plan.
+
+5.	Which of the following conflict resolution techniques will generate the MOST lasting solution?
+A.	Forcing
+B.	Smoothing
+C.	Compromise
+D.	Problem solving
+
+6.	The MOST common causes of conflict on a project are schedules, project priorities, and:
+A.	Personality.
+B.	Resources.
+C.	Cost.
+D.	Management.
+
+7.	What conflict resolution technique is a project manager using when he says, “I cannot deal with this issue now!”
+A.	Problem solving
+B.	Forcing
+C.	Withdrawal
+D.	Compromising
+
+8.	What does a resource histogram show that a responsibility assignment matrix does not?
+A.	Time
+B.	Activities
+C.	Interrelationships
+D.	The person in charge of each activity
+
+9.	You have just been assigned as project manager for a large telecommunications project. This one- year project is about halfway done. The project team consists of 5 sellers and 20 of your company’s employees. You want to understand who is responsible for doing what on the project. Where would you find such information?
+A.	Responsibility assignment matrix
+B.	Resource histogram
+C.	Bar chart
+D.	Project organization chart
+
+10.	During project planning in a matrix organization, the project manager determines that additional human resources are needed. From whom would she request these resources?
+A.	The PMO manager
+B.	The functional manager
+C.	The team
+D.	The project sponsor
+
+11.	A project manager must publish a project schedule. Activities, start/end times, and resources are identified. What should the project manager do NEXT?
+A.	Distribute the project schedule according to the communications management plan.
+B.	Confirm the availability of the resources.
+C.	Refine the project management plan to reflect more accurate costing information.
+D.	Publish a bar chart illustrating the timeline.
+
+12.	During every project team meeting, the project manager asks each team member to describe the work he or she is doing, and the project manager assigns new activities to team members. The length of these meetings has increased because there are many different activities to assign. This could be happening for all the following reasons EXCEPT:
+A.	Lack of a WBS.
+B.	Lack of a responsibility assignment matrix.
+C.	Lack of resource leveling.
+D.	Lack of team involvement in project planning.
+
+13.	You are a project manager leading a cross-functional project team in a weak matrix environment. None of your project team members report to you functionally and you do not have the ability to directly reward their performance. The project is difficult, involving tight date constraints and challenging quality standards. Which of the following types of project management power will likely be the MOST effective in this circumstance?
+A.	Referent
+B.	Expert
+C.	Penalty
+D.	Formal
+
+14.	A team member is not performing well on the project because she is inexperienced in system development work. There is no one else available who is better qualified to do the work. What is the BEST solution for the project manager?
+A.	Consult with the functional manager to determine project completion incentives for the team member.
+B.	Obtain a new resource more skilled in development work.
+C.	Arrange for the team member to get training.
+D.	Allocate some of the project schedule reserve.
+
+15.	A project has several teams. Team C has repeatedly missed deadlines in the past. This has caused team D to have to crash the critical path several times. As the team leader for team D, you should meet with:
+A.	The leader of team C.
+B.	The project manager.
+C.	The project manager and management.
+D.	The project manager and the leader of team C.
+
+16.	The new project is exciting to both the project manager and the team. This is the project manager’s first assignment as project manager. The team feels they will be able to complete work that has never been tried before. There are 29 people contributing to the product description, and the team consists of 9 experienced experts in their field.<br>Part of the way through planning, three highly skilled technical team members are disagreeing about the scope of two of the deliverables. One is pointing to the draft WBS and saying that two additional work packages should be added. Another is saying that a particular work package should not even be done. The third team member agrees with both of them. How should the project manager BEST deal with the conflict?
+A.	He should listen to the differences of opinion, determine the best choice, and implement that choice.
+B.	He should postpone further discussions, meet with each individual, and determine the best approach.
+C.	He should listen to the differences of opinion, encourage logical discussions, and facilitate an agreement.
+D.	He should help the team focus on agreeable aspects of their opinions and build unity by using relaxation techniques and common-focus team building.
+
+17.	The project is just starting out and consists of people from 14 different departments. The project charter was signed by one person and contains over 30 major requirements that must be met on the project. The sponsor has informed the project manager that the SPI must be kept between 0.95 and 1.1. A few minutes of investigation resulted in the identification of 34 stakeholders, and the schedule objectives on the project are constrained. The project manager has just been hired. Which of the following types of project management power will BEST help the project manager gain the cooperation of others?
+A.	Formal
+B.	Referent
+C.	Penalty
+D.	Expert
+
+18.	A project manager is trying to settle a dispute between two team members. One says the systems should be integrated before testing, and the other maintains each system should be tested before integration. The project involves over 30 people, and 12 systems need to be integrated. The sponsor is demanding that integration happen on time. What is the BEST statement the project manager can make to resolve the conflict?
+A.	Do it my way.
+B.	Lets calm down and get the job done.
+C.	Lets deal with this again next week after we all calm down.
+D.	Lets do limited testing before integration and finish testing after integration.
+
+19.	A project is in the middle of the executing effort when a stakeholder suggests a major new change. This change will cause the third major overhaul of the project. At the same time, the project manager discovers that a major work package was not completed because a team members boss moved him to another project that had a higher priority. Which of the following is the BEST person for the project manager to address these issues with?
+A.	The team
+B.	Senior management
+C.	The customer
+D.	The sponsor
+
+20.	What theory proposes that employees’ efforts will lead to effective performance and the employees will be rewarded for accomplishments?
+A.	Conditional reinforcement
+B.	Maslows hierarchy
+C.	McGregors
+D.	Expectancy
+
+21.	The installation project has a CPI of 1.03 and an SPI of 1.0. There are 14 team members, and each team member had input into the final project management plan. The customer has accepted the three deliverables completed so far without complaint, and the responsibility assignment matrix has not changed since the project began. The project is being completed in a matrix environment and there are no contracts needed for the project.<br>Although the sponsor is happy with the status of the project, one of the team members is always complaining about how much time his project work is taking. Which of the following would be the BEST thing for the project manager to do?
+A.	Review the reward system for the project.
+B.	Try to improve schedule performance of the project.
+C.	Meet with the customer to try to extend the schedule.
+D.	Gain formal acceptance in writing from the customer. 
+
+22.	The project has been challenging to manage. Everyone has been on edge due to pressure to complete the project on time. Unfortunately, the tension has grown to the point where team meetings have become shouting matches and little work is accomplished during the meetings. One team member asks to be excused from future team meetings, as all the shouting upsets him. Meanwhile, the sponsor has expressed interest in attending future team meetings in order to better understand how the project is going and the issues involved in completing the project, and the customer has started discussions about adding scope to the project. In this situation, it would be BEST for the project manager to:
+A.	Ask the sponsor if the information needed could be sent in a report rather than have her attend the meetings.
+B.	Inform the team member who asked to be excused from the meetings of the value of communication in such meetings.
+C.	Involve the team in creating ground rules for the meetings.
+D.	Hold a team-building exercise that involves all the team members.
+
+23.	Project performance appraisals are different from team performance assessments in that project performance appraisals focus on:
+A.	How an individual team member is performing on the project.
+B.	An evaluation of the project teams effectiveness.
+C.	A team-building effort.
+D.	Reducing the staff turnover rate.
+
+24.	A project manager had a complex problem to solve and facilitated a team decision about what needed to be done. A few months later, the problem resurfaced. What did the project manager MOST likely NOT do?
+A.	Perform proper risk analysis
+B.	Confirm the decision solved the problem
+C.	Have the project sponsor validate the decision
+D.	Use an Ishikawa diagram
+
+25.	The project cost performance index (CPI) is 1.02, the benefit cost ratio is 1.7, and the latest round of performance reviews identified few needed adjustments. The project team was colocated in a new building when the project started. Everyone commented on how excited they were to have all new facilities. The sponsor is providing adequate support for the project, and few unidentified risks have occurred. In an attempt to improve performance, the project manager spends part of the project budget on new chairs for the team members and adds the term “senior” to each team members job title. Which of the following is the MOST correct thing that can be said of this project or the project manager?
+A.	The project manager has misunderstood Herzbergs theory.
+B.	The project is slowly spending more money than it should. The project manager should begin to watch cost more carefully.
+C.	The performance review should be handled better to find more adjustments.
+D.	Tie project manager should use good judgment to determine which variances are important.
+
+26.	You just found out that a major subcontractor for your project consistently provides deliverables late. The subcontractor approaches you and asks you to continue accepting late deliverables in exchange for a decrease in project costs. This offer is an example of:
+A.	Confronting.
+B.	Compromise.
+C.	Smoothing.
+D.	Forcing.
+
+27.	The management theory that states that people can direct their own efforts is:
+A.	Theory Y.
+B.	Herzberg’s theory.
+C.	Maslow’s hierarchy.
+D.	Theory X.
+
+28.	During the first half of the project, five team members left for other projects without being replaced, two team members went on vacation without informing you, and other team members expressed uncertainty about the work they were to complete. In this situation, it is BEST if you create a	for the second half of the project.
+A.	Work breakdown structure
+B.	Resource histogram
+C.	Staffing management plan
+D.	Responsibility assignment matrix
+
+29.	The project manager is looking at the projects resource needs and lessons learned from past projects. This information causes the project manager to be concerned about the ability to acquire enough resources for the project in six months. Which of the following would be the LEAST effective preventive action?
+A.	Make sure functional managers have a copy of the resource histogram.
+B.	Show the sponsor the data, and explain the project manager’s concern.
+C.	Determine metrics to use as an early warning sign that resources will not be available.
+D.	Ask functional managers for their opinions.
+
+30.	A large project is underway when one of the team members reviews the project status report. He sees the project is currently running late. As he looks at the report further, he notices the delay will cause one of his activities to be scheduled during a time he will be out of the country and cannot work on the activity. This is of great concern to the team member because he is very committed to the success of the project and he does not want to be the cause of the project being further delayed. What is the BEST thing for him to do?
+A.	Contact the project manager immediately to provide the project manager with his schedule.
+B.	Include the information in his next report.
+C.	Request that the issue be added to the project issue log.
+D.	Recommend preventive action. 
+
+31.	There have been many work packages completed successfully on the project, and the sponsor has made some recommendations for improvements. Hie project is on schedule to meet an aggressive deadline when the successor activity to a critical path activity suffers a major setback. The activity has 14 days of float and is being completed by four people. There are two other team members with the skill set to assist the troubled activity, if needed. <br>The project manager receives a call that three other team members are attempting to be removed from the project because they do not feel the project can be successful. When the project manager pursues this, he discovers that those team members have issues that have not been addressed. Which of the following is the BEST thing to do to improve the project?
+A.	Have the team members immediately assist the troubled activity.
+B.	Investigate why the project schedule is aggressive.
+C.	See who can replace the three team members.
+D.	Create an issue log. 
+
+1.	Answer D
+Explanation When someone is given the job of project manager, he or she will have formal, reward, and penalty power. But just having the position does not make the project manager either a technical or project management expert. Expert power has to be earned.
+2.	Answer D
+Explanation This question is asking which of the FOLLOWING is the highest. Self-actualization is not listed, so the next best choice is esteem.
+3.	Answer C
+Explanation The halo effect refers to the tendency to move people into project management because they are good in their technical fields. Just because a person is good in a technical field does not mean he or she will also be a good project manager.
+4.	Answer B
+Explanation Although the sponsor may help plan some of the activities, it is not his or her exclusive duty. Some project constraints come from the sponsor, but they should be considered necessary. The project management plan is created by the team and approved by the sponsor and other management. Since the project objectives are stated in the project charter, and it is the sponsor who issues the project charter, helping to prevent unnecessary changes to project objectives is the correct answer.
+5.	Answer D
+Explanation Problem solving (also referred to as collaborating) normally takes more time, but it gets buy-in from everyone, generating a more lasting solution.
+6.	Answer B
+Explanation Know the top four sources of conflict on projects (schedules, project priorities, resources, and technical opinions) so you can answer questions such as this one. Don’t be fooled because “personality” is on the list. It is not a major cause of conflict.
+7.	Answer C
+Explanation Delaying the issue is called withdrawal.
+8.	Answer A
+Explanation The responsibility assignment matrix maps specific resources to the work packages from the WBS. On a resource histogram, the use of resources is shown individually or by groups over time.
+9.	Answer A
+Explanation The resource histogram shows the number of resources used in each time period.<br>In its pure form, a bar chart shows only activity and calendar date. The organizational chart shows who reports to whom. The responsibility assignment matrix shows who will do the work.
+10.	Answer B
+Explanation In a matrix organization, power is shared between the functional manager and the project manager, so the project manager needs to negotiate with the functional manager for the resources.
+11.	Answer B
+Explanation The project schedule remains preliminary until resource assignments are confirmed.
+12.	Answer C
+Explanation The lack of a WBS, responsibility assignment matrix, or team involvement in planning could contribute to excessively long meetings to assign resources to activities. Resource leveling refers to maintaining the same number of resources on the project for each time period and would not impact the length of meetings.
+13.	Answer B
+Explanation Reward and expert are the best types of power to use in such a circumstance.<br>Reward is not listed as a choice, and the question says the project manager has limited ability to reward the team members. Therefore, expert power is the correct answer.
+14.	Answer C
+Explanation The job of the project manager includes providing or obtaining project-specific training for team members. This kind of training may be a direct cost of the project.
+15.	Answer D
+Explanation Those involved in the problem should resolve the problem. Having had to crash the critical path several times implies that team D has already tried to deal with this problem. In this case, the two team leaders need to meet. The extent of this situation requires the project managers involvement as well.
+16.	Answer C
+Explanation Do not get confused by the wordiness of the question. Ask yourself what is the best way to resolve any conflict, and you can get the answer. Most of the situation is a distracter. Problem solving (collaborating) and compromising are the two most important conflict resolution techniques. Conflict management is a key general management skill.
+17.	Answer A
+Explanation Generally, the best forms of power are reward or expert. The project manager has not had time to become a recognized expert in the company and reward power is not included as a choice here. This leaves formal power as the only logical answer.
+18.	Answer D
+Explanation Doing limited testing before integration and finishing testing after integration is an example of compromising. This is the best way for the project manager to resolve the conflict in this situation.
+19.	Answer D
+Explanation It is the sponsors role to prevent unnecessary changes and to set priorities among projects. The situation described in this question implies that such work is not being done and the project manager must therefore go to the root of the problem: the sponsor.
+20.	Answer D
+Explanation Expectancy theory states that employees who believe their efforts will lead to effective performance and who expect to be rewarded for their accomplishments will stay productive as rewards meet their expectations.
+21.	Answer A
+Explanation Improving schedule performance relates to getting the project completed sooner. Although it would seem to be a good idea to improve schedule performance, this projects performance is fine. The schedule has been approved as it is. It would be better for the project manager to spend more time controlling the project to make sure it finishes according to plan than to improve schedule performance.<br>If you chose attempting to extend the schedule, look at the SPI. There is nothing wrong with the schedule performance of the project that would require an extension.<br>Gaining formal acceptance from the customer will need to be done, as it provides an opportunity for the team to check if everything is going well. This action will not affect the team member’s dissatisfaction, however.<br>The only real problem presented in this situation is that the team member is complaining. If you read the situation completely, you will notice that the team member was involved and approved the project management plan, including his own involvement in the project. Since the responsibility assignment matrix has not changed, the team member has not even been assigned different duties since the project began. There must be something else causing the team member to complain. The project manager should investigate and find out if the reward system is ineffective.
+22.	Answer C
+Explanation Here is a situation where all four choices could be done, but there is one BEST answer. Asking the sponsor if the information could be sent in a report does not solve the root cause of the problem described. Informing the team member of the value of communication in meetings merely dismisses the concerns of the team member and might cause anger. A team¬building exercise would take planning and so could not be done right away. Remember, the sponsor might be attending the next meeting and at least one team member might not attend because of past problems. The best thing to do would be to set up new ground rules governing team behavior and then plan a team-building exercise.
+23.	Answer A
+Explanation Questions like this can drive people crazy on the exam because it is easy to get confused. The best thing to do is to look at the two terms used here (project performance appraisals and team performance assessments) and review in your mind what each means BEFORE looking at the choices. Team performance assessments evaluate the project teams effectiveness as a whole. Project performance appraisals deal with how each team member is performing on the project.
+24.	Answer B
+Explanation Notice the phrasing of this question, “most likely NOT do.” Expect to see questions worded on the exam in ways that can cause you to misinterpret them. You will also see questions about things we forget to do in the real world. “Who has time,” you might say, “to determine if each problem is really solved?” One could respond with, “Who has time not to do this? Who has time to deal with the same problem twice?” The final steps of problem solving include: implement a decision, review it, and confirm that the decision solved the problem. 
+25.	Answer A
+Explanation The option of the project manager watching cost more closely includes the concept of cost to trick you into selecting it if you are unsure of the real answer. There is no indication that the costs are trending in any particular direction. There is no reason to think that performance reviews should turn up more adjustments. The project manager should always use good judgment but nothing in this question talks about judgment regarding variances, so this cannot be the best choice. In this situation, the project manager is making great working conditions better by buying new chairs and enhancing the team members’ titles. According to Herzberg’s theory, fixing bad working conditions will help motivate the team, but making good ones better will not improve motivation. The project manager needs to focus on the motivating agents and not the hygiene factors.
+26.	Answer B
+Explanation Both parties are giving up something. This is a compromise.
+27.	Answer A
+Explanation Theory Y is the belief that people can direct their own efforts. Know the difference between Theory X and Theory Y for the exam.
+28.	Answer C
+Explanation The resource histogram shows the resources used per time period, but would provide limited benefit in this situation. The responsibility assignment matrix cross-references resources with the activities or work packages they are to accomplish, but it does not show when they will be required to do their work. The staffing management plan describes when resources will be brought onto and taken off the project, and would provide the most benefit for this project.
+29.	Answer A
+Explanation Sending data without pointing out the issue does not mean the communication will be adequately decoded by the recipient. The other choices describe more effective communication in this instance.
+30.	Answer D
+Explanation Notice that this question asks what the team member should do. It is important for the project manager to understand the team member’s role and possibly even instruct team members on how to work on projects and what is expected of them. Providing the project manager with his schedule, including the information in a report, and requesting that the issue be added to the issue log have one thing in common. They involve the team member asking the project manager to do something. In reality, it may very well be the team member who will come up with a solution (such as decreasing the scope of the activity, fast tracking, or specific suggestions about changes to predecessor activities). Therefore, recommending preventive action is the best choice for the team member. Note that recommended corrective or preventive actions can come from the team or stakeholders in addition to the project manager. 
+31. Answer D
+Explanation Sometimes complex problems are caused by not doing simple things. The data in the first paragraph, once you read the choices, is completely extraneous. The troubled activity has float and so does not need immediate attention. It may not be necessary for additional team members to assist the troubled activity, but none of the choices suggest investigating whether the amount of float is enough to cover any delay caused by the trouble. Rather, the choices take you in different directions.<br>Investigating why the schedule is so aggressive should have been done before the project began. Replacing team members does not solve the root cause of the problem. Could there be something the project manager is doing wrong, or could be doing that he is not, that would solve the problem without losing resources? Wouldn’t it be more effective to discover the root cause of those team members’ concerns so the problem does not surface again later? The creation of an issue log will let the troubled team members know their concerns have been heard, are noted, and will be resolved. This might be enough to stop them from leaving and avoid the resultant project delays and confusion if new team members must be added.

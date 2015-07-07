@@ -1,0 +1,297 @@
+1.	Once signed, a contract is legally binding unless:
+A.	One party is unable to perform.
+B.	One party is unable to finance its part of the work.
+C.	It is in violation of applicable law.
+D.	It is declared null and void by either party’s legal counsel.
+
+2.	With a clear procurement statement of work, a seller completes work as specified, but the buyer is not pleased with the results. The contract is considered to be:
+A.	Null and void.
+B.	Incomplete.
+C.	Complete.
+D.	Waived.
+
+3.	All of the following statements concerning procurement documents are incorrect EXCEPT:
+A.	Well-designed procurement documents can simplify comparison of responses.
+B.	Procurement documents must be rigorous with no flexibility to allow consideration of seller suggestions.
+C.	In general, procurement documents should not include selection criteria.
+D.	Well-designed procurement documents do not include a procurement statement of work.
+
+4.	A project manager for the seller is told by her management that the project should do whatever possible to be awarded incentive money. The primary objective of incentive clauses in a contract is to:
+A.	Reduce costs for the buyer.
+B.	Help the seller control costs.
+C.	Synchronize objectives.
+D.	Reduce risk for the seller by shifting risk to the buyer.
+
+5.	All the following statements about change control are incorrect EXCEPT:
+A.	A fixed-price contract will minimize the need for change control.
+B.	Changes seldom provide real benefits to the project.
+C.	Contracts should include procedures to accommodate changes.
+D.	More detailed specifications eliminate the causes of changes.
+
+6.	A routine audit of a cost-reimbursable (CR) contract determines that overcharges are being made. If the contract does not specify corrective action, the buyer should:
+A.	Continue to make project payments.
+B.	Halt payments until the problem is corrected.
+C.	Void the contract and start legal action to recover overpayments.
+D.	Change the contract to require more frequent audits. 
+
+7.	The primary objective of contract negotiations is to:
+A.	Get the most from the other side.
+B.	Protect the relationship.
+C.	Get the highest monetary return.
+D.	Define objectives and stick to them
+
+8.	A seller is working on a cost-reimbursable (CR) contract when the buyer decides he would like to expand the scope of services and change to a fixed-price (FP) contract. All of the following are the sellers options EXCEPT:
+A.	Completing the original work on a cost-reimbursable basis and then negotiating a fixed price for the additional work.
+B.	Completing the original work and rejecting the additional work.
+C.	Negotiating a fixed-price contract that includes the work.
+D.	Starting over with a new contract.
+
+9.	All of the following MUST be present to have a contract EXCEPT:
+A.	A procurement statement of work.
+B.	Acceptance.
+C.	The address of the seller.
+D.	Buyers’ signatures.
+
+10.	Which of the following BEST describes the project manager’s role in the procurement process?
+A.	The project manager has only minor involvement.
+B.	The project manager should be the negotiator.
+C.	The project manager should provide an understanding of the risks of the project.
+D.	The project manager should tell the contract manager how the contracting process should be handled.
+
+11.	Which of the following activities occurs during the Plan Procurement Management process?
+A.	Make-or-buy decisions
+B.	Answering sellers’ questions about the bid documents
+C.	Advertising
+D.	Proposal evaluation
+
+12.	Which of the following is the BEST thing for a project manager to do in the Conduct Procurements process?
+A.	Evaluate risks.
+B.	Select a contract type.
+C.	Perform market research.
+D.	Answer sellers’ questions about the procurement documents. 
+
+13.	The sponsor is worried about the seller deriving extra profit on the cost plus fixed fee (CPFF) contract. Each month he requires the project manager to submit CPI calculations and an analysis of the cost to complete. The project manager explains to the sponsor that extra profits should NOT be a worry on this project because:
+A.	The team is making sure the seller does not cut scope.
+B.	All costs invoiced are being audited.
+C.	There can only be a maximum 10 percent increase if there is an unexpected cost overrun.
+D.	The fee is only received by the seller when the project is completed.
+
+14.	In a fixed-price (FP) contract, the fee or profit is:
+A.	Unknown.
+B.	Part of the negotiation involved in paying every invoice.
+C.	Applied as a line item to every invoice.
+D.	Determined with the other party at the end of the project.
+
+15.	A project performed under a cost-reimbursable contract has finally entered the Close Procurements process. What MUST the buyer remember to do?
+A.	Decrease the risk rating of the project.
+B.	Audit sellers cost submittals.
+C.	Evaluate the fee she is paying.
+D.	Make sure the seller is not adding resources.
+
+16.	The sponsor and the project manager are discussing what type of contract the project manager plans to use on the project. The sponsor points out that the performing organization spent a lot of money hiring a design team to come up with the design. The project manager is concerned that the risk for the buyer be as small as possible. An advantage of a fixed-price contract for the buyer is:
+A.	Cost risk is lower.
+B.	Cost risk is higher.
+C.	There is little risk.
+D.	Risk is shared by all parties.
+
+17.	As part of the records management system, you are trying to make sure all records from the procurement are documented and indexed. Which of the following do you NOT have to worry about?
+A.	Proposal
+B.	Procurement statement of work
+C.	Terms and conditions
+D.	Negotiation process
+
+18.	You are in the middle of a complex negotiation when the other party says, “We need to finish in one hour because I have to catch my plane.” That person is using which of the following negotiation strategies?
+A.	Good guy, bad guy
+B.	Delay
+C.	Deadline
+D.	Extreme demands 
+
+19.	Which of the following is an advantage of centralized contracting?
+A.	Increased expertise
+B.	Easier access
+C.	No home for the procurement manager
+D.	More loyalty to the project
+
+20.	With which type of contract is the seller MOST concerned about project scope?
+A.	Fixed price
+B.	Cost plus fixed fee
+C.	Time and material
+D.	Purchase order
+
+21.	Your company has an emergency and needs contracted work done as soon as possible. Under these circumstances, which of the following would be the MOST helpful to add to the contract?
+A.	A clear procurement statement of work
+B.	Requirements as to which subcontractors can be used
+C.	Incentives
+D.	A force majeure clause
+
+22.	During which procurement processes does procurement negotiation occur?
+A.	Plan Procurement Management and Close Procurements
+B.	Control Procurements and Close Procurements
+C.	Conduct Procurements and Control Procurements
+D.	Conduct Procurements and Close Procurements
+
+23.	The project team is arguing about the prospective sellers who have submitted proposals. One team member argues for a certain seller while another team member wants the project awarded to a different seller. What part of the procurement process is the team in?
+A.	Plan Procurement Management
+B.	Control Procurements
+C.	Negotiate Contracts
+D.	Conduct Procurements
+
+24.	A project manager is in the middle of creating a request for proposal (RFP). What part of the procurement process is he in?
+A.	Conduct Procurements
+B.	Plan Procurement Management
+C.	Administer Procurements
+D.	Make-or-Buy Analysis 
+
+25.	Your program manager has come to you, the project manager, for help with a bid for her newest project. You want to protect your company from financial risk, and you have limited scope definition. What is the BEST type of contract to choose?
+A.	Fixed price (FP)
+B.	Cost plus percentage of cost (CPPC)
+C.	Time and material (T&M)
+D.	Cost plus fixed fee (CPFF)
+
+26.	Negotiations between two parties are becoming complex, so Party A makes some notes that both parties sign. However, when the work is being done, Party B claims they are not required to provide an item they both agreed to during negotiations, because it was not included in the subsequent contract. In this case, party B is:
+A.	Incorrect, because both parties must comply with what they agreed on.
+B.	Correct, because there was an offer.
+C.	Generally correct, because both parties are only required to perform what is in the contract.
+D.	Generally incorrect, because all agreements must be upheld.
+
+27.	Your project has just been fast tracked and you are looking to quickly bring in a subcontractor to complete networking. There is no time to issue a request for proposal (RFP), so you choose to use a company you have used many times before for software development. A PRIMARY concern in this situation is:
+A.	Collusion between subcontractors.
+B.	The subcontractors qualifications.
+C.	The subcontractor’s evaluation criteria.
+D.	Holding a bidder conference.
+
+28.	The project manager and project sponsor are discussing the project costs and whether it is better to have their own company do part of the project or hire another company to do the work. If they asked for your opinion, you might say it would be better to do the work yourself if:
+A.	There is a lot of proprietary data.
+B.	You have the expertise but you do not have the available manpower.
+C.	You do not need control over the work.
+D.	Your company resources are limited.
+
+29.	After much excitement and hard work, the procurement statement of work for the project is completed. Even after gaining agreement that the procurement statement of work is complete, the project manager is still unsure of whether it actually addresses all the buyers needs. The project manager is about to attend the bidder conference. He asks you for advice on what to do during the session. Which of the following is the BEST advice you can give him?
+A.	You do not need to attend this session. The procurement manager will hold it.
+B.	Make sure you negotiate project scope.
+C.	Make sure you give all the sellers the opportunity to ask questions.
+D.	Let the project sponsor handle the meeting so you can be the good guy in the negotiation session. 
+
+30.	A seller is awarded a contract to build a pipeline. The contract terms and conditions require a work plan to be issued for the buyer’s approval prior to commencing work, but the seller fails to provide one. Which of the following is the BEST thing for the buyers project manager to do?
+A.	File a letter of intent.
+B.	Develop the work plan and issue it to the seller to move things along.
+C.	Issue a default letter.
+D.	Issue a stop work order to the seller until a work plan is prepared.
+
+31.	Close Procurements is different from Close Project or Phase in that Close Procurements:
+A.	Occurs before Close Project or Phase.
+B.	Is the only one to involve the customer.
+C.	Includes the return of property.
+D.	May be done more than once for each contract.
+
+32.	You have just started work on a procurement when management decides to terminate the contract. What should you do FIRST?
+A.	Go back to the Plan Procurement Management process.
+B.	Go back to the Conduct Procurements process.
+C.	Finish the Control Procurements process.
+D.	Go to the Close Procurements process.
+
+33.	The project team is arguing about the prospective sellers who have submitted proposals. One team member argues for a certain seller while another team member wants the project to be awarded to a different seller. The BEST thing the project manager should remind the team to focus on in order to make a selection is the:
+A.	Procurement documents.
+B.	Procurement audits.
+C.	Source selection criteria.
+D.	Procurement management plan.
+
+34.	The performing organization is trying to decide whether to split the procurement department and assign procurement responsibilities to departments directly responsible for the projects.<br>A procurement professional might not want this split to occur because he or she would lose 	in a decentralized contracting environment.
+A.	Standardized company project management practices
+B.	Royalty to the project
+C.	Experience
+D.	Access to others with similar expertise
+
+35.	Your project team member delivers a project deliverable to the buyer. However, the buyer refuses the deliverable, stating it does not meet the requirement on page 300 of the technical specifications. You review the document and find that you agree. What is the BEST thing to do?
+A.	Explain that the contract is wrong and should be changed.
+B.	Issue a change order.
+C.	Review the requirements and meet with the responsible team member to review the WBS dictionary.
+D.	Call a meeting of the team to review the requirement on page 300. 
+
+36.	What type of contract do you NOT want to use if you do not have enough labor to audit invoices?
+A.	Cost plus fixed fee (CPFF)
+B.	Time & material (T&M)
+C.	Fixed price (FP)
+D.	Fixed price incentive fee (FPIF)
+
+37.	A new project manager is about to begin creating the procurement statement of work. One stakeholder wants to add many items to the procurement statement of work. Another stakeholder only wants to describe the functional requirements. The project is important for the project managers company, but a seller will do the work. Flow would you advise the project manager?
+A.	The procurement statement of work should be general to allow the seller to make their own decisions.
+B.	The procurement statement of work should be general to allow for clarification later.
+C.	The procurement statement of work should be detailed to allow for clarification later.
+D.	The procurement statement of work should be as detailed as necessary for the type of project. 
+
+1.	Answer C
+Explanation Once signed, a contract is binding. Generally, the inability to perform or get financing, or one party’s belief that the contract is null and void does not change the fact that the contract is binding. If, however, both sides agree to terminate the contract, the contract can move into the Close Procurements process.
+2.	Answer C
+Explanation If the seller completes the work specified in the procurement statement of work, the contract is considered complete. That does not mean the same thing as the procurement being closed. The Close Procurements process must still occur. However, in this situation, the contract work is completed.
+3.	Answer A
+Explanation Often the seller is required to inform the buyer of anything that is missing or unclear in the procurement documents. It is in the buyer’s best interest to discover missing items, since it will save the buyer money and trouble to correct the problem early. Procurement documents must contain terms and conditions and selection criteria, as well as documentation of all the work that is to be done (which includes the procurement statement of work). This is so the seller can price the project and know what is most important to the buyer. Well-designed procurement documents can simplify comparison of responses. This is an important point and is the best answer.
+4.	Answer C
+Explanation Incentives are meant to bring the objectives of the seller in line with those of the buyer, so both are progressing toward the same objective.
+5.	Answer C
+Explanation There are always good ideas (changes) that can add benefit to the project, regardless of the contract type. Although detailed specifications may reduce the need for changes, they do not eliminate the causes. Contracts should include procedures to accommodate changes.
+6.	Answer A
+Explanation Halting all payments would be a breach of contract on the buyer’s part. Voiding the contract and beginning legal action is too severe and cannot be done unilaterally. Changing the contract to require more frequent audits does not solve the problem presented. A choice that said, “Halt payments on the disputed amount” would probably be the best answer, but it is not offered. The best choice available is to continue to make the payments.
+7.	Answer B
+Explanation As a project manager, you want to develop a good relationship during negotiations that will last throughout the project. Negotiations are not about getting the most from the other side (win-lose), as such actions will not create a good relationship. That doesn’t mean the buyer sacrifices doing wrhat is best for the organization.
+8.	Answer D
+Explanation The seller can try to negotiate change or simply continue the original contract and refuse requests to complete additional work, but the seller cannot unilaterally decide to start over with a new contract. Both parties have to agree to this option through negotiations.
+9.	Answer C
+Explanation Many people miss the fact that a contract includes a procurement statement of work. To have a contract, you must also have acceptance. One set of signatures is not enough; you must have sign-off (i.e., acceptance) from both parties, not just from the buyer. The address of the seller is not required, and therefore is the exception.
+10.	Answer C
+Explanation The project manager knows the project risks. He or she needs to make sure provisions are included in the contract to address these risks.
+11.	Answer A
+Explanation Answering sellers’ questions, advertising, and proposal evaluation occur during the Conduct Procurements process. Make-or-buy decisions are made earlier, in the Plan Procurement Management process.
+12.	Answer D
+Explanation Risk analysis is done before the Conduct Procurements process begins, as procurement is a risk mitigation and transference tool. Selecting a contract type is part of Plan Procurement Management. Market research is also performed in the Plan Procurement Management process, to enable selection of the appropriate sellers for the needs of the project. During the Conduct Procurements process, the project manager answers questions submitted by prospective sellers.
+13.	Answer B
+Explanation Cutting scope decreases profits on this type of contract, so that would not be a way for the seller to generate extra profits. CPFF contracts generally do not limit fee increases, and the fee in a CPFF contract is usually paid out on a continuous basis during the life of the project. One of the ways to change the profit in a cost plus fixed fee contract is to invoice for items not chargeable to the project. Therefore, all invoiced costs should be audited.
+14.	Answer A
+Explanation The fee or profit is known to the seller, but this question is asked from the buyer’s perspective. The buyer does not know what profit the seller included in the contract.
+15.	Answer B
+Explanation Although a reserve might be decreased for the project overall when one of its procurements enters closure, the risk rating of the project is generally not affected. Evaluation of the fee should have been done during the Conduct Procurements process. Making sure the seller does not add resources may be a concern during the Control Procurements process, but it is not common during Close Procurements. Auditing the seller’s cost submittals is a required aspect of the Close Procurements process.
+16.	Answer A
+Explanation If you had trouble with this one, you need to remember that the questions are asked from the buyer’s perspective unless otherwise noted. The seller has the most cost risk in a fixed- price contract, and the buyer’s risk is lower.
+17.	Answer D
+Explanation To answer this question, you need to know what a records management system is and that it would not be used to keep track of negotiations. The negotiation process is not a document. The proposal, procurement statement of work, and the contract terms and conditions are all records that need to be documented and indexed. 
+18.	Answer C
+Explanation Putting a time limit on the negotiation is an example of a deadline negotiation strategy.
+19.	Answer A
+Explanation Centralized contracting usually means it is more difficult to get access to the procurement manager, and the procurement manager has less loyalty to the project. The fact that the procurement manager has no home when he or she is not working on a project is a disadvantage of decentralized contracting. Increased expertise of the procurement manager is an advantage of centralized contracting.
+20.	Answer A
+Explanation In a fixed-price contract, the seller has the cost risk and therefore wants to completely understand the procurement statement of work before bidding.
+21.	Answer C
+Explanation If you follow the proper project management process, you ALWAYS have good definition of scope (in this case, the procurement statement of work). In this situation, both good scope definition and incentives are required. Along with good scope definition, you need the seller to share your need for speed. Incentives bring the seller’s objectives in line with the buyers and thus would be the MOST helpful. Good scope definition alone does not ensure speed.
+22.	Answer D
+Explanation Negotiation occurs during the Conduct Procurements process as part of the effort to create a contract or agreement that is approved by both the buyer and the seller. Negotiation also occurs in the Close Procurements process to settle any outstanding disputes.
+23.	Answer D
+Explanation Selected sellers are an output of the Conduct Procurements process.
+24.	Answer D
+Explanation The procurement documents are created during the Plan Procurement Management process. The request for proposal is one of those documents, so the project manager is in the Plan Procurement Management process.
+25.	Answer D
+Explanation Of the options given, the only contract that limits fees for large projects with limited scope definition is cost plus fixed fee.
+26.	Answer C
+Explanation Party B is only required to deliver what is defined in the contract.
+27.	Answer B
+Explanation Although you have used this contractor before, how can you be sure the company is qualified to do the new work, since it is not exactly like the previous work? This is the risk you are taking.
+28.	Answer A
+Explanation It is generally better to do the work yourself if using an outside company means you have to turn over proprietary data to the other company. 
+29.	Answer C
+Explanation The project manager should attend the bidder conference, although the procurement manager may lead it. Did you select negotiating scope? Sellers may ask questions about scope during the conference, but negotiations occur after the seller is selected. Allowing ample opportunity for all of the prospective sellers to ask questions is one of the many challenges of a bidder conference. They may not want to ask questions while their competitors are in the room.
+30.	Answer C
+Explanation When a seller does not perform according to the contract terms and conditions, they have defaulted and the project manager must take action. You might prefer a choice to investigate the default by contacting the seller and asking what is going on, but that choice is not available here. You must send the formal written notice as soon as you become aware of the default so that you do not give up any right to receive the work plan in the future. You can contact the seller for a discussion as the second thing you do. Therefore, the best choice is to let the seller know they are in default. The default notification letter will instruct the seller to meet the performance requirement.
+31.	Answer A
+Explanation The customer may be involved in lessons learned and procurement audits, and would certainly be involved in formal acceptance. Both Close Procurements and Close Project or Phase involve the return of property. Close Procurements is done once for each procurement, at the end of the contract. All procurements are closed before the project is closed.
+32.	Answer D
+Explanation If the contract is terminated, the procurement needs to enter closure. The results of the procurement and its documentation are archived as historical records in the Close Procurements process.
+33.	Answer C
+Explanation The source selection criteria is the primary tool for evaluating potential sellers and should be used by the team in order to make a selection.
+34.	Answer D
+Explanation The change would not impact the organizations overall project management practices, only procurement. Loyalty to the project would be gained, not lost, in a decentralized environment, as the procurement manager is part of the project team. In a decentralized procurement environment, there is less focus on maintaining the skill or expertise of the contracting function, and access to other procurement professionals with comparable expertise would be reduced.
+35.	Answer C
+Explanation This question is written from the perspective of the seller. The contract could be wrong, or the customer could be wrong, but this should have been discovered earlier if proper project management was followed. A seller cannot issue a change order (although they could request one). Did you select calling a meeting of the team? If so, remember that project management is not about making every decision with ALL the team members. The best choice involves reviewing the requirements documentation and meeting with the appropriate team member. If such a problem has arisen, it could mean something was wrong in the WBS dictionary or in how the team member completed the work. 
+36.	Answer A
+Explanation If you got this question wrong, reread it. You need to audit invoices in all contract types, so how do you choose? Look for the answer that is BEST. In this case, it would be the choice that requires the greatest effort.
+A T&M contract should be used for low dollar and short duration contracts (remember that a T&M contract has no incentive to finish), so it does not have a high level of risk. FP and FPIF contracts cannot be best, because the risk to the buyer is limited. The buyer is still only going to pay the contracted price. In a CPFF contract, the buyer pays all costs. The seller could be charging the buyer for costs that should not be allocated to the buyer. Because of the size and dollar amount of this type of contract, and because the risk to the buyer is great, a CPFF contract requires the most auditing. In this case, you would not want to use a CPFF contract.
+37.	Answer D
+Explanation When the seller has more expertise than the buyer, the procurement statement of work should describe performance or function rather than a complete list of work. In any case, the procurement statement of work should be as detailed as possible.
